@@ -83,8 +83,14 @@ Licht toe op welke manier je AI gebruikte in dit project.
 * User testing wave 2 (N=x)
   * [Protocol](url)
   * [Rapport](url)
- 
-## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
+## Licentie
+This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
+
+* Software and code are released under the MIT License  
+* Design files, reports, visuals, and videos are released under Creative Commons Attribution 4.0 International (CC BY 4.0)
+  
+You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
+
+## Bronnen
  [^1]: Thomas, T., & Ritter, A. (2022, juni). _Wandering & sundowning in dementia_. Practical Neurology, 21(3), 36–39, 44.
