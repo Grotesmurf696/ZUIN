@@ -1,13 +1,18 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+# ZUIN
+*ZUIN helpt kinderen en ouders meer te weten te komen en bevorderd communicatie over energieverbruik in huis* 
 
-🛠️ Built by ``Naam 1`` & ``Naam 2``   
+🛠️ Built by ``Sam Verkimpe``  & ``Maxim Depever`` & ``Jitse Van Laer ``  
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*Dag/Maand/Jaar van de laatste update*   
+*Latest update: 18/11/2025*   
 
-## Samenvatting
+## General overview
+ZUIN is een systeem van interactieve producten voor kinderen, interfaces voor de ouders en meetapperatuur voor jouw huis. 
+
+Het bevorderd de kennis over energieverbruik bij kinderen, terwijl ze op een speelse en interactieve manier zuinig leren vebruiken. Ook initieerd het de interactie tussen ouder en kind om zo ook hun een steentje te laten bijdragen.
+
+Kinderen weten vaak niet hoe energieverbruik echt in elkaar zit en welk aparaat nu het meeste verbruikt. Niet alleen de kinderen maar ook de ouders weten niet dat hun dagelijkse routines soms roet in het energieverbruik gooit. 
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
 - Wat is het probleem?
