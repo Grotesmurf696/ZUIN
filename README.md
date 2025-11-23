@@ -10,7 +10,7 @@
 ## General overview
 ZUIN is een systeem van interactieve producten voor kinderen, interfaces voor de ouders en meetapperatuur voor jouw huis. 
 
-Het bevorderd de kennis over energieverbruik bij kinderen, terwijl ze op een speelse en interactieve manier zuinig leren vebruiken. Ook initieerd het de interactie tussen ouder en kind om zo ook hun een steentje te laten bijdragen.
+Het bevordert de kennis over energieverbruik bij kinderen, terwijl ze op een speelse en interactieve manier zuinig leren vebruiken. Ook initieerd het de interactie tussen ouder en kind om zo ook hun een steentje te laten bijdragen.
 
 Kinderen weten vaak niet hoe energieverbruik echt in elkaar zit en welk aparaat nu het meeste verbruikt. Niet alleen de kinderen maar ook de ouders weten niet dat hun dagelijkse routines soms roet in het energieverbruik gooit. 
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
