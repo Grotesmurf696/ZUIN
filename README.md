@@ -37,6 +37,37 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 4. [Design Requirements](./docs/design_requirements.md)
 5. [Bill of materials](./docs/bom.md)
 
+## 1. Methodologie
+## 2. Discovery
+## 3. Definition
+**Doelstellingen**
+> ❔Hoe zorg je ervoor dat kinderen blijven spelen met het speelgoed, en dit niet direct beu zijn?
+>     * Met wat voor speelgoed spelen kinderen?
+>     * Wat willen kinderen graag dat hun speelgoed kan?
+
+**Materiaal en methoden**
+De definition-fase werd gestart met een sprintday, waarop dieper werd ingegaan op de feedback van de discovery-fase. Er werd een storyboard opgesteld, om een duidelijker zicht te krijgen op het doel van het product. Het product maakt kinderen op een speelse manier bewust over het alledaagse verbruik in huis, en motiveert ze om een steentje bij te dragen aan het verminderen ervan. 
+
+*foto storyboard*
+
+Vervolgens werd dit idee fysiek uitgewerkt door drie quick and dirty prototypes. 
+  * **Beer** : Deze knuffelbeer heeft een scherm geïntegreerd in de buik, waar de interface op kan verschijnen.
+  * **Horloge** : Deze slimme horloge werkt buitenshuis als een normale horloge waar enkel de tijd op gezien kan worden. Vanaf de horloge thuis komt, zal er een ledje branden om aan te geven of er veel wordt verbruikt. Op                     het scherm zelf zal een interface komen.
+  * **Tamagotchi** : Dit apparaatje is een compacte console waarop de interface te zien is.
+
+*foto prototypes*
+
+> Wave 1 : user-testing (N=...)
+In de eerste wave van de definition-fase werd onderzocht welk speelgoed kinderen aanspreekt. Op dag van de wetenschap werd een standje opgezet met de drie prototypes. Gezinnen konden hier vrijwillig deelnemen aan een kort interview. Er werden zowel jongens als meisjes geïnterviewd uit de lagere school.
+
+*foto interview*
+
+**Resultaten** 
+
+
+
+
+
 ## Kritische reflectie
 Max. 500 woorden
 
