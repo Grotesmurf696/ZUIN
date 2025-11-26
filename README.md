@@ -42,8 +42,9 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 ## 3. Definition
 **Doelstellingen**
 > ❔Hoe zorg je ervoor dat kinderen blijven spelen met het speelgoed, en dit niet direct beu zijn?
->     * Met wat voor speelgoed spelen kinderen?
->     * Wat willen kinderen graag dat hun speelgoed kan?
+>
+>       - Met wat voor speelgoed spelen kinderen?
+>       - Wat willen kinderen graag dat hun speelgoed kan?
 
 **Materiaal en methoden**
 De definition-fase werd gestart met een sprintday, waarop dieper werd ingegaan op de feedback van de discovery-fase. Er werd een storyboard opgesteld, om een duidelijker zicht te krijgen op het doel van het product. Het product maakt kinderen op een speelse manier bewust over het alledaagse verbruik in huis, en motiveert ze om een steentje bij te dragen aan het verminderen ervan. 
