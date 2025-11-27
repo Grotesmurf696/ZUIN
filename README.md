@@ -37,16 +37,18 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 4. [Design Requirements](./docs/design_requirements.md)
 5. [Bill of materials](./docs/bom.md)
 
-## 1. Methodologie
-## 2. Discovery
-## 3. Definition
-**Doelstellingen**
+## Methodologie
+## Discovery
+## Definition 1
+
+### Doelstellingen
 > ❔Hoe zorg je ervoor dat kinderen blijven spelen met het speelgoed, en dit niet direct beu zijn?
 >
 >       - Met wat voor speelgoed spelen kinderen?
 >       - Wat willen kinderen graag dat hun speelgoed kan?
 
-**Materiaal en methoden**
+### Materiaal en methoden
+
 De definition-fase werd gestart met een sprintday, waarop dieper werd ingegaan op de feedback van de discovery-fase. Er werd een storyboard opgesteld, om een duidelijker zicht te krijgen op het doel van het product. Het product maakt kinderen op een speelse manier bewust over het alledaagse verbruik in huis, en motiveert ze om een steentje bij te dragen aan het verminderen ervan. 
 
 *foto storyboard*
@@ -56,20 +58,33 @@ Vervolgens werd dit idee fysiek uitgewerkt door drie quick and dirty prototypes.
   * **Horloge** : Deze slimme horloge werkt buitenshuis als een normale horloge waar enkel de tijd op gezien kan worden. Vanaf de horloge thuis komt, zal er een ledje branden om aan te geven of er veel wordt verbruikt. Op                     het scherm zelf zal een interface komen.
   * **Tamagotchi** : Dit apparaatje is een compacte console waarop de interface te zien is.
 
-<p align="left">
-  <img src="img/prototype1" width="80%">
-  <img src="img/prototype2" width="80%">
-</p>
+*foto prototypes* 
 
-> Wave 1 : user-testing (N=...)
-In de eerste wave van de definition-fase werd onderzocht welk speelgoed kinderen aanspreekt. Op dag van de wetenschap werd een standje opgezet met de drie prototypes. Gezinnen konden hier vrijwillig deelnemen aan een kort interview. Er werden zowel jongens als meisjes geïnterviewd uit de lagere school.
+
+
+
+
+
+
+#### Wave 1 : user-testing (N=5)
+> In de eerste wave van de definition-fase werd onderzocht welk speelgoed kinderen aanspreekt. Op dag van de wetenschap werd een standje opgezet met de drie prototypes. Gezinnen konden hier vrijwillig deelnemen aan een kort interview. Er werden zowel jongens als meisjes geïnterviewd uit de lagere school.
 
 *foto interview*
 
-**Resultaten** 
+### Resultaten 
+
+Uit de interviews blijkt dat zowel kinderen als ouders duidelijk waarde zien in een speels en visueel systeem dat kinderen stimuleert om bewuster met energie om te gaan. Het prototype van het horloge komt hierbij het sterkst naar voren als favoriet. Kinderen verkiezen dit omdat het draagbaar is, altijd bij hen blijft en directe feedback geeft via kleuren, eilandjes en LED-effecten. Voor kinderen die meer spelgericht zijn, blijft een speelconsole/Tamagotchi-achtige oplossing aantrekkelijk, vooral door het spel- en verzorgelement. De beer is daarentegen het minst populair en wordt slechts overwogen wanneer het concept minder dierlijk en meer technisch (robotachtig) wordt vormgegeven.
+
+De belangrijkste functie die kinderen motiveert, is visuele en speelse feedback: kleurveranderingen, brandende of gelukkige eilandjes, LED-lichtjes en kleine beloningen. De gamification zorgt ervoor dat kinderen actief willen helpen en zelfs hun ouders aanspreken op energiegebruik. Extra fun-elementen zoals personalisatie, spelletjes en geluid versterken deze motivatie.
+
+Ouders staan positiever tegenover het educatieve doel van het concept dan tegenover het fysieke product zelf. Koopbereidheid is beperkt, vooral door bezorgdheden rond afval, prijs en onnodige hardware. Velen zien meer in een app- of hybride oplossing, waarbij hardware minimaal blijft. Ze vinden het essentieel dat het systeem eenvoudig, duurzaam en niet overladen met smart functies is. Feedback zoals kleur, trilling of subtiel geluid is gewenst, maar zonder overmatige notificaties of straling.
+
+Samengevat tonen de interviews aan dat een draagbaar, visueel en spel-georiënteerd ontwerp het meest kans maakt om kinderen te engageren, terwijl ouders vooral eenvoud, duurzaamheid en educatieve waarde verwachten. Een horloge met spelelementen, eventueel gekoppeld aan een app, lijkt de meest beloftevolle richting om beide groepen te overtuigen.
+
+### Conclusies & implicaties
 
 
-
+## Definition 2
 
 
 ## Kritische reflectie
