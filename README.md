@@ -56,7 +56,10 @@ Vervolgens werd dit idee fysiek uitgewerkt door drie quick and dirty prototypes.
   * **Horloge** : Deze slimme horloge werkt buitenshuis als een normale horloge waar enkel de tijd op gezien kan worden. Vanaf de horloge thuis komt, zal er een ledje branden om aan te geven of er veel wordt verbruikt. Op                     het scherm zelf zal een interface komen.
   * **Tamagotchi** : Dit apparaatje is een compacte console waarop de interface te zien is.
 
-*foto prototypes*
+<p align="left">
+  <img src="img/prototype1" width="80%">
+  <img src="img/prototype2" width="80%">
+</p>
 
 > Wave 1 : user-testing (N=...)
 In de eerste wave van de definition-fase werd onderzocht welk speelgoed kinderen aanspreekt. Op dag van de wetenschap werd een standje opgezet met de drie prototypes. Gezinnen konden hier vrijwillig deelnemen aan een kort interview. Er werden zowel jongens als meisjes geïnterviewd uit de lagere school.
