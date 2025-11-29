@@ -33,13 +33,24 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 1. [Methodologie](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
-3. [Defintion](./docs/definition.md)
+3. [Definition](./docs/definition.md)
 4. [Design Requirements](./docs/design_requirements.md)
 5. [Bill of materials](./docs/bom.md)
 
 ## Methodologie
+In dit onterwerpproces werd het **Tripel Diamond model gevolgd**. Hierin stelt de eerste diamond de **discovery-fase** voor, de tweede diamond staat voor de **definition-fase** en de derde diamond wordt in het tweede semester uitgewerkt als een **develop- en deliver-fase**.
+
+*foto tripel diamond*
+
+### 1. Discover
+In de eerste fase wordt er opzoek gegaan naar het probleem. 
+......................
+
+### 2. Definition
+De tweede fase van het onterwerpproces staat centraal rond het vinden van de juiste oplossing. In twee waves worden prototypes iteratief ontworpen en geëvalueerd. Deze fase start met het maken van een **storyboard**, om zo het doel van het product te visualiseren. In **wave 1** worden 3 prototypes getest door middel van een **user feedback sessions** en **dot-voting**. Verder werkend op de verkregen kennis uit wave 1, start **wave 2**. Hier worden mogelijke interfaces getoond, en werd via **....** gekeken welke interface het meest intuïtief werkt voor kinderen.  
+
 ## Discovery
-## Definition 1
+## Definition 1 
 
 ### Doelstellingen
 > ❔Hoe zorg je ervoor dat kinderen blijven spelen met het speelgoed, en dit niet direct beu zijn?
@@ -60,7 +71,7 @@ Vervolgens werd dit idee fysiek uitgewerkt door drie quick and dirty prototypes.
 
 *foto prototypes* 
 
-
+Er werd gebeld met een expert vanuit Comon, die tips geeft over het ontwerpen voor kinderen en de manier van interviewen. .....
 
 
 
@@ -79,12 +90,25 @@ De belangrijkste functie die kinderen motiveert, is visuele en speelse feedback:
 
 Ouders staan positiever tegenover het educatieve doel van het concept dan tegenover het fysieke product zelf. Koopbereidheid is beperkt, vooral door bezorgdheden rond afval, prijs en onnodige hardware. Velen zien meer in een app- of hybride oplossing, waarbij hardware minimaal blijft. Ze vinden het essentieel dat het systeem eenvoudig, duurzaam en niet overladen met smart functies is. Feedback zoals kleur, trilling of subtiel geluid is gewenst, maar zonder overmatige notificaties of straling.
 
-Samengevat tonen de interviews aan dat een draagbaar, visueel en spel-georiënteerd ontwerp het meest kans maakt om kinderen te engageren, terwijl ouders vooral eenvoud, duurzaamheid en educatieve waarde verwachten. Een horloge met spelelementen, eventueel gekoppeld aan een app, lijkt de meest beloftevolle richting om beide groepen te overtuigen.
-
 ### Conclusies & implicaties
+Een draagbaar, visueel en spel-georiënteerd ontwerp maakt het meest kans om kinderen te engageren, terwijl ouders vooral eenvoud, duurzaamheid en educatieve waarde verwachten. Een horloge met spelelementen, eventueel gekoppeld aan een app, lijkt de meest beloftevolle richting om beide groepen te overtuigen.
+
+> ❗Design requirements
+>
+> - 2.1
+> - 2.2
+> - 2.3
+> - .....
 
 
 ## Definition 2
+
+### Doelstellingen
+> ❔Hoe 
+>
+>       - Met wat voor speelgoed spelen kinderen?
+>       - Wat willen kinderen graag dat hun speelgoed kan?
+
 
 
 ## Kritische reflectie
