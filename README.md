@@ -5,7 +5,7 @@
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*Latest update: 18/11/2025*   
+*Latest update: 12/12/2025*   
 
 ## General overview
 ZUIN is een systeem van interactieve producten voor kinderen, interfaces voor de ouders en meetapperatuur voor jouw huis. 
@@ -13,13 +13,8 @@ ZUIN is een systeem van interactieve producten voor kinderen, interfaces voor de
 Het bevordert de kennis over energieverbruik bij kinderen, terwijl ze op een speelse en interactieve manier zuinig leren vebruiken. Ook initieerd het de interactie tussen ouder en kind om zo ook hun een steentje te laten bijdragen.
 
 Kinderen weten vaak niet hoe energieverbruik echt in elkaar zit en welk aparaat nu het meeste verbruikt. Niet alleen de kinderen maar ook de ouders weten niet dat hun dagelijkse routines soms roet in het energieverbruik gooit. 
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image, vb.
+Aan het midden van ZUIN ligt het horloge. Dit horloge is gemaakt voor kinderen. Het horloge wordt gebruikt als normaal uurwerk doorheen de dag, maar wanneer de kinderen thuis komen krijgt dit horloge een extra functie. Een virtuele en speelse interface waardat op een overzichtelijke manier een beeld wordt geschept van het ogenbllikkelijk energieverbruik in huis.
 <p align="center">
   <img src="img\Eerste_Prototypes.JPG" width="80%">
 </p>
@@ -70,8 +65,14 @@ Vervolgens werd dit idee fysiek uitgewerkt door drie quick and dirty prototypes.
   * **Horloge** : Deze slimme horloge werkt buitenshuis als een normale horloge waar enkel de tijd op gezien kan worden. Vanaf de horloge thuis komt, zal er een ledje branden om aan te geven of er veel wordt verbruikt. Op                     het scherm zelf zal een interface komen.
   * **Tamagotchi** : Dit apparaatje is een compacte console waarop de interface te zien is.
 
-*foto prototypes* 
-
+<p align="center">
+  <img src="img\Beer.JPG" width="45%">
+  <img src="img\Tamagotchi.JPG" width="45%">
+</p>
+<p align="left">
+  <img src="img\Tamagotchi_alleen.JPG" width="45%">
+  <img src="img\Display Ouders.JPG" width="45%">
+</p>
 Om wave 1 vlot te kunnen starten, werd er gebeld met een expert vanuit Comon. Hier werd afgetoetst wat de goede leeftijdscategorie is voor onze doelgroep. Hij vertelde dat kinderen vanaf 5 jaar al gehoord hebben van het begrip energieverbruik. De doelgroep werd dus gedefineerd op kinderen van de lagere school (5 - 12 jaar). 
 Verder vertelde hij dat gemification slechts werkt voor 2-4 weken. Hij raadde aan om een betekenisvolle interactie (zoals feedback) te creëren. 
 Kinderen houden van dingen die veranderen, verrassen en verhalend zijn. 
@@ -81,7 +82,12 @@ Kinderen houden van dingen die veranderen, verrassen en verhalend zijn.
 > #### Wave 1 : user feedback sessions (N=5)
 > In de eerste wave van de definition-fase werd onderzocht welk speelgoed kinderen aanspreekt. Op dag van de wetenschap werd een standje opgezet met de drie prototypes. Gezinnen konden hier vrijwillig deelnemen aan een kort interview. Er werden zowel jongens als meisjes geïnterviewd uit de lagere school.
 > 
-> *foto interview*
+> <p align="center">
+  <img src="img\Eerste_Prototypes.JPG" width="45%">
+  <img src="img\Eerste_Prototypes.JPG" width="45%">
+</p>
+
+
 
 Vervolgens werd de interface van het product bepaald. Dit werd in op verschillende manieren Figma uitgewerkt. 
 
