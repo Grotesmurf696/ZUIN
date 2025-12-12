@@ -69,7 +69,7 @@ Vervolgens werd dit idee fysiek uitgewerkt door drie quick and dirty prototypes.
   <img src="img\Beer.JPG" width="45%">
   <img src="img\Tamagotchi.JPG" width="45%">
 </p>
-<p align="left">
+<p align="center">
   <img src="img\Tamagotchi_alleen.JPG" width="45%">
   <img src="img\Display Ouders.JPG" width="45%">
 </p>
@@ -116,12 +116,38 @@ Ouders staan positiever tegenover het educatieve doel van het concept dan tegeno
 ### Conclusies & implicaties
 Een draagbaar, visueel en spel-georiënteerd ontwerp maakt het meest kans om kinderen te engageren, terwijl ouders vooral eenvoud, duurzaamheid en educatieve waarde verwachten. Een horloge met spelelementen, eventueel gekoppeld aan een app, lijkt de meest beloftevolle richting om beide groepen te overtuigen.
 
-> ❗Design requirements
->
-> - 2.1
-> - 2.2
-> - 2.3
-> - .....
+
+# PRD-ZUIN
+
+| **ID** | **Design requirement**                                                   | **Bron**              | **Datum**     |
+|--------|--------------------------------------------------------------------------|------------------------|---------------|
+| **Groep 1: Educatie en bewustwording** | | | |
+| 1.1    | Het product moet kinderen inzicht geven in energieverbruik op een speelse manier | Userinterview Wave 1 | 23/11/2025 |
+| 1.2    | Feedback moet aantonen in welke kamer er veel verbruikt wordt           | Userinterview Wave 1 | 23/11/2025 |
+| 1.3    | Het systeem moet ouders stimuleren om samen met kinderen energie te besparen | Userinterview Wave 1 | 23/11/2025 |
+| 1.4    | Het product moet educatieve waarde hebben en bijdragen                  | Userinterview Wave 1 | 23/11/2025 |
+| **Groep 2: Gamification en motivatie** | | | |
+| 2.1    | Het product moet visuele spelementen bevatten                           | Userinterview Wave 1 | 23/11/2025 |
+| 2.2    | Er moet positieve feedback worden gegeven                               | Userinterview Wave 1 | 23/11/2025 |
+| 2.3    | Het product moet kinderen motiveren door emotionele elementen           | Userinterview Wave 1 | 23/11/2025 |
+| 2.4    | Personalisatie moet mogelijk zijn in de interface                       | Userinterview Wave 1 | 23/11/2025 |
+| 2.5    | Moet extra fysieke triggers bevatten                                    | Userinterview Wave 1 | 23/11/2025 |
+| **Groep 3: Hardware en Duurzaamheid** | | | |
+| 3.1    | Het product moet draagbaar zijn                                         | Userinterview Wave 1 | 23/11/2025 |
+| 3.2    | Het product moet eenvoudig zijn                                         | Userinterview Wave 1 | 23/11/2025 |
+| 3.3    | Het product moet compact zijn                                           | Userinterview Wave 1 | 23/11/2025 |
+| 3.4    | Geen overbodige smart-technologie                                       | Userinterview Wave 1 | 23/11/2025 |
+| 3.5    | Het product moet betaalbaar zijn                                        | Userinterview Wave 1 | 23/11/2025 |
+| **Groep 4: Feedback en interface** | | | |
+| 4.1    | Het product moet duidelijke visuele feedback geven                      | Userinterview Wave 1 | 23/11/2025 |
+| 4.2    | Het product moet extra fysieke feedback geven                           | Userinterview Wave 1 | 23/11/2025 |
+| 4.3    | Feedback moet duidelijk maar niet opdringerig zijn                      | Userinterview Wave 1 | 23/11/2025 |
+| 4.4    | Beloningen                                                              | Userinterview Wave 1 | 23/11/2025 |
+| **Groep 5: Connectiviteit en app-integratie** | | | |
+| 5.1    | Het systeem moet werken als een app                                     | Userinterview Wave 1 | 23/11/2025 |
+| 5.2    | App voor ouders                                                         | Userinterview Wave 1 | 23/11/2025 |
+| 5.3    | De app moet inzicht geven in verbruik en educatieve tips aanbieden      | Userinterview Wave 1 | 23/11/2025 |
+
 
 
 
