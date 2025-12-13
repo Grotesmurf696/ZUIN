@@ -10,11 +10,11 @@
 ## General overview
 ZUIN is een systeem van interactieve producten voor kinderen, interfaces voor de ouders en meetapperatuur voor jouw huis. 
 
-Het bevordert de kennis over energieverbruik bij kinderen, terwijl ze op een speelse en interactieve manier zuinig leren vebruiken. Ook initieerd het de interactie tussen ouder en kind om zo ook hun een steentje te laten bijdragen.
+Het bevordert de kennis over energieverbruik bij kinderen, terwijl ze op een speelse en interactieve manier zuinig leren vebruiken. Ook initieert het de interactie tussen ouder en kind om zo ook hun een steentje te laten bijdragen.
 
-Kinderen weten vaak niet hoe energieverbruik echt in elkaar zit en welk aparaat nu het meeste verbruikt. Niet alleen de kinderen maar ook de ouders weten niet dat hun dagelijkse routines soms roet in het energieverbruik gooit. 
+Kinderen weten vaak niet hoe energieverbruik echt in elkaar zit en welk apparaat nu het meeste verbruikt. Niet alleen de kinderen maar ook de ouders weten niet dat hun dagelijkse routines soms roet in het energieverbruik gooien. 
 
-Aan het midden van ZUIN ligt het horloge. Dit horloge is gemaakt voor kinderen. Het horloge wordt gebruikt als normaal uurwerk doorheen de dag, maar wanneer de kinderen thuis komen krijgt dit horloge een extra functie. Een virtuele en speelse interface waardat op een overzichtelijke manier een beeld wordt geschept van het ogenbllikkelijk energieverbruik in huis.
+Aan het midden van ZUIN ligt het horloge. Dit horloge is gemaakt voor kinderen. Het horloge wordt gebruikt als normaal uurwerk doorheen de dag, maar wanneer de kinderen thuis komen krijgt dit horloge een extra functie. Een virtuele en speelse interface waardat op een overzichtelijke manier een beeld wordt geschept van het ogenblikkelijk energieverbruik in huis.
 <p align="center">
   <img src="img\Eerste_Prototypes.JPG" width="80%">
 </p>
@@ -127,7 +127,7 @@ Een draagbaar, visueel en spel-georiënteerd ontwerp maakt het meest kans om kin
 | 1.3    | Het systeem moet ouders stimuleren om samen met kinderen energie te besparen | Userinterview Wave 1 | 23/11/2025 |
 | 1.4    | Het product moet educatieve waarde hebben en bijdragen                  | Userinterview Wave 1 | 23/11/2025 |
 | **Groep 2: Gamification en motivatie** | | | |
-| 2.1    | Het product moet visuele spelementen bevatten                           | Userinterview Wave 1 | 23/11/2025 |
+| 2.1    | Het product moet visuele spel-elementen bevatten                           | Userinterview Wave 1 | 23/11/2025 |
 | 2.2    | Er moet positieve feedback worden gegeven                               | Userinterview Wave 1 | 23/11/2025 |
 | 2.3    | Het product moet kinderen motiveren door emotionele elementen           | Userinterview Wave 1 | 23/11/2025 |
 | 2.4    | Personalisatie moet mogelijk zijn in de interface                       | Userinterview Wave 1 | 23/11/2025 |
