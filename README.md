@@ -91,11 +91,12 @@ Kinderen houden van dingen die veranderen, verrassen en verhalend zijn.
 
 Vervolgens werd de interface van het product bepaald. Dit werd in op verschillende manieren Figma uitgewerkt. 
 
-> #### Wave 2 : ...................
-> De 2e wave staat centraal rond intuïtief gebruik. Op 6/12/2025 werden enkele testen afgenomen met kinderen in de Krook in Gent. De testpersonen kregen de verschillende interfaces voorzich, en werden gevraagd om enkele acties uit te voeren:
->  * Blus de slaapkamer
->  * Verander het icoontje van de keuken naar het ijseiland
->  * ................
+> #### Wave 2 : usability testing met wizard-of-oz-benadering (N=5)
+> De 2e wave staat centraal rond intuïtief gebruik. Op 6/12/2025 werden enkele testen afgenomen met kinderen in de Krook in Gent. De testpersonen kregen de verschillende interfaces voorzich, en werden gevraagd om telkens 3 taken uit te voeren:
+>  * Identificeer een kamer met “brand” (hoog energieverbruik) en 'blus' deze door fysiek een lamp uit te schakelen
+>  * Ga opzoek naar het fantasie-eiland
+>  * Zoek een verhaaltje in de interface
+> Elke taak werd per interface opnieuw uitgevoerd om het effect van herhaling op begrip en navigatie te meten. 
 >
 > *foto interview*
 
@@ -109,15 +110,19 @@ De belangrijkste functie die kinderen motiveert, is visuele en speelse feedback:
 
 Ouders staan positiever tegenover het educatieve doel van het concept dan tegenover het fysieke product zelf. Koopbereidheid is beperkt, vooral door bezorgdheden rond afval, prijs en onnodige hardware. Velen zien meer in een app- of hybride oplossing, waarbij hardware minimaal blijft. Ze vinden het essentieel dat het systeem eenvoudig, duurzaam en niet overladen met smart functies is. Feedback zoals kleur, trilling of subtiel geluid is gewenst, maar zonder overmatige notificaties of straling.
 
-#### Wave 2 : ...................
+#### Wave 2 : usability testing met wizard-of-oz-benadering (N=5)
+Uit de testen konden enkele algemene observaties gehaald worden. Zo heeft herhaling een sterke positieve invloed op begrip en zelfstandigheid. Bijvoorbeeld het brand-icoontje dat steeds terug kwam motiveerde de kinderen zelfstand de lichten te doven, maar vereiste eerst een duidelijke uitleg. Het verhaaltje vinden was bij de drie interfaces vaak moeilijk, hier is dus een structureel probleem in de informatie-architectuur. Verder is de tekstgrootte te klein voor kinderen om te lezen. Hierdoor is het moeilijker bepaalde info te vinden en het vehaaltje te lezen. Dit merkten ook de ouders op. 
 
+Specifiek per interface was bij UI1 de eerste interactie verwarrend door de onduidelijkheid van het brand-icoontje. Ook de swipe-interactie ward pas spontaan toegepast bij tweede poging. De kinderen gaven aan dat ze graag een personalisatie-optie willen. 
+De navigatie bij UI2 ging opmerkelijk vlotter door de bekendheid met het concept. Echter kwam de drop-down menu onduidelijk over waardoor de taak van het verhaaltje zoeken hulp nodig had bij het voltooien. 
+UI3 was de interface waar het meeste enthousiasme over was. Toch was de menu eerder verwarrend en is de test vroegtijdig stop gezet door een bug waardoor de knop om het verhaaltje te openen het scherm blokkeerde. 
 
 
 ### Conclusies & implicaties
 Een draagbaar, visueel en spel-georiënteerd ontwerp maakt het meest kans om kinderen te engageren, terwijl ouders vooral eenvoud, duurzaamheid en educatieve waarde verwachten. Een horloge met spelelementen, eventueel gekoppeld aan een app, lijkt de meest beloftevolle richting om beide groepen te overtuigen.
+Herhaling is essentieel om gebruikers het energieconcept en de navigatie correct te laten begrijpen. Dit impliceert dat het nieuwe product moet inzetten op een duidelijkere informatie-architectuur, waarbij verhaaltjes en kernfunctionaliteiten sneller en intuïtiever vindbaar zijn. Daarnaast zijn visuele verbeteringen, zoals grotere tekst en heldere iconen, noodzakelijk om de toegankelijkheid te verhogen. Motiverende elementen zoals de brand-metafoor blijken effectief, maar vereisen een duidelijke introductie via onboarding. 
 
-
-# PRD-ZUIN
+### PRD-ZUIN
 
 | **ID** | **Design requirement**                                                   | **Bron**              | **Datum**     |
 |--------|--------------------------------------------------------------------------|------------------------|---------------|
