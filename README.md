@@ -81,7 +81,19 @@ Via deskresearch werd onderzocht welke toestellen het meeste energie verbruiken 
 
 Uit de benchmarkanalyse blijkt dat bestaande oplossingen zich vooral richten op het meten en visualiseren van energieverbruik, vaak via complexe interfaces en applicaties. Hierdoor zijn deze systemen weinig toegankelijk voor een jong of niet-technisch publiek, terwijl ook zij een belangrijke rol spelen in het huishoudelijk energieverbruik.
 
-De meeste producten focussen op data en grafieken, maar slagen er onvoldoende in om energieverbruik begrijpbaar en motiverend te maken. Vooral eenvoud, gebruiksgemak en betrokkenheid van kinderen ontbreken in het huidige aanbod.
+De meeste producten focussen op data en grafieken, maar slagen er onvoldoende in om energieverbruik begrijpbaar en motiverend te maken. Vooral eenvoud, gebruiksgemak en betrokkenheid van kinderen ontbreken in het huidige aanbod. 
+
+Volgende tabel toont een selectie van de meest interessante benchmarks:
+
+| Nr. | Naam / Merk | Functie | Technologie | Doel | Prijs | Sterktes | Zwaktes |
+|----|-------------|---------|-------------|------|-------|----------|---------|
+| 1 | Niko startskit met Home Control | Informatie over elektriciteits- en gasverbruik | Solar modus, real-time info via app | Overzicht geven en helpen verbruik te verminderen | €390 | Automatische opwekking van stekkers bij zonne-energie | Info enkel via app |
+| 2 | Pitt & Co Energiemeter | Meet verbruik en berekent kosten | Vermogen- en spanningsmeter | Energiekosten doen dalen | €26,95 | Kostenberekening | Werkt maar voor 1 stopcontact |
+| 3 | Gologi slimme stekker | Apparaten slim maken | App, voice control, countdown | Apparaten op afstand bedienen | €15 | Stembediening, energiemonitoring | Slechts 1 toestel tegelijk |
+| 4 | Smart Plug | Stekker add-on met schakelaar | App, voice control | Apparaten op afstand bedienen | €22 | Geen extra benodigdheden | Slechts 1 toestel tegelijk |
+| 5 | Homewizard Energy Display | Visualisatie van verbruik | Inzicht stroom, teruglevering, gas | Bewustmaken van verbruik | €60 | Plaatsbaar scherm, customize | Veel grafieken → verwarrend |
+| 6 | Homewizard P1 | Visualisatie van verbruik | P1-plug, real-time app | Bewustmaken van verbruik | €25 | Gebruiksvriendelijk, goedkoop | Veel grafieken → verwarrend |
+
 
 #### Interviews
 
