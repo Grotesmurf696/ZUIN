@@ -152,7 +152,8 @@ In deze fase is het belangrijk om het juiste te ontwerpen (‘designing the righ
 
 De definition-fase werd gestart met een sprintday, waarop dieper werd ingegaan op de feedback van de discovery-fase. Er werd een storyboard opgesteld, om een duidelijker zicht te krijgen op het doel van het product. Het product maakt kinderen op een speelse manier bewust over het alledaagse verbruik in huis, en motiveert ze om een steentje bij te dragen aan het verminderen ervan. 
 
-*foto storyboard*
+<p align="center">
+  <img src="img\Storyboard.jpg" width="80%">
 
 Vervolgens werd dit idee fysiek uitgewerkt door drie quick and dirty prototypes. In wave 1 werden deze prototypes gevalideerd door een user feedback session.  
   * **Beer** : Deze knuffelbeer heeft een scherm geïntegreerd in de buik, waar de interface op kan verschijnen.
