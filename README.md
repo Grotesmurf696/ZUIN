@@ -35,7 +35,8 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 ## Methodologie
 In dit onterwerpproces werd het **Tripel Diamond model gevolgd**. Hierin stelt de eerste diamond de **discovery-fase** voor, de tweede diamond staat voor de **definition-fase** en de derde diamond wordt in het tweede semester uitgewerkt als een **develop- en deliver-fase**.
 
-*foto tripel diamond*
+<p align="center">
+  <img src="img\Double Diamond.png" width="80%">
 
 ### 1. Discover
 In de eerste fase wordt er opzoek gegaan naar het probleem. 
