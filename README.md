@@ -20,9 +20,13 @@ Aan het midden van ZUIN ligt het horloge. Dit horloge is gemaakt voor kinderen. 
 </p>
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
+Energieverbruik in huishoudens vormt een belangrijk maatschappelijk en ecologisch vraagstuk. Hoewel technologische oplossingen zoals digitale meters en monitoring-applicaties steeds vaker worden ingezet, blijft het energieverbruik voor veel gebruikers abstract en moeilijk te interpreteren. In gezinscontexten wordt dit probleem nog complexer, omdat energieverbruik het resultaat is van gedeelde routines en gedragingen, waarbij ook kinderen een belangrijke maar vaak onbewuste rol spelen.
+
+Kinderen groeien op in een wereld waarin energie vanzelfsprekend beschikbaar is, zonder een duidelijk begrip van herkomst, kost of impact. Op school wordt wel een basis van milieubewustzijn aangeleerd, maar vooral het voorbeeld en de druk van de ouders maakt effectief verschil (Aguirre-Bielschowsky et al., 2018) [^1] . Klassieke energiefeedback — zoals apps, grafieken en cijfers — sluiten nauwelijks aan bij de leefwereld van kinderen. Bovendien ervaren ook de ouders het energieverbruik vaak als een “black box”: ze krijgen wel cijfers te zien, maar missen concrete, begrijpbare aanknopingspunten om hun dagelijks gedrag bij te sturen. Energie wordt ervaren als iets onzichtbaars: het is er altijd, komt uit het stopcontact, en verdwijnt weer zonder duidelijke koppeling tussen gedrag en gevolg. Dit maakt het moeilijk om duurzame gewoontes aan te leren, zeker bij jonge gebruikers.
+
+Vanuit deze problematiek werd **ZUIN** ontwikkeld: een **interactief** systeem dat energieverbruik op een **speelse** en **begrijpbare** manier zichtbaar maakt voor kinderen, en tegelijk de **dialoog tussen ouder en kind** stimuleert. Het project focust niet op het technisch optimaliseren van installaties, maar op **bewustmaking, educatie en langdurige gedragsverandering** via dagelijkse **interactie en betekenisvolle** feedback.
+
+
 
 ## Inhoudstafel
 
@@ -288,4 +292,4 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
- [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+ [^1]: Aguirre-Bielschowsky, I., Lawson, R., Stephenson, J., & Todd. S. (2018). _Kids and Kilowatts: Socialisation, energy efficiency, and electricity consumption in New Zealand_. Energy Research & Social Science, 44, 178-186. https://www.sciencedirect.com/science/article/pii/S2214629618303803
