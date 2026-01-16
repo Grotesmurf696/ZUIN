@@ -182,12 +182,12 @@ Kinderen houden van dingen die veranderen, verrassen en verhalend zijn.
 > In de eerste wave van de definition-fase werd onderzocht welk speelgoed kinderen aanspreekt. Op dag van de wetenschap werd een standje opgezet met de drie prototypes. Gezinnen konden hier vrijwillig deelnemen aan een kort interview. Er werden zowel jongens als meisjes geïnterviewd uit de lagere school.
 > 
 > <p align="center">
-  <img src="img\Interview2.jpg" width="45%">
+  <img src="img\Interview2.HEIC" width="45%">
 </p>
 
 
 
-Vervolgens werd de interface van het product bepaald. Dit werd in op verschillende manieren Figma uitgewerkt. 
+Vervolgens werd de interface van het product bepaald. Dit werd op verschillende manieren in Figma uitgewerkt. 
 
 > #### Wave 2 : usability testing met wizard-of-oz-benadering (N=5)
 > De 2e wave staat centraal rond intuïtief gebruik. Op 6/12/2025 werden enkele testen afgenomen met kinderen in de Krook in Gent. De testpersonen kregen de verschillende interfaces voorzich, en werden gevraagd om telkens 3 taken uit te voeren:
@@ -197,7 +197,7 @@ Vervolgens werd de interface van het product bepaald. Dit werd in op verschillen
 > Elke taak werd per interface opnieuw uitgevoerd om het effect van herhaling op begrip en navigatie te meten. 
 >
 > <p align="center">
-  <img src="img\Interview_wave2.jpg" width="45%">
+  <img src="img\IMG_6032 (1).jpg" width="45%">
 </p>
 
 
