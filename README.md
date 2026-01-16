@@ -182,7 +182,7 @@ Kinderen houden van dingen die veranderen, verrassen en verhalend zijn.
 > In de eerste wave van de definition-fase werd onderzocht welk speelgoed kinderen aanspreekt. Op dag van de wetenschap werd een standje opgezet met de drie prototypes. Gezinnen konden hier vrijwillig deelnemen aan een kort interview. Er werden zowel jongens als meisjes geïnterviewd uit de lagere school.
 > 
 > <p align="center">
-  <img src="img\Interview2.HEIC" width="45%">
+  <img src="img\Interview_wave1 (1).jpg" width="45%">
 </p>
 
 
