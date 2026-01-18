@@ -176,6 +176,7 @@ Om wave 1 vlot te kunnen starten, werd er gebeld met een expert vanuit Comon. Hi
 Verder vertelde hij dat gemification slechts werkt voor 2-4 weken. Hij raadde aan om een betekenisvolle interactie (zoals feedback) te creëren. 
 Kinderen houden van dingen die veranderen, verrassen en verhalend zijn. 
 
+
 Tot slot werden voor de interviews nieuwe prototypes geprint. Op die manier werden de prototypes presentabeler gemaakt. Er werd gekozen om de Tamagotchi in een nieuw jasje te steken en om een fysiek prototype te maken dat aansluit bij het concept van een horloge.
 
 <p align="center">
