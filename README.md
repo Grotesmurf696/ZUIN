@@ -274,10 +274,10 @@ Licht toe op welke manier je AI gebruikte in dit project.
   * [Rapport](url)
     
 ### Definition
-* User testing wave 1 (N=x)
-  * [Protocol](url)
+* User testing wave 1 (N=5)
+  * [Protocol]()
   * [Rapport](url)
-* User testing wave 2 (N=x)
+* User testing wave 2 (N=5)
   * [Protocol](url)
   * [Rapport](url)
 
