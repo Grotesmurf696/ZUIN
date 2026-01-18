@@ -277,14 +277,13 @@ Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces t
     
 ### Definition
 * User testing wave 1 (N=5)
-  * [Protocol]()
-  * [Rapport](url)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQC8tEje_yFzSamdKWDDOaGFAbIKFai_KvVj0mNIbBrrtQk?e=JygQLY)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQD9Kj5Tx0cIRJQROee65qW5Adg2_tDG4xOJkzBVwp7rk9g?e=vG1YrG)
 * User testing wave 2 (N=5)
   * [Protocol](url)
-  * [Rapport](url)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQBBSVxjt0VdSLub2Noc09yTAXX5JLwwVX3_3C1DV2oT8Ro?e=hxkX0X)
 
-## Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
+## Licentie 
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
