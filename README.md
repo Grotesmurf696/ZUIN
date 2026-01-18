@@ -132,7 +132,7 @@ Terugkerende patronen uit de deskresearch zijn:
 
 #### Benchmarks
 
-Bestaande producten focussen voornamelijk op dataverzameling en grafische weergave, maar onvoldoende op eenvoud en motivatie. Veel systemen vereisen een app, zijn complex of richten zich slechts op één toestel. Geavanceerde systemen zijn vaak duur en moeilijk te installeren. Dit toont aan dat er ruimte is voor een visueel eenvoudige en toegankelijke oplossing, geschikt voor alle bewoners, inclusief kinderen.
+Bestaande producten focussen voornamelijk op dataverzameling en grafische weergave, maar onvoldoende op eenvoud en motivatie. Veel systemen vereisen een app, zijn complex of richten zich slechts op één toestel. Geavanceerde systemen zijn vaak duur en moeilijk te installeren. Dit toont aan dat er ruimte is voor een visueel eenvoudige en toegankelijke oplossing, geschikt voor alle bewoners, inclusief kinderen. Ook is het opmerkelijk dat er momenteel geen concrete toestellen op de markt zijn met als doel kinderen te leren of te helpen besparen. Hieruit blijkt dat er nog steeds een duidelijke leemte in de markt bestaat die kan worden opgevuld.
 
 #### Interviews
 
