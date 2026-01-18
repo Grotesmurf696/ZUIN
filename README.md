@@ -174,7 +174,7 @@ Vervolgens werd dit idee fysiek uitgewerkt door drie quick and dirty prototypes.
 </p>
 Om wave 1 vlot te kunnen starten, werd er gebeld met een expert vanuit Comon. Hier werd afgetoetst wat de goede leeftijdscategorie is voor onze doelgroep. Hij vertelde dat kinderen vanaf 5 jaar al gehoord hebben van het begrip energieverbruik. De doelgroep werd dus gedefineerd op kinderen van de lagere school (5 - 12 jaar). 
 Verder vertelde hij dat gemification slechts werkt voor 2-4 weken. Hij raadde aan om een betekenisvolle interactie (zoals feedback) te creëren. 
-Kinderen houden van dingen die veranderen, verrassen en verhalend zijn. 
+Kinderen houden van dingen die veranderen, verrassen en verhalend zijn.
 
 
 Tot slot werden voor de interviews nieuwe prototypes geprint. Op die manier werden de prototypes presentabeler gemaakt. Er werd gekozen om de Tamagotchi in een nieuw jasje te steken en om een fysiek prototype te maken dat aansluit bij het concept van een horloge.
@@ -285,6 +285,9 @@ Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces t
   * [Protocol](url)
   * [Rapport](url)
 * Interviews (N=x)
+  * [Protocol](url)
+  * [Rapport](url)
+* Benchmark (N=x)
   * [Protocol](url)
   * [Rapport](url)
     
