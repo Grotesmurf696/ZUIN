@@ -182,13 +182,12 @@ Kinderen houden van dingen die veranderen, verrassen en verhalend zijn.
 > In de eerste wave van de definition-fase werd onderzocht welk speelgoed kinderen aanspreekt. Op dag van de wetenschap werd een standje opgezet met de drie prototypes. Gezinnen konden hier vrijwillig deelnemen aan een kort interview. Er werden zowel jongens als meisjes geïnterviewd uit de lagere school.
 > 
 > <p align="center">
-  <img src="img\Eerste_Prototypes.JPG" width="45%">
-  <img src="img\Eerste_Prototypes.JPG" width="45%">
+  <img src="img\Interview_wave1 (1).jpg" width="45%">
 </p>
 
 
 
-Vervolgens werd de interface van het product bepaald. Dit werd in op verschillende manieren Figma uitgewerkt. 
+Vervolgens werd de interface van het product bepaald. Dit werd op verschillende manieren in Figma uitgewerkt. 
 
 > #### Wave 2 : usability testing met wizard-of-oz-benadering (N=5)
 > De 2e wave staat centraal rond intuïtief gebruik. Op 6/12/2025 werden enkele testen afgenomen met kinderen in de Krook in Gent. De testpersonen kregen de verschillende interfaces voorzich, en werden gevraagd om telkens 3 taken uit te voeren:
@@ -197,7 +196,9 @@ Vervolgens werd de interface van het product bepaald. Dit werd in op verschillen
 >  * Zoek een verhaaltje in de interface
 > Elke taak werd per interface opnieuw uitgevoerd om het effect van herhaling op begrip en navigatie te meten. 
 >
-> *foto interview*
+> <p align="center">
+  <img src="img\IMG_6032 (1).jpg" width="45%">
+</p>
 
 
 ### Resultaten 
@@ -262,7 +263,8 @@ Herhaling is essentieel om gebruikers het energieconcept en de navigatie correct
 Max. 500 woorden
 
 ## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
+AI werd ingezet om de opnamebestanden die we tijdens de interviews en testen maakten, om te zetten in een uitgeschreven tekst en dit samen te vatten. Dit gebruikten we ter ondersteuning van de notities die ook werden gemaakt, om zo geen enkele info te missen en al onze aandacht te besteden aan de gebruikers. 
+Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces te ontwerpen. Op deze manier konden we veel sneller starten met de gebruikerstesten om te begrijpen wat de gebruiker nu echt wilt en wat absoluut niet.  
 
 ## Bijlagen
 ### Discovery
