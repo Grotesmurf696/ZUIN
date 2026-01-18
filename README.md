@@ -281,15 +281,15 @@ Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces t
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* Interviews (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* Benchmark (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+* Literatuuronderzoek (N=6)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQBxlSKGF6GJS7yjuUpZMrW6AZptKT-39_dlODdeOWtALXE?e=uy5Ne1)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQDwQceRXQxvRYp1WkRQ5hU9ATqJ7NlsP_gz0dTkeEDdwDY?e=qEMzFm)
+* Interviews (N=3)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQD2VJUlo9LuQ4IuZMF2TL-ZAamdP4Nqb100fHMXdAKGHLI?e=Ktn1Ym)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQBQ63Hyc62xRqArzp_ORJG6AZmYlhGAdV6d9LZe_1P6jKk?e=QBHnBg)
+* Benchmark (N=6)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQAMuHsYY4-KSaFa1XN27SYHATxGseCYW43dwTT9iTFHoIk?e=aj3uZd)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQD2sjlyIDcPSKbX_eMs5qYrAX9bR0QHjSUwxY6TmReKtXE?e=CZspBp)
     
 ### Definition
 * User testing wave 1 (N=5)
