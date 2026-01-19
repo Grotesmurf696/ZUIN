@@ -95,8 +95,8 @@ Volgende tabel toont een selectie van de meest interessante benchmarks:
 | 2 | Pitt & Co Energiemeter[^3] | Meet verbruik en berekent kosten | Vermogen- en spanningsmeter | Energiekosten doen dalen | €26,95 | Kostenberekening | Werkt maar voor 1 stopcontact |
 | 3 | Gologi slimme stekker[^4] | Apparaten slim maken | App, voice control, countdown | Apparaten op afstand bedienen | €15 | Stembediening, energiemonitoring | Slechts 1 toestel tegelijk |
 | 4 | Smart Plug[^5] | Stekker add-on met schakelaar | App, voice control | Apparaten op afstand bedienen | €22 | Geen extra benodigdheden | Slechts 1 toestel tegelijk |
-| 5 | Homewizard Energy Display| Visualisatie van verbruik | Inzicht stroom, teruglevering, gas | Bewustmaken van verbruik | €60 | Plaatsbaar scherm, customize | Veel grafieken → verwarrend |
-| 6 | Homewizard P1 | Visualisatie van verbruik | P1-plug, real-time app | Bewustmaken van verbruik | €25 | Gebruiksvriendelijk, goedkoop | Veel grafieken → verwarrend |
+| 5 | Homewizard Energy Display[^6]| Visualisatie van verbruik | Inzicht stroom, teruglevering, gas | Bewustmaken van verbruik | €60 | Plaatsbaar scherm, customize | Veel grafieken → verwarrend |
+| 6 | Homewizard P1[^7] | Visualisatie van verbruik | P1-plug, real-time app | Bewustmaken van verbruik | €25 | Gebruiksvriendelijk, goedkoop | Veel grafieken → verwarrend |
 
 
 #### Interviews
