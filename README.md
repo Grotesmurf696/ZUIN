@@ -184,7 +184,7 @@ Tot slot werden voor de interviews nieuwe prototypes geprint. Op die manier werd
 
 
 > #### Wave 1 : user feedback sessions (N=5)
-> In de eerste wave van de definition-fase werd onderzocht welk speelgoed kinderen aanspreekt. Op dag van de wetenschap werd een standje opgezet met de drie prototypes. Gezinnen konden hier vrijwillig deelnemen aan een kort interview. Er werden zowel jongens als meisjes geïnterviewd uit de lagere school. Ter bijkomende verduidelijking omtrent het project voor de respondenten werd eveneens een concept poster opgesteld.
+> In de eerste wave van de definition-fase werd onderzocht welk speelgoed kinderen aanspreekt. Op dag van de wetenschap werd een standje opgezet met de drie prototypes. Gezinnen konden hier vrijwillig deelnemen aan een kort interview. Er werden zowel jongens als meisjes geïnterviewd uit de lagere school. Ter bijkomende verduidelijking van het project voor de respondenten werd eveneens een concept poster opgesteld.
 > 
 > <p align="center">
   <img src="img\Interview_wave1 (1).jpg" width="45%">
