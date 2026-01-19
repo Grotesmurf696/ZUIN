@@ -16,7 +16,8 @@ Kinderen weten vaak niet hoe energieverbruik echt in elkaar zit en welk apparaat
 
 Aan het midden van ZUIN ligt het horloge. Dit horloge is gemaakt voor kinderen. Het horloge wordt gebruikt als normaal uurwerk doorheen de dag, maar wanneer de kinderen thuis komen krijgt dit horloge een extra functie. Een virtuele en speelse interface waardat op een overzichtelijke manier een beeld wordt geschept van het ogenblikkelijk energieverbruik in huis.
 <p align="center">
-  <img src="img\Eerste_Prototypes.JPG" width="80%">
+  <img src="img\Eerste_Prototypes.JPG" width="45%">
+  <img src="img\Representatie_concept.jpg" width="45%">
 </p>
 
 ## Introductie
