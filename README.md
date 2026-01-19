@@ -310,3 +310,16 @@ You are free to reuse and build upon this work, both commercially and non-commer
 
 ## Bronnen
  [^1]: Aguirre-Bielschowsky, I., Lawson, R., Stephenson, J., & Todd. S. (2018). _Kids and Kilowatts: Socialisation, energy efficiency, and electricity consumption in New Zealand_. Energy Research & Social Science, 44, 178-186. https://www.sciencedirect.com/science/article/pii/S2214629618303803
+
+  [^2]: Brico. (z.d.). Pitt & Co ® Energiemeter KWH meter Watt Meter Energiekostenmeter. Geraadpleegd 19 oktober 2025, van https://www.brico.be/nl/elektra/elektriciteitsmeters/pitt-co-energiemeter-kwh-meter-watt-meter-energiekostenmeter/10213876
+
+ [^3]: Brico. (z.d.). Niko Starterskit Energie Home Control. Geraadpleegd 19 oktober 2025, van https://www.brico.be/nl/smart-home-domotica/smart-home-hubs/niko-starterskit-energie-home-control/10074288?channable=013caf696400313030373432383839
+
+ [^4]: Bol.com. (z.d.). Gologi Slimme stekker – Smart plug – Tijdschakelaar & Energiemeter – WIFI – Google Home & Amazon Alexa [Productpagina]. Geraadpleegd 19 oktober 2025, van https://www.bol.com/be/nl/p/gologi-slimme-stekker-smart-plug-tijdschakelaar-energiemeter-wifi-google-home-amazon-alexa-wit/9300000134656551
+
+ [^5]: Bol.com. (z.d.). 1 Stuk Navid Slimme Stekker met Energie-Monitoring – Smart Plug – Energiemeter – Tijdschakelaar – Google & Amazon Alexa – Tuya/Smart Life [Productpagina]. Geraadpleegd 19 oktober 2025, van https://www.bol.com/be/nl/p/1-stuk-navid-slimme-stekker-met-energie-monitoring-smart-plug-energiemeter-tijdschakelaar-google-amazon-alexa-tuya-smart-life-automatiseren-smart-home/9300000220337103/
+
+ [^6]: HomeWizard. (z.d.). Energy Display. Geraadpleegd 19 oktober 2025, van https://www.homewizard.com/shop/energy-display/ homewizard.com+1
+
+ [^7]: HomeWizard Wi‑Fi P1 Meter. (z.d.). Live insight in your energy consumption with the HomeWizard Wi-Fi P1 Meter [Productpagina]. Geraadpleegd 19 oktober 2025, van https://www.homewizard.com/shop/wi-fi-p1-meter/
+ 
