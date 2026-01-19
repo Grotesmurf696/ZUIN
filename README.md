@@ -91,11 +91,11 @@ Volgende tabel toont een selectie van de meest interessante benchmarks:
 
 | Nr. | Naam / Merk | Functie | Technologie | Doel | Prijs | Sterktes | Zwaktes |
 |----|-------------|---------|-------------|------|-------|----------|---------|
-| 1 | Niko startskit met Home Control | Informatie over elektriciteits- en gasverbruik | Solar modus, real-time info via app | Overzicht geven en helpen verbruik te verminderen | €390 | Automatische opwekking van stekkers bij zonne-energie | Info enkel via app |
-| 2 | Pitt & Co Energiemeter | Meet verbruik en berekent kosten | Vermogen- en spanningsmeter | Energiekosten doen dalen | €26,95 | Kostenberekening | Werkt maar voor 1 stopcontact |
-| 3 | Gologi slimme stekker | Apparaten slim maken | App, voice control, countdown | Apparaten op afstand bedienen | €15 | Stembediening, energiemonitoring | Slechts 1 toestel tegelijk |
-| 4 | Smart Plug | Stekker add-on met schakelaar | App, voice control | Apparaten op afstand bedienen | €22 | Geen extra benodigdheden | Slechts 1 toestel tegelijk |
-| 5 | Homewizard Energy Display | Visualisatie van verbruik | Inzicht stroom, teruglevering, gas | Bewustmaken van verbruik | €60 | Plaatsbaar scherm, customize | Veel grafieken → verwarrend |
+| 1 | Niko startskit met Home Control[^2] | Informatie over elektriciteits- en gasverbruik | Solar modus, real-time info via app | Overzicht geven en helpen verbruik te verminderen | €390 | Automatische opwekking van stekkers bij zonne-energie | Info enkel via app |
+| 2 | Pitt & Co Energiemeter[^3] | Meet verbruik en berekent kosten | Vermogen- en spanningsmeter | Energiekosten doen dalen | €26,95 | Kostenberekening | Werkt maar voor 1 stopcontact |
+| 3 | Gologi slimme stekker[^4] | Apparaten slim maken | App, voice control, countdown | Apparaten op afstand bedienen | €15 | Stembediening, energiemonitoring | Slechts 1 toestel tegelijk |
+| 4 | Smart Plug[^5] | Stekker add-on met schakelaar | App, voice control | Apparaten op afstand bedienen | €22 | Geen extra benodigdheden | Slechts 1 toestel tegelijk |
+| 5 | Homewizard Energy Display| Visualisatie van verbruik | Inzicht stroom, teruglevering, gas | Bewustmaken van verbruik | €60 | Plaatsbaar scherm, customize | Veel grafieken → verwarrend |
 | 6 | Homewizard P1 | Visualisatie van verbruik | P1-plug, real-time app | Bewustmaken van verbruik | €25 | Gebruiksvriendelijk, goedkoop | Veel grafieken → verwarrend |
 
 
@@ -186,10 +186,10 @@ Tot slot werden voor de interviews nieuwe prototypes geprint. Op die manier werd
 > #### Wave 1 : user feedback sessions (N=5)
 > In de eerste wave van de definition-fase werd onderzocht welk speelgoed kinderen aanspreekt. Op dag van de wetenschap werd een standje opgezet met de drie prototypes. Gezinnen konden hier vrijwillig deelnemen aan een kort interview. Er werden zowel jongens als meisjes geïnterviewd uit de lagere school. Ter bijkomende verduidelijking van het project voor de respondenten werd eveneens een concept poster opgesteld.
 > 
-> <p align="center">
-  <img src="img\Interview_wave1 (1).jpg" width="45%">
-  <img src="img\Concept Poster.jpg" width="45%">
-</p>
+><p align="center">
+>  <img src="img\Interview_wave1 (1).jpg" width="45%">
+>  <img src="img\Concept Poster.jpg" width="45%">
+></p>
 
 
 
@@ -311,15 +311,15 @@ You are free to reuse and build upon this work, both commercially and non-commer
 ## Bronnen
  [^1]: Aguirre-Bielschowsky, I., Lawson, R., Stephenson, J., & Todd. S. (2018). _Kids and Kilowatts: Socialisation, energy efficiency, and electricity consumption in New Zealand_. Energy Research & Social Science, 44, 178-186. https://www.sciencedirect.com/science/article/pii/S2214629618303803
 
-[^2]: Brico. (z.d.). Pitt & Co ® Energiemeter KWH meter Watt Meter Energiekostenmeter. Geraadpleegd 19 oktober 2025, van https://www.brico.be/nl/elektra/elektriciteitsmeters/pitt-co-energiemeter-kwh-meter-watt-meter-energiekostenmeter/10213876
+ [^2]: Brico. (z.d.). Niko Starterskit Energie Home Control. Geraadpleegd 19 oktober 2025, van https://www.brico.be/nl/smart-home-domotica/smart-home-hubs/niko-starterskit-energie-home-control/10074288?channable=013caf696400313030373432383839
+ 
+ [^3]: Brico. (z.d.). Pitt & Co ® Energiemeter KWH meter Watt Meter Energiekostenmeter. Geraadpleegd 19 oktober 2025, van https://www.brico.be/nl/elektra/elektriciteitsmeters/pitt-co-energiemeter-kwh-meter-watt-meter-energiekostenmeter/10213876
 
-[^3]: Brico. (z.d.). Niko Starterskit Energie Home Control. Geraadpleegd 19 oktober 2025, van https://www.brico.be/nl/smart-home-domotica/smart-home-hubs/niko-starterskit-energie-home-control/10074288?channable=013caf696400313030373432383839
+ [^4]: Bol.com. (z.d.). Gologi Slimme stekker – Smart plug – Tijdschakelaar & Energiemeter – WIFI – Google Home & Amazon Alexa [Productpagina]. Geraadpleegd 19 oktober 2025, van https://www.bol.com/be/nl/p/gologi-slimme-stekker-smart-plug-tijdschakelaar-energiemeter-wifi-google-home-amazon-alexa-wit/9300000134656551
 
-[^4]: Bol.com. (z.d.). Gologi Slimme stekker – Smart plug – Tijdschakelaar & Energiemeter – WIFI – Google Home & Amazon Alexa [Productpagina]. Geraadpleegd 19 oktober 2025, van https://www.bol.com/be/nl/p/gologi-slimme-stekker-smart-plug-tijdschakelaar-energiemeter-wifi-google-home-amazon-alexa-wit/9300000134656551
+ [^5]: Bol.com. (z.d.). 1 Stuk Navid Slimme Stekker met Energie-Monitoring – Smart Plug – Energiemeter – Tijdschakelaar – Google & Amazon Alexa – Tuya/Smart Life [Productpagina]. Geraadpleegd 19 oktober 2025, van https://www.bol.com/be/nl/p/1-stuk-navid-slimme-stekker-met-energie-monitoring-smart-plug-energiemeter-tijdschakelaar-google-amazon-alexa-tuya-smart-life-automatiseren-smart-home/9300000220337103/
 
-[^5]: Bol.com. (z.d.). 1 Stuk Navid Slimme Stekker met Energie-Monitoring – Smart Plug – Energiemeter – Tijdschakelaar – Google & Amazon Alexa – Tuya/Smart Life [Productpagina]. Geraadpleegd 19 oktober 2025, van https://www.bol.com/be/nl/p/1-stuk-navid-slimme-stekker-met-energie-monitoring-smart-plug-energiemeter-tijdschakelaar-google-amazon-alexa-tuya-smart-life-automatiseren-smart-home/9300000220337103/
+ [^6]: HomeWizard. (z.d.). Energy Display. Geraadpleegd 19 oktober 2025, van https://www.homewizard.com/shop/energy-display/ homewizard.com+1
 
-[^6]: HomeWizard. (z.d.). Energy Display. Geraadpleegd 19 oktober 2025, van https://www.homewizard.com/shop/energy-display/ homewizard.com+1
-
-[^7]: HomeWizard Wi‑Fi P1 Meter. (z.d.). Live insight in your energy consumption with the HomeWizard Wi-Fi P1 Meter [Productpagina]. Geraadpleegd 19 oktober 2025, van https://www.homewizard.com/shop/wi-fi-p1-meter/
+ [^7]: HomeWizard Wi‑Fi P1 Meter. (z.d.). Live insight in your energy consumption with the HomeWizard Wi-Fi P1 Meter [Productpagina]. Geraadpleegd 19 oktober 2025, van https://www.homewizard.com/shop/wi-fi-p1-meter/
  
