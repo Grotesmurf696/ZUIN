@@ -277,7 +277,7 @@ Max. 500 woorden
 
 ## Noot inzake het gebruik van AI
 AI werd ingezet om de opnamebestanden die we tijdens de interviews en testen maakten, om te zetten in een uitgeschreven tekst en dit samen te vatten. Dit gebruikten we ter ondersteuning van de notities die ook werden gemaakt, om zo geen enkele info te missen en al onze aandacht te besteden aan de gebruikers. 
-Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces te ontwerpen. Op deze manier konden we veel sneller starten met de gebruikerstesten om te begrijpen wat de gebruiker nu echt wilt en wat absoluut niet. Daarnaast werd AI ingezet om bepaalde afbeeldingen te genereren, zoals de beer, het horloge en de Tamagotchi op de concept poster. Vervolgens werd met behulp van Photoshop een interface aangebracht op de gerenderde afbeelding van het horloge. Naast de afbeeldingen werd ook Figma AI gebruikt om drie verschillende interfaces te creëren, die werden getest in wave 2.
+Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces te ontwerpen. Op deze manier konden we veel sneller starten met de gebruikerstesten om te begrijpen wat de gebruiker nu echt wilt en wat absoluut niet. Daarnaast werd AI ingezet om bepaalde afbeeldingen te genereren, zoals de beer, het horloge en de Tamagotchi op de concept poster. Vervolgens werd met behulp van Photoshop een interface aangebracht op de gerenderde afbeelding van het horloge.
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=6)
