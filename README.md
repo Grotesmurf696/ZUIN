@@ -5,7 +5,7 @@
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*Latest update: 12/12/2025*   
+*Latest update: 19/01/2026*   
 
 ## General overview
 ZUIN is een systeem van interactieve producten voor kinderen, interfaces voor de ouders en meetapperatuur voor jouw huis. 
