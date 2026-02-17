@@ -91,3 +91,4 @@ Uit de interviews blijkt dat bewoners willen besparen, maar dat een gebrek aan i
 #### Desk research
 
 De literatuur bevestigt dat energieverbruik vooral wordt gedreven door verwarming, warm water en grote toestellen, aangevuld met een aanzienlijk aandeel sluipverbruik. Zonder duidelijke en visuele feedback blijft energieverbruik abstract. Vooral in gezins- en cohousingcontexten is er nood aan eenvoudige, centrale en laagdrempelige hulpmiddelen die duurzame gedragsverandering ondersteunen.
+

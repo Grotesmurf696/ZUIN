@@ -13,3 +13,4 @@ Voor komend semester willen wij een fysiek prototype maken dat de interface van 
 - Pla voor prototyping
 - Breadboards
 - male to male en male to female prototype kabels
+
