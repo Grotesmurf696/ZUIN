@@ -3,6 +3,7 @@ In dit onterwerpproces werd het **Tripel Diamond model gevolgd**. Hierin stelt d
 
 <p align="center">
   <img src="img\Double Diamond.png" width="80%">
+  
 
 ### 1. Discover
 In de eerste fase wordt er opzoek gegaan naar het probleem. Via **benchmarking** werden bestaande producten geanalyseerd en vergeleken. Aanvullende **interviews** onderzochten hoe gezinnen energie gebruiken en begrijpen. Met behulp van **desk research** werd onderzocht welke toestellen het meeste energie verbruiken en welke verbruikers vaak vergeten worden. Hieruit bleek dat energieverbruik voor de meeste mensen onzichtbaar en verwarrend is, bestaande oplossingen te complex zijn, en dat vooral (ook) kinderen onvoldoende betrokken worden. Conclusie: er is nood aan een eenvoudige, visuele en kindvriendelijke manier om energieverbruik zichtbaar te maken en zo duurzaam gedrag te stimuleren.
