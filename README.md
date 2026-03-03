@@ -45,13 +45,16 @@ Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces t
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* Interviews (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-    
+* Literatuuronderzoek (N=6)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQBxlSKGF6GJS7yjuUpZMrW6AZptKT-39_dlODdeOWtALXE?e=ixxiCq)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQDwQceRXQxvRYp1WkRQ5hU9ATqJ7NlsP_gz0dTkeEDdwDY?e=YWlJyJ)
+* Interviews (N=3)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQD2VJUlo9LuQ4IuZMF2TL-ZAamdP4Nqb100fHMXdAKGHLI?e=x097r4)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQBQ63Hyc62xRqArzp_ORJG6AZmYlhGAdV6d9LZe_1P6jKk?e=UIkjh8)
+* Benchmarkanalyse (N=10)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQAMuHsYY4-KSaFa1XN27SYHATxGseCYW43dwTT9iTFHoIk?e=kCKDSz)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQD2sjlyIDcPSKbX_eMs5qYrAX9bR0QHjSUwxY6TmReKtXE?e=VgBfyQ)
+
 ### Definition
 * User testing wave 1 (N=5)
   * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQC8tEje_yFzSamdKWDDOaGFAbIKFai_KvVj0mNIbBrrtQk?e=JygQLY)
