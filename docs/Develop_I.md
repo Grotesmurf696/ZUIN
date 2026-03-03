@@ -1,3 +1,3 @@
-Doelstellingen
-Materiaal & methoden
-Resultaten
+## Doelstellingen
+## Materiaal & methoden
+##Resultaten
