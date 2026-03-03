@@ -33,8 +33,9 @@ Vanuit deze problematiek werd **ZUIN** ontwikkeld: een **interactief** systeem d
 1. [Methodologie](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
 3. [Definition](./docs/definition.md)
-4. [Design Requirements](./docs/design_requirements.md)
-5. [Bill of materials](./docs/bom.md)
+4. [Develop I](./docs/Develop_I.md)
+5. [Design Requirements](./docs/design_requirements.md)
+6. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
 Max. 500 woorden
