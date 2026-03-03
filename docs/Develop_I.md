@@ -1,2 +1,3 @@
-#Develop I
-
+Doelstellingen
+Materiaal & methoden
+Resultaten
