@@ -65,10 +65,10 @@ De interviews werden zowel online als fysiek uitgevoerd.
   <img src= "../img/HTA.png" width="80%">
    
 <p align="center">
-  <img src= "../img/MVP.png" width="80%">
+  <img src= "../img/MVP.png" width="40%">
    
 <p align="center">
-  <img src= "../img/MVP.png" width="80%">
+  <img src= "../img/MVP.png" width="40%">
   
  
 ### Human-Product Interactions
