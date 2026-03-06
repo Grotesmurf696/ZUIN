@@ -6,16 +6,15 @@ Bij deze fase wordt de ontvangen tussentijdse feedback verwerkt en toegepast. Da
 
 ## Materiaal & methoden
 
-### Customer journey
+### Systeemanalyse
 
-De customer journey visualiseert de weg die afgelegt worddt vanaf het punt dat de users, in dit geval de ouders, in contact komen met energierekeningen tot de interactie tussen het kind en het horloge. De journey werd vanuit twee perspectieven bekeken. Deze perspectieven waaren die van de kinderen en daarnaast die van de ouders. Op die manier kunnen de de rollen en motivaties beter begrepen worden. Er werd voornamelijk aandacht geschonken aan:
+Om het project te verfijnen is er gestart met een functionele systeemanalyse. Hierbij wordt het product vanuit verschillende perspectieven bekeken. Hiervoor zijn 4 methodes toegepast. Deze methoden waren:
 
-  * De fysieke acties van de gebruiker
-  * De gedachtengang en beslissingsmomenten
-  * Interactiemomenten met het product.
+  * Customer journey: analyse van het volledig proces van de eerste confrontatie met het probleem tot    de interactie van het horloge met het kind.
+  * HTA (Hierachial Task Analysis): het opsplitsen van het gebruik in taken en subtaken.
+  * Productarchitectuur: Identificeren van verschillende componenten en datastromen en welke functie dit component heeft.
+  * MVP (Minimum Viable Product): Bepaling van de minimale set functies die het toestel moet kunnen toepassen.
     
-Aan de hand van deze analyse wordt er licht geschenen op de kritische interactiepunten, drempels en opportuniteiten voor gedragsverandering voor kinderen. Dit helpt bij de latere ontwikkeling van het concept.
-
 ### Human-Product Interactions
 
 De Human-Product Interactions werden gebruikt om inzichten te creëren omtrent de interacties tussen de gebruiker, het apparaat, het intern systeem van de horloge en de connectiviteit met uitwendige stroomtrackers. Hiervoor werd een funtioneel interactieschema opgesteld. Dit schema visualiseerd verschillende componenten, signalen en datastromen. De verschillende categorieën werden gegroepeerd:
