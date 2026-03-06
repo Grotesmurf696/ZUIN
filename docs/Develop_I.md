@@ -31,11 +31,29 @@ Deze interacties tonen de belangrijkste input-, verwerkings- en feedbackmechanis
 
 Voor het visualiseren van een mogelijks gebruiksscenario is er een nieuwe storyboard gemaakt. Hierin worden de interacties tussen het product en de user gevisualiseerd. Dit is ondertussen al het tweede storyboard. Bij het eerste storyboard werd er nog in duister getast. Er was nog geen concreet concept of plan. In deze verdere fase is er al een concreet idee van het concept en dit is dan verwerkt in de storyboard.
 
-### Benchmarkanalyse
+### Deskresearch
 
+Voor de ontwikkeling van het horloge werd een benchmarkanalyse uitgevoerd om de interacties zo gebruiksvriendelijk te maken. In een eerdere fase werd er ook een benchmarkanalyse uitgevoerd met als doel kennis te verwerven omtrent energiebesparende toestellen op de markt. In deze fase verschuift de focus naar slimme horloges, applicaties en digitale interfaces. Het doel is de meest intuïtieve en gebruiksvriendelijkeinteractie voor een slimme horloge voor kinderen te identificeren.
 
+De analyse werd in 2 categoriên verdeeld:
+
+ * Smartwatches voor volwassenen (N=4)
+ * Smartwatches voor kinderen (N=3)
+ * Habit apps (N=4)
+   
+Op basis van deze inzichten kan achteraf een kindvriendelijke horloge gemaakt worden.
 
 ### User testing
+
+Om inzichten te krijgen omtrent koopbereidheid, gewenste functionaliteit en gebruikersverwachtingen werden interviews uitgevoerd met de ouders van kinderen in de lagere school (N=5). Aangezien ouders de uiteindelijke beslissing nemen om het product aan te schaffen, werd er gekozen om hen centraal te zetten in deze fase en hen te interviewen.
+
+Thema's die aan bod kwamen waren:
+
+ * Koopbereidheid
+ * Functionaliteiten
+ * Ervaringen met habit-changing producten
+
+De interviews werden zowel online als fysiek uitgevoerd.
 
 ## Resultaten
 
