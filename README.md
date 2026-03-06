@@ -64,13 +64,13 @@ Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces t
   * [Protocol](url)
   * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQBBSVxjt0VdSLub2Noc09yTAXX5JLwwVX3_3C1DV2oT8Ro?e=hxkX0X)
 
-  ### Develop 1
-  * User testing (N=5)
-    * [Protocol](url)
-    * [Rapport](url)
-  * Benchmarkanalyse (N=?)
-    * [Protocol](url)
-    * [Rapport](url)
+### Develop 1
+* User testing (N=5)
+  * [Protocol](url)
+  * [Rapport](url)
+* Benchmarkanalyse (N=?)
+  * [Protocol](url)
+  * [Rapport](url)
 
 ## Licentie 
 
