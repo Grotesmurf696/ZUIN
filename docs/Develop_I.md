@@ -63,18 +63,19 @@ De interviews werden zowel online als fysiek uitgevoerd.
  
 <p align="center">
   <img src= "../img/HTA.png" width="80%">
-   
-<p align="center">
-  <img src= "../img/MVP.png" width="40%">
-   
-<p align="center">
-  <img src= "../img/MVP.png" width="40%">
   
  
 ### Human-Product Interactions
 
+<p align="center">
+  <img src= "../img/Human-Product Interactions.png" width="80%">
+ 
 ### Storyboard
 
+<p align="center">
+  <img src= "../img/Storyboard2.png" width="80%">
+
+ 
 ### Benchmarkanalyse
 
 ### User testing
