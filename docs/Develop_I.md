@@ -56,7 +56,7 @@ De interviews werden zowel online als fysiek uitgevoerd.
 
 ## Resultaten
 
-### Customer journey
+### Systeemanalyse
 
 <p align="center">
   <img src= "../img/Double Diamond.jpg" width="80%">
