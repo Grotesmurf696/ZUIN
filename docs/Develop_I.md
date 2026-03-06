@@ -8,6 +8,7 @@ Bij deze fase wordt de ontvangen tussentijdse feedback verwerkt en toegepast. Da
 
 ### Customer journey
 
+De customer journey visualiseert de weg die afgelegt worddt vanaf het punt dat de user, in dit geval de ouders, in contact komen met energierekeningen tot het punt dat
 ### Human-Product Interactions
 
 ### Storyboard
