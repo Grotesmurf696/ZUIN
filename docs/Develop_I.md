@@ -59,7 +59,17 @@ De interviews werden zowel online als fysiek uitgevoerd.
 ### Systeemanalyse
 
 <p align="center">
-  <img src= "../img/Double Diamond.jpg" width="80%">
+  <img src= "../img/Customer_journey.png" width="80%">
+ 
+<p align="center">
+  <img src= "../img/HTA.png" width="80%">
+   
+<p align="center">
+  <img src= "../img/MVP.png" width="80%">
+   
+<p align="center">
+  <img src= "../img/MVP.png" width="80%">
+  
  
 ### Human-Product Interactions
 
