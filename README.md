@@ -66,11 +66,11 @@ Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces t
 
 ### Develop 1
 * User testing (N=5)
-  * [Protocol](url)
-  * [Rapport](url)
-* Benchmarkanalyse (N=?)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQB2XM7peNSuRbQRF3uczHEGATVunaRYGWqFntXtGxvA77w?e=lT3Gpn)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQDQ9hDgR9cTTZiRgUtarAb1AdrubkvxJy0Hyxt71XbfLM4?e=uHcbuw)
+* Benchmarkanalyse (N=7)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQBDr_LCedKySrZPzo6kyY3KATNcAo-kq3Sv-OK4WtQKtB8?e=J5HRo3)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQA4UmP9nbFVTJZZt05vX_MHAeSgGLJWmo1RzYrxio9w0Pg?e=gXMNKF)
 
 ## Licentie 
 
