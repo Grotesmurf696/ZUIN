@@ -59,6 +59,9 @@ De interviews werden zowel online als fysiek uitgevoerd.
 
 ### Customer journey
 
+<p align="center">
+  <img src= "../img/Double Diamond.jpg" width="80%">
+ 
 ### Human-Product Interactions
 
 ### Storyboard
