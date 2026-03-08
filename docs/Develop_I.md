@@ -108,7 +108,7 @@ De volgende systemen worden geïdentificeerd:
 #### MVP
 
 <p align="center">
-  <img src= "../img/MVP2.png" width="40%">
+  <img src= "../img/MVP4.png" width="40%">
 
  ### Human-Product Interactions
 
