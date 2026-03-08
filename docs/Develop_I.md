@@ -276,3 +276,12 @@ De koopbereidheid voor het product hangt sterk af van context.
 #### Card sorting
 
 Tijdens de interviews werden mogelijke functies gecategoriseerd via card sorting.
+
+<p align="center">
+  <img src= "../img/Benchmark1.png" width="80%">
+
+<p align="center">
+  <img src= "../img/Benchmark1.png" width="80%">
+
+<p align="center">
+  <img src= "../img/Benchmark1.png" width="80%">
