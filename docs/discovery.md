@@ -17,21 +17,21 @@ Het project focust niet op het rechtstreeks reduceren van energieverbruik, maar 
 
 ### Materiaal en methoden
 
-#### Benchmarking
+#### Benchmarking (N=10)
 
 Benchmarking werd toegepast om bestaande oplossingen rond energiebewustzijn te analyseren en te vergelijken. Hierbij werd onderzocht welke producten vandaag ingezet worden om energieverbruik inzichtelijk te maken en welke sterktes en zwaktes deze systemen vertonen.
 
-#### Interviews
+#### Interviews (N=3)
 
 Aan de hand van interviews werd nagegaan hoe bewust mensen omgaan met hun energieverbruik, welke impact dit op hen heeft en welke personen binnen het huishouden het meeste verbruiken. Daarnaast werd onderzocht welke triggers mensen motiveren om energie te besparen.
 
-#### Desk research
+#### Desk research (N=6)
 
 Via deskresearch werd onderzocht welke toestellen het meeste energie verbruiken en welke verbruikers vaak vergeten worden, wat leidt tot onbewust en inefficiënt energiegebruik.
 
 ### Resultaten
 
-#### Benchmarking
+#### Benchmarking (N=10)
 
 Uit de benchmarkanalyse blijkt dat bestaande oplossingen zich vooral richten op het meten en visualiseren van energieverbruik, vaak via complexe interfaces en applicaties. Hierdoor zijn deze systemen weinig toegankelijk voor een jong of niet-technisch publiek, terwijl ook zij een belangrijke rol spelen in het huishoudelijk energieverbruik.
 
@@ -49,7 +49,7 @@ Volgende tabel toont een selectie van de meest interessante benchmarks:
 | 6 | Homewizard P1 | Visualisatie van verbruik | P1-plug, real-time app | Bewustmaken van verbruik | €25 | Gebruiksvriendelijk, goedkoop | Veel grafieken → verwarrend |
 
 
-#### Interviews
+#### Interviews (N=3)
 
 Uit de interviews blijkt dat de meeste respondenten moeite hebben om een correct en concreet beeld te vormen van hun elektriciteitsverbruik. Hoewel ze willen besparen, gebeurt dit meestal reactief, op basis van gevoel of na een hoge eindfactuur, en niet structureel.
 
@@ -63,7 +63,7 @@ Terugkerende uitspraken zijn onder andere:
 
 Financiële motivatie blijkt de sterkste drijfveer voor energiebesparing; ecologische overwegingen spelen meestal een secundaire rol. De meeste respondenten staan open voor een hulpmiddel, op voorwaarde dat het betaalbaar, niet-invasief, eenvoudig en begrijpbaar voor kinderen is.
 
-#### Desk research
+#### Desk research (N=6)
 
 Uit de deskresearch blijkt dat het grootste deel van het huishoudelijk energieverbruik veroorzaakt wordt door ruimteverwarming, warmwaterproductie en grote huishoudtoestellen. Hoewel deze verbruikers bekend zijn, wordt hun impact vaak onderschat omdat het verbruik verspreid is over meerdere toestellen en momenten.
 
@@ -80,15 +80,15 @@ Terugkerende patronen uit de deskresearch zijn:
 
 ### Conclusies
 
-#### Benchmarks
+#### Benchmarks (N=10)
 
 Bestaande producten focussen voornamelijk op dataverzameling en grafische weergave, maar onvoldoende op eenvoud en motivatie. Veel systemen vereisen een app, zijn complex of richten zich slechts op één toestel. Geavanceerde systemen zijn vaak duur en moeilijk te installeren. Dit toont aan dat er ruimte is voor een visueel eenvoudige en toegankelijke oplossing, geschikt voor alle bewoners, inclusief kinderen.
 
-#### Interviews
+#### Interviews (N=3)
 
 Uit de interviews blijkt dat bewoners willen besparen, maar dat een gebrek aan inzicht, feedback en gedeelde verantwoordelijkheid dit belemmert. De energiefactuur wordt ervaren als een “black box” en leidt vooral tot tijdelijke, reactieve gedragsveranderingen. Er is nood aan realtime, begrijpbare feedback die ook kinderen aanspreekt, en aan een betaalbare, niet-invasieve oplossing.
 
-#### Desk research
+#### Desk research (N=6)
 
 De literatuur bevestigt dat energieverbruik vooral wordt gedreven door verwarming, warm water en grote toestellen, aangevuld met een aanzienlijk aandeel sluipverbruik. Zonder duidelijke en visuele feedback blijft energieverbruik abstract. Vooral in gezins- en cohousingcontexten is er nood aan eenvoudige, centrale en laagdrempelige hulpmiddelen die duurzame gedragsverandering ondersteunen.
 
