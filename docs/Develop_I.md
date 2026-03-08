@@ -293,4 +293,22 @@ Tijdens de interviews werden mogelijke functies gecategoriseerd via card sorting
   <img src= "../img/Card_sorting1.png" width="80%">
 
 <p align="center">
-  <img src= "../img/Card_Sorting2.png" width="80%">
+  <img src= "../img/Card_Sorting3.png" width="80%">
+
+##### Sterk gewaardeerde functies
+
+ * Virtueel huisdier (speelse motivatie)
+ * Challenges
+ * Gezinscompetitie
+ * Zichtbare progressie of resultaten
+ * Beloningen of badges
+ * Rapporten of overzichten van gedrag
+ * Educatieve elementen zoals quizzen of verhaaltjes
+ * Praktische functies zoals een douche-timer
+
+##### Minder gewenste functies
+
+ * Constant trillen of notificaties
+ * Overmatige visuele of auditieve prikkels
+ * Te complexe of flashy features
+ * Te veel fysieke signalen
