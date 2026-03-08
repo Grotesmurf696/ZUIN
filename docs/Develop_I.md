@@ -47,7 +47,7 @@ Op basis van deze inzichten kan achteraf een kindvriendelijke horloge gemaakt wo
 Om inzichten te krijgen omtrent koopbereidheid, gewenste functionaliteit en gebruikersverwachtingen werden interviews uitgevoerd met de ouders van kinderen in de lagere school (N=5). Aangezien ouders de uiteindelijke beslissing nemen om het product aan te schaffen, werd er gekozen om hen centraal te zetten in deze fase en hen te interviewen.
 
 <p align="center">
-  <img src= "../img/Concept_Poster_Dev_I.jpeg" width="80%">
+  <img src= "../img/Concept_Poster_Dev_I.jpeg" width="40%">
 
 Thema's die aan bod kwamen waren:
 
@@ -271,11 +271,16 @@ Om de functies en koopbereidheid van het ZUIN-concept te evalueren werden semi-g
 
 Uit de interviews blijkt dat energieverbruik weinig actief wordt opgevolgd, hoewel ouders het wel belangrijk vinden.
 
-
+ * Energiebesparing gebeurt via basisgewoontes
+ * Facturen en energieapps worden zelden geanalyseerd
+ * Kinderen worden beperkt betrokken bij besparen
 
 #### Koopbereidheid
 
 De koopbereidheid voor het product hangt sterk af van context.
+
+ * Belangrijke factoren: prijs, leeftijd van kind (8-12 jaar) en meerwaarde
+ * Kan aantrekkelijk zijn als bundel bij energieleverancier
 
 #### Card sorting
 
