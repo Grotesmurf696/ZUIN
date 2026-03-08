@@ -70,10 +70,10 @@ De interviews werden zowel online als fysiek uitgevoerd.
 
 #### HTA
 
+Bij de HTA is de hoofdtaak van het systeem: bijleren over energieverbruik om zo dan gedragsverandering te vertonen. Deze hoofdtaak wordt later opgesplitst in subtaken die dan wederom worden opgsplitst.
+
 <p align="center">
   <img src= "../img/HTA.png" width="80%">
-
-Bij de HTA is de hoofdtaak van het systeem: bijleren over energieverbruik om zo dan gedragsverandering te vertonen. Deze hoofdtaak wordt later opgesplitst in subtaken die dan wederom worden opgsplitst.
 
  * informatie over energieverbruik ophalen
    * Dat wordt verkregen via digitale stroommeters.
@@ -90,11 +90,11 @@ Bij de HTA is de hoofdtaak van het systeem: bijleren over energieverbruik om zo 
 
 #### Productarchitectuur
 
+De productarchitectuur beschrijft welke functies bij welke componenten horen. Het toont ook hoe de energiegegevens uiteindelijk worden vertaald naar informatie voor de kinderen.
+
 <p align="center">
   <img src= "../img/Product_Architectuur.png" width="80%">
  
-De productarchitectuur beschrijft welke functies bij welke componenten horen. Het toont ook hoe de energiegegevens uiteindelijk worden vertaald naar informatie voor de kinderen.
-
 De volgende systemen worden geïdentificeerd:
 
  * Behuizing
@@ -107,20 +107,85 @@ De volgende systemen worden geïdentificeerd:
 
 #### MVP
 
-<p align="center">
-  <img src= "../img/MVP4.png" width="40%">
+<table>
+<tr>
+<td width="60%">
+
+De MVP-analyse identificeert de Minimum Viable product. Zo identificeert het de noodzakelijke functies voor het ZUIN project waar het zeker aan moet voldoen. Uit de analyse kwamen 4 MVP's naar boven:
+
+- **Draagbaar product**  
+  - Het systeem moet in de vorm van een horloge zodat kinderen het altijd bij zich hebben.
+
+- **Bewustwording van verbruik**  
+  - Het toestel moet informatie omtrent energieverbruik begrijpelijk maken voor kinderen.
+
+- **Stimuleren tot actie**  
+  - Het systeem moet kinderen aanzetten tot verandering in hun gedrag.
+
+- **Interface met duidelijke interpretatie**  
+  - Het moet zeer duidelijk in 1 oogopslag tonen wat er verbruikt wordt.
+
+</td>
+
+<td width="40%">
+
+<img src="../img/MVP5.png" width="100%">
+
+</td>
+</tr>
+</table>
 
  ### Human-Product Interactions
+ 
+De HPI-analyse toont hoe de gebruikersinput, de gegevens en de feedback samenhangen en een geheel vormen. De interacties werden opgesplitst per systeemonderdeel.
 
 <p align="center">
   <img src= "../img/Human-Product Interactions.png" width="80%">
+
+ * Aan/Uit
+   * Push input via knoppen
+   * Presence sensor. De horloge krijgt de functie van het energie besparen enkel te huis. (constraints)
+ * Metingen verbruik
+   * Stroomtrackers bij elk apparaaat
+   * Data wordt via connectiviteit met horloge verzonden
+   * Gegevens worden verwerkt en opgeslagen in database
+   * Arduino verwerkt data
+   * Energieverbruik wordt weergegeven als eilandjes (metafoor voor verschillende kamers)
+ * Scherm en interface
+   * Touchscreen voor eenvoudig navigeren
+   * Swipen om te navigeren tussen verschillende kamers
+   * Display toont aan de hand van LED-ring of er veel of weinig verbruikt wordt
+ * Feedback
+   * Visuele feedback: display, LED-ring, monstertje
+   * Speelse feedback: eilandjes, monstertje, verhaaltje
+   * Haptische feedback: vibrerende motor
+ * Antropometrie
+   * Horlogeband
+     * Moet rond de pols gedragen worden
+       * Moet een kinderpols passen
+   * Horloge-omhulsel
+     * beschermen van elektronica
  
 ### Storyboard
+
+Het storyboard visualiseert het gebruiksscenario van het ZUIN horloge. Het toont het gebruik ervan in het dagelijks leven. De eerste versie van het storyboard was een snelle schets tijdens de eerste gezamelijke les dat een aan algemeen beeld toont van het idee van het project. Ondertussen is het project al verfijnd en staat de ZUIN-horloge centraal. Dit storyboard toont dan ook een concreter verhaal met het horloge in geïntegreerd.
 
 <p align="center">
   <img src= "../img/Storyboard2.png" width="80%">
 
- 
+Belangrijke stappen in het scenario:
+
+ * Probleemdetectie
+   * Ouders worden geconfronteerd met hoge energierekeningen
+ * Introductie van het product
+   * Het ZUIN-horloge wordt aan de kinderen gepresenteerd en overhandigt
+ * Interactief leren
+   * Het horloge vertelt de kinderen wanneer er veel verbruikt wordt en wat er aan gedaan moet worden
+ * Gedragsverandering
+   * Kind schakelt niet gebruikte lichten en apparatuur uit
+ * Resultaten
+   * Na verloop van tijd ontvangen ouders lagere energiefacturen
+   
 ### Benchmarkanalyse
 
 ### User testing
