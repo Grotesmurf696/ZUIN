@@ -58,7 +58,7 @@ De interviews werden zowel online als fysiek uitgevoerd.
 
 ### Systeemanalyse
 
-#### Customer Jorney
+#### Customer Journey
 
 <p align="center">
   <img src= "../img/Customer_journey.png" width="80%">
