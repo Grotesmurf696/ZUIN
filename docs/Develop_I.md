@@ -188,4 +188,91 @@ Belangrijke stappen in het scenario:
    
 ### Benchmarkanalyse
 
+#### Smartwatches voor volwassenen (N=4)
+
+Uit de analyse blijkt dat er verschillende interactieparadigma’s gebruikt worden om om te gaan met het kleine scherm van een horloge. De gekozen interactie hangt samen met de primaire gebruikssituatie van het apparaat.
+
+<p align="center">
+  <img src= "../img/Benchmark2.png" width="80%">
+
+ Belangrijke inzichten:
+  * Fysieke interacties blijven belangrijk
+    * Touchscreens en zijn klein en worden snel bedekt met vingerafdrukken
+    * Fysieke knoppen en draairingen verbeteren interactie
+  * Samsung Galaxy Watch 6
+    * De draairing wordt sterk gewaardeerd
+  * Apple Watch series 9
+    * Vloeiende animaties
+    * Responsive interface
+    * Veel functies = complex
+  * Garmin Fenix 8
+    * Goed voor sporters
+    * Voor gewone gebruikers complex
+  * Casio G-Shock
+    * Robuust
+    * Beperkte interactie
+    * Eenvoudig
+
+#### Smartwatches voor kinderen (N=3)
+
+Kinderhorloges houden meer rekening met motorische en cognitieve beperkingen van kinderen. Om die reden zijn interfaces vaak eenvoudiger en visueel duidelijker.
+
+<p align="center">
+  <img src= "../img/Benchmark1.png" width="80%">
+
+Belangrijkste inzichten:
+
+ * Robuuste ontwerpen en grotere knoppen voor eenvoudigere interacties
+ * Ondiepe informatiehiërachie
+ * Complexiteit schuilt niet in horloge zelf maar vaak in een ouder-app
+
+Per product:
+
+ * Garmin Vivofit Jr. 3
+   * gamification met beloningen
+   * lange baterijduur
+   * klein en donker scherm
+ * Xplora X6 Play
+   * GPS en communicatie
+     * Bieden geruststelling aan ouders
+   * Batterijduur is beperkt
+ * Vtech Kidizoom smartwatch DX2
+   * Speelt in op entertainment
+   * Visuele stimulatie
+   * Populair bij kinderen
+
+#### Habit Apps (N=4)
+
+De analyse werd uitgevoerd om te begrijpen welke mechanimen leiden tot gedragsverandering.
+
+| App | Aanpassing doelgroep | Interactiemogelijkheden | Gebruikerservaring | Visuele stijl | Informatie hiërarchie |
+|---|---|---|---|---|---|
+| **Habitica** | Voor gebruikers met motivatieproblemen; taken worden RPG-quests | Taken afvinken, items kopen, sociale interactie | Motiverend door gamification maar soms te streng | Retro pixel-art, felle kleuren | Lijsten met tabs en diepere menu's |
+| **Streaks** | Minimalistische aanpak met max. 24 gewoontes | Long-press interactie met haptische feedback | Zeer gebruiksvriendelijk maar streng bij gemiste dagen | Minimalistisch met iconen | Platte gridstructuur |
+| **Fabulous** | Coaching-app gebaseerd op gedragswetenschap | Swipen door journeys, audiocoaching, routines | Inspirerend maar soms te rigide | Illustraties en vloeiende animaties | Lineaire tijdlijnstructuur |
+| **Habitify** | Gericht op datagedreven gebruikers | Swipen, tikken en interactie met grafieken | Betrouwbaar maar minder speels | Zakelijke dashboardstijl | Navigatiebalk met dashboardstructuur |
+
+Belangrijkste inzichten:
+
+ * Gamification verhoogt motivatie
+ * Visuele feedback en progressie zijn cruciaal voor gedragsverandering
+ * Eenvoudige interacties zoals tikken of swipen
+   * Betere gebruiksgemak
+ * Apps verschillen sterk: informatiehiërachie = plat => diep
+
 ### User testing
+
+Om de functies en koopbereidheid van het ZUIN-concept te evalueren werden semi-gestructureerde interviews met ouders (N = 5) uitgevoerd. De respondenten hadden kinderen in de lagere schoolleeftijd. Tijdens de interviews werd de houding tegenover energieverbruik, koopbereidheid en perceptie van functies onderzocht. Daarnaast werd een card sorting oefening uitgevoerd waarbij ouders verschillende functies moesten categoriseren. De resultaten hiervan zijn weergegeven in de bovenstaande figuren.
+
+#### Houding tegenover energieverbruik
+
+Uit de interviews blijkt dat energieverbruik weinig actief wordt opgevolgd, hoewel ouders het wel belangrijk vinden.
+
+
+#### Koopbereidheid
+
+De koopbereidheid voor het product hangt sterk af van context.
+
+#### Card sorting
+
+Tijdens de interviews werden mogelijke functies gecategoriseerd via card sorting.
