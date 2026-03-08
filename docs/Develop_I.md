@@ -189,7 +189,7 @@ Belangrijke stappen in het scenario:
  * Resultaten
    * Na verloop van tijd ontvangen ouders lagere energiefacturen
    
-### Benchmarkanalyse
+### Deskresearch
 
 #### Smartwatches voor volwassenen (N=4)
 
