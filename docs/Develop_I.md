@@ -263,7 +263,7 @@ Belangrijkste inzichten:
    * Betere gebruiksgemak
  * Apps verschillen sterk: informatiehiërachie = plat => diep
 
-### User testing
+### User testing (N=5)
 
 Om de functies en koopbereidheid van het ZUIN-concept te evalueren werden semi-gestructureerde interviews met ouders (N = 5) uitgevoerd. De respondenten hadden kinderen in de lagere schoolleeftijd. Tijdens de interviews werd de houding tegenover energieverbruik, koopbereidheid en perceptie van functies onderzocht. Daarnaast werd een card sorting oefening uitgevoerd waarbij ouders verschillende functies moesten categoriseren. De resultaten hiervan zijn weergegeven in de bovenstaande figuren.
 
@@ -274,13 +274,16 @@ Uit de interviews blijkt dat energieverbruik weinig actief wordt opgevolgd, hoew
  * Energiebesparing gebeurt via basisgewoontes
  * Facturen en energieapps worden zelden geanalyseerd
  * Kinderen worden beperkt betrokken bij besparen
+   * Ouders vinden dat kinderen hier wel bewuster om moeten worden
 
 #### Koopbereidheid
 
 De koopbereidheid voor het product hangt sterk af van context.
 
  * Belangrijke factoren: prijs, leeftijd van kind (8-12 jaar) en meerwaarde
- * Kan aantrekkelijk zijn als bundel bij energieleverancier
+ * De meningen om het product via een energieleverancier of ander abonnement te verkrijgen zijn verschillend
+   * ouders zouden het product eerder zelfstandig kopen om zelf informatie te kunnen opzoeken
+   * anderen geven aan dat een bundel via een energieleverancier de instapdrempel kan verlagen
 
 #### Card sorting
 
