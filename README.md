@@ -38,7 +38,17 @@ Vanuit deze problematiek werd **ZUIN** ontwikkeld: een **interactief** systeem d
 6. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
-Max. 500 woorden
+Tijdens dit project werd onderzocht hoe kinderen een rol kunnen spelen in het stimuleren van energiebewust gedrag binnen gezinnen. Door kinderen centraal te plaatsen als actoren die hun ouders kunnen aanzetten tot energiebesparing, werd een vernieuwende invalshoek gekozen. Gedurende het project werden verschillende onderzoeksmethoden toegepast, zoals interviews, benchmarking, prototyping, usability testing en systeemanalyse. Deze combinatie van methodes leverde waardevolle inzichten op in zowel het probleem als mogelijke oplossingsrichtingen.
+
+Een sterke kant van het project was het iteratieve ontwerpproces en het gebruik van snelle prototypes. In een vroege fase werden eenvoudige kartonnen modellen gebruikt om ideeën snel tastbaar te maken en reacties van gebruikers te observeren. Hierdoor konden verschillende concepten worden vergeleken zonder grote investeringen in technische ontwikkeling. In latere fases werden prototypes verder verfijnd met 3D-geprinte onderdelen en een fysieke knuffel voor één van de concepten. Hierdoor konden interacties realistischer getest worden en konden gebruikers concreter feedback geven op de verschillende interfaces.
+
+De gebruikerstesten met kinderen leverden belangrijke inzichten op. Zo bleek dat herhaling een belangrijke rol speelt bij het begrijpen van zowel het energieconcept als de navigatie binnen de interface. Daarnaast bleek dat visuele en speelse elementen, zoals duidelijke iconen of gamification, kinderen kunnen motiveren om energieverspilling te herkennen en hierover in gesprek te gaan met hun ouders. Tegelijkertijd kwamen ook verbeterpunten naar voren, zoals te kleine tekst en moeilijk vindbare functies binnen de interface.
+
+Tijdens de Develop 1 fase werd het concept verder geconcretiseerd. Aan de hand van methodes zoals customer journey mapping, HTA, productarchitectuur en human-product interaction analyse werd het systeem achter het concept verder uitgewerkt. Daarnaast werden interviews met ouders uitgevoerd om de koopbereidheid en gewenste functies beter te begrijpen. Uit deze interviews bleek dat speelse elementen zoals een virtueel huisdier, challenges en zichtbare progressie aantrekkelijk zijn, terwijl te sterke prikkels zoals constante vibraties of geluiden eerder als storend worden ervaren. Deze inzichten hielpen om de belangrijkste functionaliteiten van het product scherper te definiëren en een eerste minimum viable product (MVP) te formuleren.
+
+Toch kent het project ook enkele beperkingen. Op bepaalde momenten tijdens de definition fase werd enigszins omgekeerd te werk gegaan in het ontwerpproces. Het product requirements document (PRD) werd namelijk deels beïnvloed door het reeds ontwikkelde concept, terwijl idealiter eerst de gebruikersvereisten duidelijk gedefinieerd worden voordat het product wordt vormgegeven. Hierdoor bestaat het risico dat sommige ontwerpkeuzes eerder voortkwamen uit het bestaande concept dan uit een grondige analyse van de behoeften.
+
+Daarnaast had er tijdens de defenition fase meer aandacht besteed kunnen worden aan het marktpotentieel en de reële wenselijkheid van het product. Hier is later wel op teruggekeerd in de develop fase.
 
 ## Noot inzake het gebruik van AI
 AI werd ingezet om de opnamebestanden die we tijdens de interviews en testen maakten, om te zetten in een uitgeschreven tekst en dit samen te vatten. Dit gebruikten we ter ondersteuning van de notities die ook werden gemaakt, om zo geen enkele info te missen en al onze aandacht te besteden aan de gebruikers. 
