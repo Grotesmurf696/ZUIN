@@ -58,14 +58,59 @@ De interviews werden zowel online als fysiek uitgevoerd.
 
 ### Systeemanalyse
 
+#### Customer Jorney
+
 <p align="center">
   <img src= "../img/Customer_journey.png" width="80%">
  
+ * De analyse toont aan dat ouders de initiële trigger vormen. Dit is in de vorm van een hoge energiefactuur.
+ * Na de trigger verschuift de interactie naar het kind. Het is aan hem/haar om bewuster te worden omtrent verbruik met behulp van het ZUIN horloge.
+ * De feedback zorgt ervoor dat het kind verbruik leert te herkennen en zo zijn/haar gedrag aan te passen.
+ * De eilandjes en het monstertje motiveren het kind om apparaten die niet in gebruik zijn uit te schakelen.
+
+#### HTA
+
 <p align="center">
   <img src= "../img/HTA.png" width="80%">
-  
+
+Bij de HTA is de hoofdtaak van het systeem: bijleren over energieverbruik om zo dan gedragsverandering te vertonen. Deze hoofdtaak wordt later opgesplitst in subtaken die dan wederom worden opgsplitst.
+
+ * informatie over energieverbruik ophalen
+   * Dat wordt verkregen via digitale stroommeters.
+     * Deze data wordt doorgestuurd naar het horloge.
+ * Horloge activeren
+   * De gebruiker zet het horloge aan doormidden van een aan-uitknop
+ * Gewenste kamer bereiken
+   * Er kan tussen de eilandjes (kamers) genavigeerd worden doormiddel van swipen.
+ * verbruik waarnemen
+   * Het kind interpreteert de informatie die wordt weergegeven op het display.
+ * gedrag aanpassen
+   * Concrete actie wordt ondernomen.
+     * Lichten of apparaten die niet in gebruik zijn worden uitgeschakeld.
+
+#### Productarchitectuur
+
+<p align="center">
+  <img src= "../img/Product_Architectuur.png" width="80%">
  
-### Human-Product Interactions
+De productarchitectuur beschrijft welke functies bij welke componenten horen. Het toont ook hoe de energiegegevens uiteindelijk worden vertaald naar informatie voor de kinderen.
+
+De volgende systemen worden geïdentificeerd:
+
+ * Behuizing
+ * Input
+ * proccesing
+ * feedbacksysteem
+ * connectiviteit
+ * energievoorziening
+ * scherm
+
+#### MVP
+
+<p align="center">
+  <img src= "../img/MVP2.png" width="40%">
+
+ ### Human-Product Interactions
 
 <p align="center">
   <img src= "../img/Human-Product Interactions.png" width="80%">
