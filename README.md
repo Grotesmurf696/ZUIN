@@ -34,8 +34,9 @@ Vanuit deze problematiek werd **ZUIN** ontwikkeld: een **interactief** systeem d
 2. [Discovery](./docs/discovery.md)
 3. [Definition](./docs/definition.md)
 4. [Develop I](./docs/Develop_I.md)
-5. [Design Requirements](./docs/design_requirements.md)
-6. [Bill of materials](./docs/bom.md)
+5. [Develop II](./docs/Develop_II.md) 
+6. [Design Requirements](./docs/design_requirements.md)
+7. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
 Tijdens dit project werd onderzocht hoe kinderen een rol kunnen spelen in het stimuleren van energiebewust gedrag binnen gezinnen. Door kinderen centraal te plaatsen, werd een vernieuwende invalshoek gekozen. Gedurende het project werden verschillende onderzoeksmethoden toegepast, zoals interviews, benchmarking, prototyping, usability testing en systeemanalyse. Deze combinatie van methodes leverde waardevolle inzichten op in zowel het probleem als mogelijke oplossingsrichtingen.
