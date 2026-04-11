@@ -18,10 +18,12 @@
 |3.4 | Feedback moet duidelijk maar niet opdringerig zijn | Userinterview Wave 1 | 23/11/2025 | Kan beter|
 |3.5 | Tekstgrootte en iconen moeten geoptimaliseerd zijn voor leesbaarheid door kinderen | Usability Test Wave 2 | 06/12/2025 | Neen|
 |3.6 | Notificaties moeten subtiel en rustig blijven, zonder constant trillen of overmatige visuele/auditieve prikkels te geven. |Interview Develop I |08/03/2026 |Neen|
+|3.7 | Componenten in de gebruikersinterface op het aanraakscherm moeten minimaal 17,5 mm dik zijn om correcte invoer te verzekeren. | Antropometrie Develop II | 11/04/2026 | Neen |
+|3.8 | Tekstgroottes moeten passend zijn voor de doelgroep, gebaseerd op afmetingen die gebruikelijk zijn in kinderboeken (8 tot 12 jaar). | Ergonomie Develop II | 11/04/2026 | Neen |
 |**Groep 4: Gamification en motivatie** | | | | ||
 |4.1 | Het product moet visuele spel-elementen en beloningen bevatten | Userinterview Wave 1 | 23/11/2025 | Ja|
 |4.2 | Er moet positieve feedback worden gegeven bij goed gedrag | Userinterview Wave 1 | 23/11/2025 | Ja|
-&4.3 | Het product moet kinderen motiveren door emotionele elementen | Userinterview Wave 1 | 23/11/2025 | Ja|
+|4.3 | Het product moet kinderen motiveren door emotionele elementen | Userinterview Wave 1 | 23/11/2025 | Ja|
 |4.4 | De interface moet een motiverende metafoor (zoals de "brand") bevatten | Usability Test Wave 2 | 06/12/2025 | Ja|
 |4.5 | Personalisatie-opties moeten worden uitgebreid om engagement te verhogen | Usability Test Wave 2 | 06/12/2025 | Neen|
 |4.6 | Het product moet een virtueel huisdier bevatten als speelse motivatie.|Interview Develop I |08/03/2026 |Neen|
@@ -33,6 +35,12 @@
 |5.2 | Geen overbodige smart-technologie (focus op essentie) | Userinterview Wave 1 | 23/11/2025 | Ja|
 |5.3 | Het product moet betaalbaar zijn voor de doelgroep | Userinterview Wave 1 | 23/11/2025 | /|
 |5.4 | Het ontwerp moet simpel en intuïtief zijn en mag geen complexe of overdreven "flashy" features bevatten.|Interview Develop I|08/03/2026 |Neen|
+|5.5 | Een roterende fysieke draaiknop mag maximaal een draaikracht van 2,7 kg vereisen voor vlotte bediening met duim en wijsvinger. | Antropometrie Develop II | 11/04/2026 | Neen |
+|5.6 | De polsband moet ontworpen zijn voor fijne polsen met vergaande instelbaarheid (marges vanaf minimaal 2,70 cm tot 4,01 cm dikte). | Antropometrie Develop II | 11/04/2026 | Neen |
+|5.7 | Het horloge moet een smalle "fitbit"-achtige form factor krijgen en mag niet log of te breed ontworpen zijn. | Usertest Develop II | 11/04/2026 | Neen |
+|5.8 | Het product moet paradoxaal genoeg zwaarder aanvoelen (ca. 59 gram) om een "steviger" en functioneel "premium" gevoel te waarborgen. | Usertest Develop II | 11/04/2026 | Neen |
+|5.9 | Het toestel moet primair te navigeren zijn met behulp van een fysieke draairing. | Usertest Develop II | 11/04/2026 | Neen |
+|5.10 | Ter aanvulling op de navigatie moet er een visueel duidelijke fysieke linkerknop aanwezig zijn. | Usertest Develop II | 11/04/2026 | Neen |
 |**Groep 6: Connectiviteit en App-integratie** | | | | ||
 |6.1 | Het systeem moet een gekoppelde app-omgeving hebben (ook voor ouders) | Userinterview Wave 1 | 23/11/2025 | Neen|
 |6.2 | De app moet inzicht geven in verbruik en educatieve tips aanbieden | Userinterview Wave 1 | 23/11/2025 | Ja en Neen|

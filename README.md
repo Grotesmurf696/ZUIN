@@ -83,6 +83,11 @@ Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces t
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQBDr_LCedKySrZPzo6kyY3KATNcAo-kq3Sv-OK4WtQKtB8?e=J5HRo3)
   * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQA4UmP9nbFVTJZZt05vX_MHAeSgGLJWmo1RzYrxio9w0Pg?e=gXMNKF)
 
+### Develop II
+* User testing (N=5)
+* [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQCJKVDvwqKgTKK9RB0nfNk9AaBhyWzcBGy-J7qvPvt6oLU?e=MHySDJ)
+* [Rapport](reports%20and%20protocols/Rapport%20Antropometrie%20develop%20II_V1.pdf)
+
 ## Licentie 
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
