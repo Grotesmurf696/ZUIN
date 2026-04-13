@@ -29,9 +29,9 @@ Deze testen vinden plaats in de bibliotheek De Krook. Gezinnen worden aangesprok
 Daarnaast voeren de kinderen een aantal korte opdrachten uit die realistische gebruikssituaties nabootsen, zodat het dragen en gebruiken van de horloges in een alledaagse context kan worden geëvalueerd.
 
 #### Prototypes
+
 <p align="center">
-  <img src="img\/Prototypes_devellop2.JPG" width="80%">
-</p>
+  <img src="../img\Prototypes_devellop2.JPG" width="60%">
 
 
 __________________________________________________________________________________________________________________________________________________________________
