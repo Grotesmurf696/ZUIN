@@ -208,3 +208,4 @@ Ring 3C springt er sterk uit: het hoogste gemiddelde (6,0/7) en de voorkeur van 
 | Behuizing-finish | Knoppen-detaillering (2B-stijl) | Cleane afwerking (2C-stijl) |
 | Tactiele ring | Ringprofiel 3C (gedoseerde weerstand) | Ring 3A (lichtere weerstand) |
 
+> **Beperking**: de steekproefgrootte (N=3) laat geen statistisch significante uitspraken toe. De resultaten zijn kwalitatief indicatief en dienen als input voor de volgende ontwerpiteratie. Een aanvullende kleurenronde is voorzien om de CMF-ervaring volledig te valideren.
