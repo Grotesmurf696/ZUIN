@@ -30,6 +30,8 @@
 |4.7 | Competitie-elementen moeten focussen op de gezinscontext (gezinscompetitie) in plaats van externe competitie. |Interview Develop I|08/03/2026 |Neen|
 |4.8 | Het product moet regelmatig nieuwe challenges en duidelijke, meetbare doelen aanbieden, zoals een douche-timer. |Interview Develop I|08/03/2026 |Neen|
 |4.9 |De gamification mag tegelijkertijd niet verslavend of overweldigend zijn. |Interview Develop I|08/03/2026 |Neen|
+|4.10 | Het virtuele karakter moet ronde vormen, grote ogen en schattige proporties (zoals een grote kop en klein lichaam) bevatten om vertrouwen te wekken. | Rapport UX Develop III | 10/05/2026 | Neen |
+|4.11 | Het visuele ontwerp van het karakter moet eenvoudig en puur blijven; scherpe hoeken en drukke, chaotische details moeten vermeden worden. | Rapport UX Develop III | 10/05/2026 | Neen |
 |**Groep 5: Hardware en Duurzaamheid**| | | | |
 |5.1 | Het product moet draagbaar, compact en eenvoudig zijn | Userinterview Wave 1 | 23/11/2025 | Ja|
 |5.2 | Geen overbodige smart-technologie (focus op essentie) | Userinterview Wave 1 | 23/11/2025 | Ja|
@@ -41,6 +43,9 @@
 |5.8 | Het product moet paradoxaal genoeg zwaarder aanvoelen (ca. 59 gram) om een "steviger" en functioneel "premium" gevoel te waarborgen. | Usertest Develop II | 11/04/2026 | Neen |
 |5.9 | Het toestel moet primair te navigeren zijn met behulp van een fysieke draairing. | Usertest Develop II | 11/04/2026 | Neen |
 |5.10 | Ter aanvulling op de navigatie moet er een visueel duidelijke fysieke linkerknop aanwezig zijn. | Usertest Develop II | 11/04/2026 | Neen |
+|5.11 | Het horlogebandje moet bij voorkeur een stalen of metaal-look uitstralen om een 'premium' perceptie te creëren. | CMF Rapport Develop II | 10/05/2026 | Neen |
+|5.12 | De behuizing moet een speelse, herkenbare afwerking krijgen (bijv. knoppen-detaillering) die aansluit bij de doelgroep. | CMF Rapport Develop II | 10/05/2026 | Neen |
+|5.13 | De tactiele ring (draairing) moet een uitgesproken rib-profiel hebben met een gebalanceerde weerstand voor een aangename en intuïtieve haptische 'snap'. | CMF Rapport Develop II | 10/05/2026 | Neen |
 |**Groep 6: Connectiviteit en App-integratie** | | | | ||
 |6.1 | Het systeem moet een gekoppelde app-omgeving hebben (ook voor ouders) | Userinterview Wave 1 | 23/11/2025 | Neen|
 |6.2 | De app moet inzicht geven in verbruik en educatieve tips aanbieden | Userinterview Wave 1 | 23/11/2025 | Ja en Neen|
