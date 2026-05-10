@@ -141,10 +141,70 @@ Aan de hand van het storyboard werd een service blueprint opgesteld. Per frame w
  
 ### CMF (N=5)
  
-Om de kinderen te rekruteren voor de CMF-test werd een flyer uitgedeeld aan de Woudlopers na afloop van hun activiteit op 2 mei. De test zelf vond plaats op zondag 10 mei om 13u30 op de scouts.
+Om de kinderen te rekruteren werd een flyer uitgedeeld aan de Woudlopers na afloop van hun activiteit op 2 mei. De test zelf vond plaats op zondag 10 mei om 13u30 op de scouts.
  
 <p align="center">
   <img src="../img/Flyer_voor_leden_V2.png" width="60%">
 </p>
-tekst
+| Deelnemer | Leeftijd | Datum | Locatie |
+| --- | --- | --- | --- |
+| Melvin | 9–12 | 10/05/2026 | Scouts – Woudlopers |
+| Lisa | 9–12 | 10/05/2026 | Scouts – Woudlopers |
+| Soni | 9–12 | 10/05/2026 | Scouts – Woudlopers |
+ 
+#### Board 1 – Bandmateriaal (N=3)
+ 
+De vier bandartefacten zijn een klassiek stalen horloge-bandje, een zachte siliconenband van een smartwatch, het bandje van een groot digitaal horloge en een synthetisch lederen bandje (roze). De kinderen droegen elk bandje om de pols en beoordeelden het op aanvoelen.
+ 
+| Deelnemer | Stalen horloge | Smartwatch | Groot horloge | Roze bandje | Voorkeur |
+| --- | --- | --- | --- | --- | --- |
+| Melvin | 7/7 | 1/7 | 2/7 | 1/7 | 1. Stalen horloge |
+| Lisa | 6/7 | 6/7 | 7/7 | 5/7 | 1. Groot horloge |
+| Soni | 6/7 | 6/7 | 2/7 | 7/7 | 1. Roze bandje |
+| **Gemiddeld** | **6.3/7** | **4.3/7** | **3.7/7** | **4.3/7** | |
+ 
+Het stalen horloge-bandje scoort het meest consistent (gemiddeld 6,3/7) en wordt door geen enkele deelnemer laag beoordeeld. Melvin omschrijft het als *"koud en zwaar"*, wat aansluit bij eerder onderzoek waarin een zeker gewicht als 'premium' wordt ervaren. Het roze synthetisch leren bandje toont de grootste spreiding (1–7/7) en is daarmee het meest polariserend.
+ 
+**Conclusie board 1:** het stalen of metaal-look bandje verdient de voorkeur als standaardoptie; synthetisch leer kan als aanpasbare variant worden aangeboden.
+ 
+#### Board 2 – Afwerking & finish behuizing (N=3)
+ 
+Vier horloges met verschillende afwerkingen (glans, mat, geborsteld, knoppen-detail) werden naast elkaar geplaatst. De kinderen mochten de horloges vasthouden en bekijken maar niet omdoen. De focus lag op het visuele en tactiele oordeel over de behuizing en de knoppendetaillering.
+ 
+| Deelnemer | Horloge 2A | Horloge 2B | Horloge 2C | Horloge 2D | Voorkeur |
+| --- | --- | --- | --- | --- | --- |
+| Melvin | 6/7 | 7/7 | 4/7 | 2/7 | 1. Horloge 2B |
+| Lisa | 5/7 | 4/7 | 6/7 | 6/7 | 1. Horloge 2B |
+| Soni | 5/7 | 2/7 | 7/7 | 5/7 | 1. Horloge 2C |
+| **Gemiddeld** | **5.3/7** | **4.3/7** | **5.7/7** | **4.3/7** | |
+ 
+Horloge 2C heeft het hoogste Likert-gemiddelde (5,7/7), maar horloge 2B wordt door 2 van de 3 deelnemers als eerste gekozen. Melvin en Lisa benadrukken het speelse knoppen-detail: *"Omdat er leuke puntjes in de knoppen zitten"*, *"leuke knoopjes, veel knopjes"*. Horloge 2D scoort zowel in Likert als ranking consequent het laagst.
+ 
+**Conclusie board 2:** horloge 2B-stijl (knoppen-detaillering) is de aanbevolen primaire finish-richting; horloge 2C-stijl (cleane afwerking) is een geschikt alternatief. Horloge 2D wordt afgeraden.
+ 
+#### Board 3 – Tactiele ring (N=3)
+ 
+Vier 3D-geprinte prototypes (3A–3D) met elk een ander ribprofiel en een andere weerstand op de draaibare ring werden beoordeeld op haptische kwaliteit. De kinderen draaiden aan alle vier de ringen.
+ 
+| Deelnemer | Ring 3A | Ring 3B | Ring 3C | Ring 3D | Voorkeur |
+| --- | --- | --- | --- | --- | --- |
+| Melvin | 1/7 | 3/7 | 7/7 | 4/7 | 1. Ring 3C |
+| Lisa | 7/7 | 5/7 | 4/7 | 6/7 | 1. Ring 3A |
+| Soni | 3/7 | 5/7 | 7/7 | 4/7 | 1. Ring 3C |
+| **Gemiddeld** | **3.7/7** | **4.3/7** | **6.0/7** | **4.7/7** | |
+ 
+Ring 3C springt er sterk uit: het hoogste gemiddelde (6,0/7) en de voorkeur van 2 van de 3 deelnemers. Melvin motiveert: *"Omdat je er goed aan moet draaien en het niet zo rap draait"* — een gedoseerde weerstand die bewuste bediening vereist. Lisa vormt een uitzondering en verkiest ring 3A: *"Het is niet te hard, maar anders vind ik het ook goed."*
+ 
+**Conclusie board 3:** ring 3C wordt aanbevolen als uitgangspunt voor het definitieve ringprofiel. Ring 3A kan als lichtere variant worden overwogen.
+ 
+#### Algemene aanbevelingen
+ 
+| Onderdeel | Aanbeveling | Alternatief |
+| --- | --- | --- |
+| Bandje | Stalen / metaal-look | Synthetisch leer (aanpasbaar) |
+| Behuizing-finish | Knoppen-detaillering (2B-stijl) | Cleane afwerking (2C-stijl) |
+| Tactiele ring | Ringprofiel 3C (gedoseerde weerstand) | Ring 3A (lichtere weerstand) |
+ 
+> **Beperking**: de steekproefgrootte (N=3) laat geen statistisch significante uitspraken toe. De resultaten zijn kwalitatief indicatief en dienen als input voor de volgende ontwerpiteratie. Een aanvullende kleurenronde is voorzien om de CMF-ervaring volledig te valideren.
+ 
  
