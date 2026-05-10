@@ -64,7 +64,7 @@ Op basis van de deskresearch werden via AI (ChatGPT) verschillende reeksen perso
   <img src="../img/Monsters1.png" width="80%">
 </p>
 <p align="center">
-  <img src="../img/Monsters2.png" width="80%">
+  <img src="../img/Monsters2_1.png" width="80%">
 </p>
 <p align="center">
   <img src="../img/Monsters3.png" width="80%">
