@@ -35,7 +35,7 @@ Vanuit deze problematiek werd **ZUIN** ontwikkeld: een **interactief** systeem d
 3. [Definition](./docs/definition.md)
 4. [Develop I](./docs/Develop_I.md)
 5. [Develop II](./docs/Develop_II.md)
-6. [Develop II](./docs/Develop_III.md) 
+6. [Develop III](./docs/Develop_III.md) 
 7. [Design Requirements](./docs/design_requirements.md)
 8. [Bill of materials](./docs/bom.md)
 
