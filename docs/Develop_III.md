@@ -146,7 +146,7 @@ Voor de eiland-thema's leverden twee klassen (4e en 5e leerjaar) input via een d
 Om de kinderen te rekruteren werd een flyer uitgedeeld aan de Woudlopers na afloop van hun activiteit op 2 mei. De test zelf vond plaats op zondag 10 mei om 13u30 op de scouts.
 
 <p align="center">
-  <img src="../img/Flyer_voor_leden_V2.png" width="60%">
+  <img src="../img/Flyer voor leden_V2.png" width="60%">
 </p>
 
 | Deelnemer | Leeftijd | Datum | Locatie |
@@ -208,4 +208,3 @@ Ring 3C springt er sterk uit: het hoogste gemiddelde (6,0/7) en de voorkeur van 
 | Behuizing-finish | Knoppen-detaillering (2B-stijl) | Cleane afwerking (2C-stijl) |
 | Tactiele ring | Ringprofiel 3C (gedoseerde weerstand) | Ring 3A (lichtere weerstand) |
 
-> **Beperking**: de steekproefgrootte (N=3) laat geen statistisch significante uitspraken toe. De resultaten zijn kwalitatief indicatief en dienen als input voor de volgende ontwerpiteratie. Een aanvullende kleurenronde is voorzien om de CMF-ervaring volledig te valideren.
