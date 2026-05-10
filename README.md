@@ -86,9 +86,16 @@ Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces t
 
 ### Develop II
 * User testing (N=5)
-* [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQCJKVDvwqKgTKK9RB0nfNk9AaBhyWzcBGy-J7qvPvt6oLU?e=MHySDJ)
-* [Rapport](reports%20and%20protocols/Rapport%20Antropometrie%20develop%20II_V1.pdf)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQCJKVDvwqKgTKK9RB0nfNk9AaBhyWzcBGy-J7qvPvt6oLU?e=MHySDJ)
+  * [Rapport](reports%20and%20protocols/Rapport%20Antropometrie%20develop%20II_V1.pdf)
 
+### Develop III
+* UX (N=5)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQCE87OYLkPoSLeUEBKA8ZOGAW0-ACC2SsWIZ68aur9VZFU?e=Nuy6ka)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQCt2AVbV5EVRI2b0jVJg5SmAbfUy89n_DPY29ba11K2PcY?e=HimfZW)
+* CMF (N=3)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQA1UCCAJ_TgQaXbTxmlKouZAayj0iKGaSXlccNmrM6srS8?e=gLT4cX)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQCL0bv7n6oNToLhWx4Y7jRWAU-MgXCiMEMhjw-14VLBr14?e=g69weO)
 ## Licentie 
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
