@@ -140,6 +140,11 @@ Voor de eiland-thema's leverden twee klassen (4e en 5e leerjaar) input via een d
   <img src="../img/Droomeiland.png" width="60%">
 </p>
 
+#### Service design
+
+De customer journey uit Develop I werd aangevuld met duidelijkere grenzen voor wat er vóór, tijdens en na het gebruik plaatsvindt. De journey loopt van de eerste confrontatie met een hoge energiefactuur, over de aanschaf en introductie van het horloge, tot de dagelijkse interactie en langetermijngedragsverandering binnen het gezin.
+
+Aan de hand van het storyboard werd een service blueprint opgesteld. Per frame worden de fysieke acties van de gebruiker en de achterliggende systemen in kaart gebracht, met aandacht voor de betrokkenheid van het kind, de ouder, het horloge, de stroomtrackers en de data-infrastructuur.
 
 ### CMF (N=3)
 
@@ -149,11 +154,21 @@ Om de kinderen te rekruteren werd een flyer uitgedeeld aan de Woudlopers na aflo
   <img src="../img/Flyer voor leden_V2.png" width="60%">
 </p>
 
+De testopstelling bestond uit drie boards naast elkaar op één tafel, elk met de bijhorende vragenlijst en de te evalueren artefacten.
+
+<p align="center">
+  <img src="../img/CMF_OPSTELLING.JPG" width="80%">
+</p>
+
 | Deelnemer | Leeftijd | Datum | Locatie |
 | --- | --- | --- | --- |
 | Melvin | 9–12 | 10/05/2026 | Scouts – Woudlopers |
 | Lisa | 9–12 | 10/05/2026 | Scouts – Woudlopers |
 | Soni | 9–12 | 10/05/2026 | Scouts – Woudlopers |
+
+<p align="center">
+  <img src="../img/CMF_TEST.JPG" width="80%">
+</p>
 
 #### Board 1 – Bandmateriaal (N=3)
 
