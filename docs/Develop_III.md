@@ -64,18 +64,26 @@ Op basis van de deskresearch werden via AI (ChatGPT) verschillende reeksen perso
 
 <p align="center">
   <img src="../img/Monsters1.png" width="80%">
+  <br>
+  <em>Figuur 5.1: Mascotte-ontwerp reeks 1: schattige dieren met ronde vormen.</em>
 </p>
 
 <p align="center">
   <img src="../img/Monsters2_1.png" width="80%">
+  <br>
+  <em>Figuur 5.2: Mascotte-ontwerp reeks 2: kleurrijke en expressieve monsters.</em>
 </p>
 
 <p align="center">
   <img src="../img/Monsters3.png" width="80%">
+  <br>
+  <em>Figuur 5.3: Mascotte-ontwerp reeks 3: speelse, chaotische fantasiewezens.</em>
 </p>
 
 <p align="center">
   <img src="../img/Monsters4.png" width="80%">
+  <br>
+  <em>Figuur 5.4: Mascotte-ontwerp reeks 4: gestileerde, technologische robotfiguren.</em>
 </p>
 
 Uit deskresearch en benchmarkanalyse vloeiden volgende design requirements voort:
@@ -138,6 +146,8 @@ Voor de eiland-thema's leverden twee klassen (4e en 5e leerjaar) input via een d
 
 <p align="center">
   <img src="../img/Droomeiland.png" width="60%">
+  <br>
+  <em>Figuur 5.5: Droomeiland-oefening: input basisschoolkinderen voor interface-thema's.</em>
 </p>
 
 #### Service design
@@ -152,12 +162,16 @@ Om de kinderen te rekruteren werd een flyer uitgedeeld aan de Woudlopers na aflo
 
 <p align="center">
   <img src="../img/Flyer voor leden_V2.png" width="60%">
+  <br>
+  <em>Figuur 5.6: Rekruteringsflyer: CMF-usability tests bij de Scouts Woudlopers.</em>
 </p>
 
 De testopstelling bestond uit drie boards naast elkaar op één tafel, elk met de bijhorende vragenlijst en de te evalueren artefacten.
 
 <p align="center">
   <img src="../img/CMF_OPSTELLING.JPG" width="80%">
+  <br>
+  <em>Figuur 5.7: CMF-testopstelling: boards voor bandjes, behuizingen en tactiele ringen.</em>
 </p>
 
 | Deelnemer | Leeftijd | Datum | Locatie |
@@ -168,6 +182,8 @@ De testopstelling bestond uit drie boards naast elkaar op één tafel, elk met d
 
 <p align="center">
   <img src="../img/CMF_TEST.JPG" width="80%">
+  <br>
+  <em>Figuur 5.8: CMF-usability testing: tactiele beoordeling door Scouts-deelnemers.</em>
 </p>
 
 #### Board 1 – Bandmateriaal (N=3)

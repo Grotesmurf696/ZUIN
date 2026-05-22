@@ -32,6 +32,9 @@ Daarnaast voeren de kinderen een aantal korte opdrachten uit die realistische ge
 
 <p align="center">
   <img src="../img\Prototypes_devellop2.JPG" width="60%">
+  <br>
+  <em>Figuur 4.1: Ergonomische prototypes: smartwatch-ontwerpen getest in De Krook.</em>
+</p>
 
 
 __________________________________________________________________________________________________________________________________________________________________

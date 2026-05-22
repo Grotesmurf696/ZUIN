@@ -13,7 +13,9 @@ De definition-fase werd gestart met een sprintday, waarop dieper werd ingegaan o
 
 <p align="center">
   <img src="../img\Storyboard.jpg" width="80%">
-
+  <br>
+  <em>Figuur 2.1: Storyboard: beoogde gebruiksscenario ZUIN in het huishouden.</em>
+</p>
 Vervolgens werd dit idee fysiek uitgewerkt door drie quick and dirty prototypes. In wave 1 werden deze prototypes gevalideerd door een user feedback session.  
   * **Beer** : Deze knuffelbeer heeft een scherm geïntegreerd in de buik, waar de interface op kan verschijnen.
   * **Horloge** : Deze slimme horloge werkt buitenshuis als een normale horloge waar enkel de tijd op gezien kan worden. Vanaf de horloge thuis komt, zal er een ledje branden om aan te geven of er veel wordt verbruikt. Op                     het scherm zelf zal een interface komen.
@@ -22,10 +24,14 @@ Vervolgens werd dit idee fysiek uitgewerkt door drie quick and dirty prototypes.
 <p align="center">
   <img src="../img\Beer.JPG" width="45%">
   <img src="../img\Tamagotchi.JPG" width="45%">
+  <br>
+  <em>Figuur 2.2: Prototypes Wave 1: Beer (knuffel met buikscherm) en console-concept.</em>
 </p>
 <p align="center">
   <img src="../img\Tamagotchi_alleen.JPG" width="45%">
   <img src="../img\Display Ouders.JPG" width="45%">
+  <br>
+  <em>Figuur 2.3: Prototypes Wave 1: Standalone console en ouderdisplay.</em>
 </p>
 Om wave 1 vlot te kunnen starten, werd er gebeld met een expert vanuit Comon. Hier werd afgetoetst wat de goede leeftijdscategorie is voor onze doelgroep. Hij vertelde dat kinderen vanaf 5 jaar al gehoord hebben van het begrip energieverbruik. De doelgroep werd dus gedefineerd op kinderen van de lagere school (5 - 12 jaar). 
 Verder vertelde hij dat gemification slechts werkt voor 2-4 weken. Hij raadde aan om een betekenisvolle interactie (zoals feedback) te creëren. 
@@ -37,8 +43,10 @@ Kinderen houden van dingen die veranderen, verrassen en verhalend zijn.
 > In de eerste wave van de definition-fase werd onderzocht welk speelgoed kinderen aanspreekt. Op dag van de wetenschap werd een standje opgezet met de drie prototypes. Gezinnen konden hier vrijwillig deelnemen aan een kort interview. Er werden zowel jongens als meisjes geïnterviewd uit de lagere school.
 > 
 > <p align="center">
-  <img src="../img/Interview_wave1 (1).jpg" width="45%">
-</p>
+>   <img src="../img/Interview_wave1 (1).jpg" width="45%">
+>   <br>
+>   <em>Figuur 2.4: User feedback Wave 1: Interviewstand Dag van de Wetenschap.</em>
+> </p>
 
 
 
@@ -52,8 +60,10 @@ Vervolgens werd de interface van het product bepaald. Dit werd op verschillende 
 > Elke taak werd per interface opnieuw uitgevoerd om het effect van herhaling op begrip en navigatie te meten. 
 >
 > <p align="center">
-  <img src="../img/IMG_6032 (1).jpg" width="45%">
-</p>
+>   <img src="../img/IMG_6032 (1).jpg" width="45%">
+>   <br>
+>   <em>Figuur 2.5: Usability testing Wave 2: Wizard-of-Oz-testen in De Krook.</em>
+> </p>
 
 
 ### Resultaten 

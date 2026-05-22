@@ -48,7 +48,9 @@ Om inzichten te krijgen omtrent koopbereidheid, gewenste functionaliteit en gebr
 
 <p align="center">
   <img src= "../img/Concept_Poster_Dev_I.jpeg" width="40%">
-
+  <br>
+  <em>Figuur 3.1: Concept poster: ondersteunend materiaal ouderinterviews (Develop I).</em>
+</p>
 Thema's die aan bod kwamen waren:
 
  * Koopbereidheid
@@ -65,7 +67,9 @@ De interviews werden zowel online als fysiek uitgevoerd.
 
 <p align="center">
   <img src= "../img/Customer_journey.png" width="80%">
- 
+  <br>
+  <em>Figuur 3.2: Customer Journey: route van ouderlijke trigger tot kindgedragsverandering.</em>
+</p> 
  * De analyse toont aan dat ouders de initiële trigger vormen. Dit is in de vorm van een hoge energiefactuur.
  * Na de trigger verschuift de interactie naar het kind. Het is aan hem/haar om bewuster te worden omtrent verbruik met behulp van het ZUIN horloge.
  * De feedback zorgt ervoor dat het kind verbruik leert te herkennen en zo zijn/haar gedrag aan te passen.
@@ -77,7 +81,9 @@ Bij de HTA is de hoofdtaak van het systeem: bijleren over energieverbruik om zo 
 
 <p align="center">
   <img src= "../img/HTA.png" width="80%">
-
+  <br>
+  <em>Figuur 3.3: Hierarchical Task Analysis (HTA): opsplitsing in taken en subtaken.</em>
+</p>
  * informatie over energieverbruik ophalen
    * Dat wordt verkregen via digitale stroommeters.
      * Deze data wordt doorgestuurd naar het horloge.
@@ -97,7 +103,9 @@ De productarchitectuur beschrijft welke functies bij welke componenten horen. He
 
 <p align="center">
   <img src= "../img/Product_Architectuur.png" width="80%">
- 
+  <br>
+  <em>Figuur 3.4: Productarchitectuur: componenten, datastromen en feedbacksysteem smartwatch.</em>
+</p> 
 De volgende systemen worden geïdentificeerd:
 
  * Behuizing
@@ -133,6 +141,8 @@ De MVP-analyse identificeert de Minimum Viable product. Zo identificeert het de 
 <td width="40%">
 
 <img src="../img/MVP5.png" width="100%">
+<br>
+<small><em>Figuur 3.5: Minimum Viable Product (MVP): minimale set functies voor de ZUIN-wearable.</em></small>
 
 </td>
 </tr>
@@ -144,7 +154,9 @@ De HPI-analyse toont hoe de gebruikersinput, de gegevens en de feedback samenhan
 
 <p align="center">
   <img src= "../img/Human-Product Interactions.png" width="80%">
-
+  <br>
+  <em>Figuur 3.6: Human-Product Interactions (HPI): samenhang input, verwerking en feedback.</em>
+</p>
  * Aan/Uit
    * Push input via knoppen
    * Presence sensor. De horloge krijgt de functie van het energie besparen enkel te huis. (constraints)
@@ -175,7 +187,9 @@ Het storyboard visualiseert het gebruiksscenario van het ZUIN horloge. Het toont
 
 <p align="center">
   <img src= "../img/Storyboard2.png" width="80%">
-
+  <br>
+  <em>Figuur 3.7: Storyboard 2: alledaags gebruiksscenario met geïntegreerd ZUIN-horloge.</em>
+</p>
 Belangrijke stappen in het scenario:
 
  * Probleemdetectie
@@ -197,7 +211,9 @@ Uit de analyse blijkt dat er verschillende interactieparadigma’s gebruikt word
 
 <p align="center">
   <img src= "../img/Benchmark2.png" width="80%">
-
+  <br>
+  <em>Figuur 3.8: Benchmark: interactie- en interface-analyse van volwassen smartwatches.</em>
+</p>
  Belangrijke inzichten:
   * Fysieke interacties blijven belangrijk
     * Touchscreens en zijn klein en worden snel bedekt met vingerafdrukken
@@ -222,7 +238,9 @@ Kinderhorloges houden meer rekening met motorische en cognitieve beperkingen van
 
 <p align="center">
   <img src= "../img/Benchmark1.png" width="80%">
-
+  <br>
+  <em>Figuur 3.9: Benchmark: kindersmartwatches, cognitieve drempels en gamification.</em>
+</p>
 Belangrijkste inzichten:
 
  * Robuuste ontwerpen en grotere knoppen voor eenvoudigere interacties
@@ -291,12 +309,21 @@ Tijdens de interviews werden mogelijke functies gecategoriseerd via card sorting
 
 <p align="center">
   <img src= "../img/Card_Sorting.png" width="80%">
+  <br>
+  <em>Figuur 3.10: Card sorting deel 1: groepering en categorisatie van features.</em>
+</p>
 
 <p align="center">
   <img src= "../img/Card_sorting1.png" width="80%">
+  <br>
+  <em>Figuur 3.11: Card sorting deel 2: evaluatie en indeling door ouders.</em>
+</p>
 
 <p align="center">
   <img src= "../img/Card_Sorting3.png" width="80%">
+  <br>
+  <em>Figuur 3.12: Card sorting deel 3: prioriteiten en gewenste smartwatch-functies.</em>
+</p>
 
 ##### Sterk gewaardeerde functies
 
