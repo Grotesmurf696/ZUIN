@@ -14,12 +14,26 @@ Momenteel hebben we een hub die signalen via BLE doorstuurt naar het horloge. He
 ### Bill of Materials
 
 #### Deel 1: Hub
-|Buy or make | Component | Hoeveelheid | Prijs | Opmerkingen |
+| Buy or make | Component | Hoeveelheid | Prijs (€) | Opmerkingen |
 | :---: | :--- | :---: | :---: | :--- |
-| Buy | Arduino Nano IOT 33| 1 | 23.90 |Voor het sturen van signalen en interactie met schakelaars|
-| Buy | Grove Arduino Nano shield| 1 |Voor het makkelijk connecteren van componenten tijdens prototyping|
-| Buy | Grove button |1 |- | Voor het uitschakelen van fictieve lampen |
-| Buy | Grove Led | 2 | Voor het tonen van states |
-| Buy | Grove 16X2 LCD screen | Voor het tonen van teksten |
-| Make | Onderkant van casing | 1 | - | PLA FDM 3D print [Stp](cad\Develop 2\SV-Hub_Onderkant-001.stp)| 
-| Make | Bovenkant van casing | 1 | - | PLA FDM 3D print [Stp](cad\Develop 2\SV-Hub_Bovenkant-001.stp)| 
+| Buy | Arduino Nano 33 IoT | 1 | 23.90 | Voor het sturen van signalen en interactie met schakelaars |
+| Buy | Grove Arduino Nano shield | 1 | - | Voor het makkelijk connecteren van componenten tijdens prototyping |
+| Buy | Grove button | 1 | - | Voor het uitschakelen van fictieve lampen |
+| Buy | Grove Led | 2 | - | Voor het tonen van states |
+| Buy | Grove 16X2 LCD screen | 1 | - | Voor het tonen van teksten over de status van het huis |
+| Make | Onderkant van casing | 1 | - | PLA FDM 3D print [Stp](../cad/Develop%202/SV-Hub_Onderkant-001.stp) |
+| Make | Bovenkant van casing | 1 | - | PLA FDM 3D print [Stp](../cad/Develop%202/SV-Hub_Bovenkant-001.stp) |
+
+#### Deel 2: Wearable
+| Buy or make | Component | Hoeveelheid | Prijs (€) | Opmerkingen |
+| :---: | :--- | :---: | :---: | :--- |
+| Buy | Rond LCD-scherm met ingebouwde esp32 | 1 | - | Voor het tonen van speelse en visuele feedback aan het kind |
+| Make | Onderkant van casing (Wearable) | 1 | - | PLA FDM 3D print [Stp](../cad/Develop%202/SV-Wearable_Onderkant-001.stp) (alternatieve versie: [Stp](../cad/Develop%202/SV-Wearable_Onderkant-001_1.stp)) |
+| Make | Bovenkant van casing (Wearable) | 1 | - | PLA FDM 3D print [Stp](../cad/Develop%202/SV-Wearable_Bovenkant-001.stp) |
+| Make | Knopje / Draairing | 1 | - | PLA FDM 3D print [Stp](../cad/Develop%202/SV-P-Knopje-001.stp) |
+
+// nog veranderen naar de echte files!!
+
+### schema's van de hardware
+
+ 
