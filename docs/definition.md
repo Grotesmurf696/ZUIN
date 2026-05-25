@@ -53,7 +53,7 @@ Kinderen houden van dingen die veranderen, verrassen en verhalend zijn.
 Vervolgens werd de interface van het product bepaald. Dit werd op verschillende manieren in Figma uitgewerkt. 
 
 > #### Wave 2 : usability testing met wizard-of-oz-benadering (N=5)
-> De 2e wave staat centraal rond intuïtief gebruik. Op 6/12/2025 werden enkele testen afgenomen met kinderen in de Krook in Gent. De testpersonen kregen de verschillende interfaces voorzich, en werden gevraagd om telkens 3 taken uit te voeren:
+> De 2e wave staat centraal rond intuïtief gebruik. Op 6/12/2025 werden enkele testen afgenomen met kinderen in de Krook in Gent. De testpersonen kregen de verschillende interfaces voor zich, en werden gevraagd om telkens 3 taken uit te voeren:
 >  * Identificeer een kamer met “brand” (hoog energieverbruik) en 'blus' deze door fysiek een lamp uit te schakelen
 >  * Ga opzoek naar het fantasie-eiland
 >  * Zoek een verhaaltje in de interface
@@ -78,7 +78,7 @@ Ouders staan positiever tegenover het educatieve doel van het concept dan tegeno
 #### Wave 2 : usability testing met wizard-of-oz-benadering (N=5)
 Uit de testen konden enkele algemene observaties gehaald worden. Zo heeft herhaling een sterke positieve invloed op begrip en zelfstandigheid. Bijvoorbeeld het brand-icoontje dat steeds terug kwam motiveerde de kinderen zelfstand de lichten te doven, maar vereiste eerst een duidelijke uitleg. Het verhaaltje vinden was bij de drie interfaces vaak moeilijk, hier is dus een structureel probleem in de informatie-architectuur. Verder is de tekstgrootte te klein voor kinderen om te lezen. Hierdoor is het moeilijker bepaalde info te vinden en het vehaaltje te lezen. Dit merkten ook de ouders op. 
 
-Specifiek per interface was bij UI1 de eerste interactie verwarrend door de onduidelijkheid van het brand-icoontje. Ook de swipe-interactie ward pas spontaan toegepast bij tweede poging. De kinderen gaven aan dat ze graag een personalisatie-optie willen. 
+Specifiek per interface was bij UI1 de eerste interactie verwarrend door de onduidelijkheid van het brand-icoontje. Ook de swipe-interactie werd pas spontaan toegepast bij tweede poging. De kinderen gaven aan dat ze graag een personalisatie-optie willen. 
 De navigatie bij UI2 ging opmerkelijk vlotter door de bekendheid met het concept. Echter kwam de drop-down menu onduidelijk over waardoor de taak van het verhaaltje zoeken hulp nodig had bij het voltooien. 
 UI3 was de interface waar het meeste enthousiasme over was. Toch was de menu eerder verwarrend en is de test vroegtijdig stop gezet door een bug waardoor de knop om het verhaaltje te openen het scherm blokkeerde. 
 
