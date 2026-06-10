@@ -141,13 +141,18 @@ De visuele kenmerken die vertrouwen opwekken:
 | Kleur | Blauw/groentinten | — |
 
 **Design requirement (10):** de mascotte heeft ronde vormen, grote ogen, een groot hoofd ten opzichte van het lichaam en een eenvoudig kleurenpallet in blauw/groentinten.
+<p align="center">
+  <img src="../img/Leaf_Mascotte.png" width="20%">
+  <br>
+  <em>Figuur 5.5: Leaf de mascotte.</em>
+</p>
 
 Voor de eiland-thema's leverden twee klassen (4e en 5e leerjaar) input via een droomeiland-oefening. De kinderen kregen een leeg eiland-template en mochten dit naar eigen fantasie invullen. De meest voorkomende elementen waren glijbanen, hoge gebouwen en dieren. Deze worden verwerkt in de eilandthema's en via Vizcom visueel uitgewerkt.
 
 <p align="center">
-  <img src="../img/Droomeiland.png" width="60%">
+  <img src="../img/Droomeiland.png" width="40%">
   <br>
-  <em>Figuur 5.5: Droomeiland-oefening: input basisschoolkinderen voor interface-thema's.</em>
+  <em>Figuur 5.6: Droomeiland-oefening: input basisschoolkinderen voor interface-thema's.</em>
 </p>
 
 #### Service design
@@ -163,7 +168,7 @@ Om de kinderen te rekruteren werd een flyer uitgedeeld aan de Woudlopers na aflo
 <p align="center">
   <img src="../img/Flyer voor leden_V2.png" width="60%">
   <br>
-  <em>Figuur 5.6: Rekruteringsflyer: CMF-usability tests bij de Scouts Woudlopers.</em>
+  <em>Figuur 5.7: Rekruteringsflyer: CMF-usability tests bij de Scouts Woudlopers.</em>
 </p>
 
 De testopstelling bestond uit drie boards naast elkaar op één tafel, elk met de bijhorende vragenlijst en de te evalueren artefacten.
@@ -171,7 +176,7 @@ De testopstelling bestond uit drie boards naast elkaar op één tafel, elk met d
 <p align="center">
   <img src="../img/CMF_OPSTELLING.JPG" width="80%">
   <br>
-  <em>Figuur 5.7: CMF-testopstelling: boards voor bandjes, behuizingen en tactiele ringen.</em>
+  <em>Figuur 5.8: CMF-testopstelling: boards voor bandjes, behuizingen en tactiele ringen.</em>
 </p>
 
 | Deelnemer | Leeftijd | Datum | Locatie |
@@ -183,7 +188,7 @@ De testopstelling bestond uit drie boards naast elkaar op één tafel, elk met d
 <p align="center">
   <img src="../img/CMF_TEST.JPG" width="80%">
   <br>
-  <em>Figuur 5.8: CMF-usability testing: tactiele beoordeling door Scouts-deelnemers.</em>
+  <em>Figuur 5.9: CMF-usability testing: tactiele beoordeling door Scouts-deelnemers.</em>
 </p>
 
 #### Board 1 – Bandmateriaal (N=3)
