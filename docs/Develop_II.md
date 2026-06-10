@@ -1,7 +1,7 @@
 # Develop II
 
 ## Doelstellingen
-In deze fase wordt er nagegaan hoe de gebruiker het product het aangenaamst ervaart. 
+In deze fase wordt er nagegaan hoe de gebruiker het product het meest aangenaam ervaart. 
 
 ## Materiaal & methoden
 ### Antropometrie
