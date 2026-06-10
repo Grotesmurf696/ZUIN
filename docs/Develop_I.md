@@ -2,7 +2,7 @@
 
 ## Doelstellingen
 
-Bij deze fase wordt de ontvangen tussentijdse feedback verwerkt en toegepast. Daarnaast wordt de kernfunctionaliteit en gebruikersinteracties aangescherpt. Hierdoor wordt er gehoopt de onderzoeksdoelstelling te verduidelijken, zodat er helderheid ontstaat omtrent wat er precies onderzocht moeten worden in verband met gedrags - of energiegerelateerde problemen.
+In deze fase wordt de ontvangen tussentijdse feedback verwerkt en toegepast. Daarnaast wordt de kernfunctionaliteit en gebruikersinteracties aangescherpt. Hierdoor wordt er gehoopt de onderzoeksdoelstelling te verduidelijken, zodat er helderheid ontstaat omtrent wat er precies onderzocht moeten worden in verband met gedrags - of energiegerelateerde problemen.
 
 ## Materiaal & methoden
 
@@ -42,7 +42,7 @@ De analyse werd in 2 categoriên verdeeld:
    
 Op basis van deze inzichten kan achteraf een kindvriendelijke horloge gemaakt worden.
 
-### User testing
+### User testing 
 
 Om inzichten te krijgen omtrent koopbereidheid, gewenste functionaliteit en gebruikersverwachtingen werden interviews uitgevoerd met de ouders van kinderen in de lagere school (N=5). Aangezien ouders de uiteindelijke beslissing nemen om het product aan te schaffen, werd er gekozen om hen centraal te zetten in deze fase en hen te interviewen.
 
@@ -57,6 +57,7 @@ Thema's die aan bod kwamen waren:
  * Functionaliteiten
  * Ervaringen met habit-changing producten
 
+De gewenste functionaliteiten werden bevraagd aan de hand van **Card Sorting**.
 De interviews werden zowel online als fysiek uitgevoerd.
 
 ## Resultaten
@@ -70,10 +71,13 @@ De interviews werden zowel online als fysiek uitgevoerd.
   <br>
   <em>Figuur 3.2: Customer Journey: route van ouderlijke trigger tot kindgedragsverandering.</em>
 </p> 
+  
  * De analyse toont aan dat ouders de initiële trigger vormen. Dit is in de vorm van een hoge energiefactuur.
  * Na de trigger verschuift de interactie naar het kind. Het is aan hem/haar om bewuster te worden omtrent verbruik met behulp van het ZUIN horloge.
  * De feedback zorgt ervoor dat het kind verbruik leert te herkennen en zo zijn/haar gedrag aan te passen.
  * De eilandjes en het monstertje motiveren het kind om apparaten die niet in gebruik zijn uit te schakelen.
+ 
+
 
 #### HTA
 
@@ -84,18 +88,25 @@ Bij de HTA is de hoofdtaak van het systeem: bijleren over energieverbruik om zo 
   <br>
   <em>Figuur 3.3: Hierarchical Task Analysis (HTA): opsplitsing in taken en subtaken.</em>
 </p>
- * informatie over energieverbruik ophalen
-   * Dat wordt verkregen via digitale stroommeters.
-     * Deze data wordt doorgestuurd naar het horloge.
- * Horloge activeren
-   * De gebruiker zet het horloge aan doormidden van een aan-uitknop
- * Gewenste kamer bereiken
-   * Er kan tussen de eilandjes (kamers) genavigeerd worden doormiddel van swipen.
- * verbruik waarnemen
-   * Het kind interpreteert de informatie die wordt weergegeven op het display.
- * gedrag aanpassen
-   * Concrete actie wordt ondernomen.
-     * Lichten of apparaten die niet in gebruik zijn worden uitgeschakeld.
+
+* Informatie over energieverbruik ophalen
+  * Dat wordt verkregen via digitale stroommeters
+    * Deze data wordt doorgestuurd naar het horloge
+  
+* Horloge activeren
+  * De gebruiker zet het horloge aan doormidden van een aan-uitknop
+   
+* Gewenste kamer bereiken
+  *  Er kan tussen de eilandjes (kamers) genavigeerd worden doormiddel van swipen
+   
+* Verbruik waarnemen
+  *  Het kind interpreteert de informatie die wordt weergegeven op het display
+  
+* Gedrag aanpassen
+  * Concrete actie wordt ondernomen
+    * Lichten of apparaten die niet in gebruik zijn worden uitgeschakeld
+
+ 
 
 #### Productarchitectuur
 
@@ -157,23 +168,28 @@ De HPI-analyse toont hoe de gebruikersinput, de gegevens en de feedback samenhan
   <br>
   <em>Figuur 3.6: Human-Product Interactions (HPI): samenhang input, verwerking en feedback.</em>
 </p>
- * Aan/Uit
-   * Push input via knoppen
-   * Presence sensor. De horloge krijgt de functie van het energie besparen enkel te huis. (constraints)
- * Metingen verbruik
-   * Stroomtrackers bij elk apparaaat
-   * Data wordt via connectiviteit met horloge verzonden
-   * Gegevens worden verwerkt en opgeslagen in database
-   * Arduino verwerkt data
-   * Energieverbruik wordt weergegeven als eilandjes (metafoor voor verschillende kamers)
+
+* Aan/Uit
+  * Push input via knoppen
+  * Presence sensor. De horloge krijgt de functie van het energie besparen enkel te huis. (constraints)
+
+* Metingen verbruik
+  * Stroomtrackers bij elk apparaaat
+  * Data wordt via connectiviteit met horloge verzonden
+  * Gegevens worden verwerkt en opgeslagen in database
+  * Arduino verwerkt data
+  * Energieverbruik wordt weergegeven als eilandjes (metafoor voor verschillende kamers)
+
  * Scherm en interface
    * Touchscreen voor eenvoudig navigeren
    * Swipen om te navigeren tussen verschillende kamers
    * Display toont aan de hand van LED-ring of er veel of weinig verbruikt wordt
+     
  * Feedback
    * Visuele feedback: display, LED-ring, monstertje
    * Speelse feedback: eilandjes, monstertje, verhaaltje
    * Haptische feedback: vibrerende motor
+     
  * Antropometrie
    * Horlogeband
      * Moet rond de pols gedragen worden
@@ -215,22 +231,27 @@ Uit de analyse blijkt dat er verschillende interactieparadigma’s gebruikt word
   <em>Figuur 3.8: Benchmark: interactie- en interface-analyse van volwassen smartwatches.</em>
 </p>
  Belangrijke inzichten:
-  * Fysieke interacties blijven belangrijk
-    * Touchscreens en zijn klein en worden snel bedekt met vingerafdrukken
-    * Fysieke knoppen en draairingen verbeteren interactie
-  * Samsung Galaxy Watch 6
-    * De draairing wordt sterk gewaardeerd
-  * Apple Watch series 9
-    * Vloeiende animaties
-    * Responsive interface
-    * Veel functies = complex
-  * Garmin Fenix 8
-    * Goed voor sporters
-    * Voor gewone gebruikers complex
-  * Casio G-Shock
-    * Robuust
-    * Beperkte interactie
-    * Eenvoudig
+ 
+ * Fysieke interacties blijven belangrijk
+   * Touchscreens en zijn klein en worden snel bedekt met vingerafdrukken
+   * Fysieke knoppen en draairingen verbeteren interactie
+    
+ * Samsung Galaxy Watch 6
+   * De draairing wordt sterk gewaardeerd
+     
+ * Apple Watch series 9
+   * Vloeiende animaties
+   * Responsive interface
+   * Veel functies = complex
+     
+ * Garmin Fenix 8
+   * Goed voor sporters
+   * Voor gewone gebruikers complex
+     
+ * Casio G-Shock
+   * Robuust
+   * Beperkte interactie
+   * Eenvoudig
 
 #### Smartwatches voor kinderen (N=3)
 
@@ -310,19 +331,19 @@ Tijdens de interviews werden mogelijke functies gecategoriseerd via card sorting
 <p align="center">
   <img src= "../img/Card_Sorting.png" width="80%">
   <br>
-  <em>Figuur 3.10: Card sorting deel 1: groepering en categorisatie van features.</em>
+  <em>Figuur 3.10: Card sorting deel 1: fysieke interviews.</em>
 </p>
 
 <p align="center">
   <img src= "../img/Card_sorting1.png" width="80%">
   <br>
-  <em>Figuur 3.11: Card sorting deel 2: evaluatie en indeling door ouders.</em>
+  <em>Figuur 3.11: Card sorting deel 2: online interview 1.</em>
 </p>
 
 <p align="center">
   <img src= "../img/Card_Sorting3.png" width="80%">
   <br>
-  <em>Figuur 3.12: Card sorting deel 3: prioriteiten en gewenste smartwatch-functies.</em>
+  <em>Figuur 3.12: Card sorting deel 3: online interview 2.</em>
 </p>
 
 ##### Sterk gewaardeerde functies
