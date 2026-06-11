@@ -4,9 +4,7 @@
 In deze fase verschuift de focus van technische functionaliteit naar gebruikerservaring. 
 
 De interface en fysieke vormfactor worden nu geoptimaliseerd op basis van ergonomische principes en usability-doelstellingen.
-
 De fase omvat een antropometrische onderbouwing van ontwerpkeuzes, variety prototyping om bevestigingsbias te vermijden, en gebruikerstesten. 
-Cognitieve ergonomie, denk aan GESTALT-wetten, signifiers en de 7 stages of action, vormt de theoretische basis voor interface- en vormbeslissingen.
 
 ## Materiaal & methoden
 ### Antropometrie
