@@ -5,10 +5,10 @@
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*Latest update: 12/12/2025*   
+*Latest update: 13/06/2026*   
 
 ## General overview
-ZUIN is een systeem van interactieve producten voor kinderen, interfaces voor de ouders en meetapperatuur voor jouw huis. 
+ZUÏN is een systeem van interactieve producten voor kinderen, interfaces voor de ouders en meetapperatuur voor jouw huis. 
 
 Het bevordert de kennis over energieverbruik bij kinderen, terwijl ze op een speelse en interactieve manier zuinig leren vebruiken. Ook initieert het de interactie tussen ouder en kind om zo ook hun een steentje te laten bijdragen.
 
@@ -16,7 +16,7 @@ Kinderen weten vaak niet hoe energieverbruik echt in elkaar zit en welk apparaat
 
 Aan het midden van ZUIN ligt het horloge. Dit horloge is gemaakt voor kinderen. Het horloge wordt gebruikt als normaal uurwerk doorheen de dag, maar wanneer de kinderen thuis komen krijgt dit horloge een extra functie. Een virtuele en speelse interface waardat op een overzichtelijke manier een beeld wordt geschept van het ogenblikkelijk energieverbruik in huis.
 <p align="center">
-  <img src="img\/Representatie_Concept.jpg" width="80%">
+  <img src="img\/Render ZUÏN.jpeg" width="60%">
   <br>
   <em>Figuur 1: Representatie van het ZUIN horloge.</em>
 </p>
