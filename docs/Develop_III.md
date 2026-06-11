@@ -155,6 +155,27 @@ Voor de eiland-thema's leverden twee klassen (4e en 5e leerjaar) input via een d
   <em>Figuur 5.6: Droomeiland-oefening: input basisschoolkinderen voor interface-thema's.</em>
 </p>
 
+<p align="center">
+  <img src="../img/Droomeiland_kastelen.jpg" width="20%">
+  <img src="../img/Droomeiland_kastelen_interface.png" width="20%">
+  <br>
+  <em>Figuur 5.7: Droomeiland Kasteel.</em>
+</p>
+
+<p align="center">
+  <img src="../img/Droomeiland_dieren.jpg" width="20%">
+  <img src="../img/Droomeiland_dieren_interface.png" width="20%">
+  <br>
+  <em>Figuur 5.8: Droomeiland Dieren.</em>
+</p>
+
+<p align="center">
+  <img src="../img/Droomeiland_sport.jpg" width="20%">
+  <img src="../img/Droomeiland_sport_interface.png" width="20%">
+  <br>
+  <em>Figuur 5.9: Droomeiland Sport.</em>
+</p>
+
 #### Service design
 
 De customer journey uit Develop I werd aangevuld met duidelijkere grenzen voor wat er vóór, tijdens en na het gebruik plaatsvindt. De journey loopt van de eerste confrontatie met een hoge energiefactuur, over de aanschaf en introductie van het horloge, tot de dagelijkse interactie en langetermijngedragsverandering binnen het gezin.
@@ -168,7 +189,7 @@ Om de kinderen te rekruteren werd een flyer uitgedeeld aan de Woudlopers na aflo
 <p align="center">
   <img src="../img/Flyer voor leden_V2.png" width="60%">
   <br>
-  <em>Figuur 5.7: Rekruteringsflyer: CMF-usability tests bij de Scouts Woudlopers.</em>
+  <em>Figuur 5.10: Rekruteringsflyer: CMF-usability tests bij de Scouts Woudlopers.</em>
 </p>
 
 De testopstelling bestond uit drie boards naast elkaar op één tafel, elk met de bijhorende vragenlijst en de te evalueren artefacten.
@@ -176,7 +197,7 @@ De testopstelling bestond uit drie boards naast elkaar op één tafel, elk met d
 <p align="center">
   <img src="../img/CMF_OPSTELLING.JPG" width="80%">
   <br>
-  <em>Figuur 5.8: CMF-testopstelling: boards voor bandjes, behuizingen en tactiele ringen.</em>
+  <em>Figuur 5.11: CMF-testopstelling: boards voor bandjes, behuizingen en tactiele ringen.</em>
 </p>
 
 | Deelnemer | Leeftijd | Datum | Locatie |
@@ -188,7 +209,7 @@ De testopstelling bestond uit drie boards naast elkaar op één tafel, elk met d
 <p align="center">
   <img src="../img/CMF_TEST.JPG" width="80%">
   <br>
-  <em>Figuur 5.9: CMF-usability testing: tactiele beoordeling door Scouts-deelnemers.</em>
+  <em>Figuur 5.12: CMF-usability testing: tactiele beoordeling door Scouts-deelnemers.</em>
 </p>
 
 #### Board 1 – Bandmateriaal (N=3)
