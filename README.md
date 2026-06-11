@@ -55,9 +55,22 @@ Toch kent het project ook enkele beperkingen. Op bepaalde momenten tijdens de de
 Daarnaast had er tijdens de defenition fase meer aandacht besteed kunnen worden aan het marktpotentieel en de reële wenselijkheid van het product. Hier is later wel op teruggekeerd in de develop fase.
 
 ## Noot inzake het gebruik van AI
-AI werd ingezet om de opnamebestanden die we tijdens de interviews en testen maakten, om te zetten in een uitgeschreven tekst en dit samen te vatten. Dit gebruikten we ter ondersteuning van de notities die ook werden gemaakt, om zo geen enkele info te missen en al onze aandacht te besteden aan de gebruikers. 
-Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces te ontwerpen. Op deze manier konden we veel sneller starten met de gebruikerstesten om te begrijpen wat de gebruiker nu echt wilt en wat absoluut niet.  
+AI werd in de verschillende fases ingezet om het ontwerpproces efficiënt te laten verlopen en te ondersteunen. 
+Zo werd in elke fase gebruik gemaakt van een AI die spraak naar tekst convergeert. Zo konden we de opnamebestanden die we tijdens de interviews en testen maakten, om te zetten in een uitgeschreven tekst en dit samen te vatten. Dit gebruikten we ter ondersteuning van de notities die ook werden gemaakt, om zo geen enkele info te missen en al onze aandacht te besteden aan de gebruikers. 
 
+* **Definition**
+  
+  Hier werd AI vooral ingeschakeld om efficiënt via Figma Make enkele interfaces te ontwerpen. Op deze manier konden we veel sneller starten met de gebruikerstesten en op     een efficiënte manier leren begrijpen wat de gebruiker nu echt wilt en wat absoluut niet.
+
+* **Develop 1**
+
+  Via ChatGPT werd een simpele brochure gemaakt die ZUÏN als extra aanbiedt bij een energieleverancier. Aangezien deze enkel werd gebruikt om de interviews iets realistischer te laten voelen, en de interviewee makkelijker te betrekken in het verhaal, moest deze niet van hoogste kwaliteit zijn maar eerder snel en praktisch. ChatGPT was hier dus een makkelijke tool om dit te realiseren. 
+
+* **Develop 3**
+
+  ChatGPT werd ingeschakeld om snel veel verschillende mascottes te ontwerpen die uniek zijn maar toch gebasseerd waren op bestaande figuren uit het leven van kinderen. Denk aan dieren die menselijk worden gemaakt, bekende figuren uit series waar hun eigen stijl verwerkt werd in een nieuw karakter of monstertjes waarvan hun persoonlijkheid weergegeven is. Op deze manier hadden we snel een grote hoeveelheid testmascottes om te testen welke visuele eigenschappen kinderen aanspreekt.
+  Via Viscom werden de tekeningen van de kinderen omgezet in een werkelijke icoontje voor op de interface. Zo werd ZUÏN gemaakt door en voor kinderen.
+  
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=6)
