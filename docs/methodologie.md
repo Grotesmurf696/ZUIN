@@ -2,7 +2,7 @@
 In dit onterwerpproces werd het **Tripel Diamond model gevolgd**. Hierin stelt de eerste diamond de **discovery-fase** voor, de tweede diamond staat voor de **definition-fase** en de derde diamond wordt in het tweede semester uitgewerkt als een **develop- en deliver-fase**.
 
 <p align="center">
-  <img src= "../img/Tripple_Diamond2.jpg" width="80%">
+  <img src= "../img/Finale_Triple_diamond.jpg" width="100%">
   <br>
   <em>Figuur 1: Triple Diamond-ontwerpproces: Discover, Definition en Develop & Deliver.</em>
 </p>
