@@ -142,7 +142,7 @@ De visuele kenmerken die vertrouwen opwekken:
 
 **Design requirement (10):** de mascotte heeft ronde vormen, grote ogen, een groot hoofd ten opzichte van het lichaam en een eenvoudig kleurenpallet in blauw/groentinten.
 <p align="center">
-  <img src="../img/Leaf_Mascotte.png" width="20%">
+  <img src="../img/Mascotte.png" width="70%">
   <br>
   <em>Figuur 5.5: Leaf de mascotte.</em>
 </p>
