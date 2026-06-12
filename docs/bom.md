@@ -28,12 +28,16 @@ Momenteel hebben we een hub die signalen via BLE doorstuurt naar het horloge. He
 | Buy or make | Component | Hoeveelheid | Prijs (€) | Opmerkingen |
 | :---: | :--- | :---: | :---: | :--- |
 | Buy | Rond LCD-scherm met ingebouwde esp32 | 1 | 25.00 | Voor het tonen van speelse en visuele feedback aan het kind |
-| Make | Onderkant van casing (Wearable) | 1 | - | PLA FDM 3D print [Stp](../cad/Develop%202/SV-Wearable_Onderkant-001.stp) (alternatieve versie: [Stp](../cad/Develop%202/SV-Wearable_Onderkant-001_1.stp)) |
-| Make | Bovenkant van casing (Wearable) | 1 | - | PLA FDM 3D print [Stp](../cad/Develop%202/SV-Wearable_Bovenkant-001.stp) |
-| Make | Knopje / Draairing | 1 | - | PLA FDM 3D print [Stp](../cad/Develop%202/SV-P-Knopje-001.stp) |
+| Make | Deksel | 1 | - | PLA FDM 3D print [Stp](../cad/Horloge/prt%20files/Deksel.prt) |
+| Make | Draairing | 1 | - | PLA FDM 3D print [Stp](../cad/Horloge/prt%20files/ring.prt) |
+| Make | Onderkant horloge | 1 | - | PLA FDM 3D print [Stp](../cad/Horloge/prt%20files/onderkant%20horloge.prt) |
 
-// nog veranderen naar de echte files!!
+
 
 ### schema's van de hardware
 
- 
+ <p align="center">
+  <img src="../img/Overzicht hub.png" width="80%">
+  <br>
+  <em>Figuur 1: Overzicht van de hardware van de hub.</em>
+</p>
