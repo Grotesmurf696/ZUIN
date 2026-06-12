@@ -121,7 +121,7 @@ Zo werd in elke fase gebruik gemaakt van een AI die spraak naar tekst convergeer
   * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQCt2AVbV5EVRI2b0jVJg5SmAbfUy89n_DPY29ba11K2PcY?e=HimfZW)
 * CMF (N=3)
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQA1UCCAJ_TgQaXbTxmlKouZAayj0iKGaSXlccNmrM6srS8?e=gLT4cX)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQCL0bv7n6oNToLhWx4Y7jRWAU-MgXCiMEMhjw-14VLBr14?e=g69weO)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/sam_verkimpe_ugent_be/Documents/Academiejaar%202025-26/Project%20gebruiksgericht%20ontwerpen/Jaarproject/Semester%202/Develop%203/CMF/Rapport%20%20CMF%2002.pdf?csf=1&web=1&e=9KGT41)
 ## Licentie 
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
