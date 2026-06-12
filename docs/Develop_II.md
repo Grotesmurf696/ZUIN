@@ -1,7 +1,10 @@
 # Develop II
 
 ## Doelstellingen
-In deze fase wordt er nagegaan hoe de gebruiker het product het aangenaamst ervaart. 
+In deze fase verschuift de focus van technische functionaliteit naar gebruikerservaring. 
+
+De interface en fysieke vormfactor worden nu geoptimaliseerd op basis van ergonomische principes en usability-doelstellingen.
+De fase omvat een antropometrische onderbouwing van ontwerpkeuzes, variety prototyping om bevestigingsbias te vermijden, en gebruikerstesten. 
 
 ## Materiaal & methoden
 ### Antropometrie
@@ -11,7 +14,7 @@ In deze fase wordt er nagegaan hoe de gebruiker het product het aangenaamst erva
 * Polsband
 
 #### Methode
-Deze touchpoints worden geëvalueerd aan de hand van een antropometrische analyse, waarbij rekening wordt gehouden met afmetingen en gebruik door kinderen binnen de doelgroep.
+Deze touchpoints worden geëvalueerd aan de hand van een **antropometrische analyse**, waarbij rekening wordt gehouden met afmetingen en gebruik door kinderen binnen de doelgroep.
 
 
 __________________________________________________________________________________________________________________________________________________________________
@@ -31,7 +34,7 @@ Daarnaast voeren de kinderen een aantal korte opdrachten uit die realistische ge
 #### Prototypes
 
 <p align="center">
-  <img src="../img\Prototypes_devellop2.JPG" width="60%">
+  <img src="../img\Prototypes_devellop2.JPG" width="40%">
   <br>
   <em>Figuur 4.1: Ergonomische prototypes: smartwatch-ontwerpen getest in De Krook.</em>
 </p>
@@ -70,15 +73,15 @@ Tijdens deze tests worden sensorische prikkels (visueel, auditief en tactiel) ge
 
 ### Antropometrie
 
-* Voor het bedienen van de ronde draaiknop volgt men de *design for the small* methode. Dit verzekert dat met een uitsluitende maximale draaikracht van 2,7 kg, ofwel vergelijkbaar met de minst krachtige persoon, het component vlot door de wijsvinger en duim geklemd en bediend kan worden.
-* Er wordt bij het inrichten van een tikbaar aanraakscherm uitgegaan van een ontwerp volgens *design for the tall*; componenten in de gebruikersinterface moeten minimaal 17,5 mm dikte opmeten, ter ondersteuning van grotere vingerwaardes die op het scherm gaan aanduiden. 
-* Polsbandjes zijn een sterk oncomfortabel hekelpunt als deze onvoldoende instelbaar zijn. Ze vallen onder *design for adjustability* wegens vergaande minimale marges (zo smal als 2,70 cm in dikte tot aan maximaal 4,01 cm). Er dienen kleine bandjes ontworpen te worden. 
+* Voor het bedienen van de ronde draaiknop volgt men de **design for the small** methode. Dit verzekert dat met een uitsluitende maximale draaikracht van **2,7 kg**, ofwel vergelijkbaar met de minst krachtige persoon, het component vlot door de wijsvinger en duim geklemd en bediend kan worden.
+* Er wordt bij het inrichten van een tikbaar aanraakscherm uitgegaan van een ontwerp volgens **design for the tall**; componenten in de gebruikersinterface moeten minimaal **17,5 mm** dikte opmeten, ter ondersteuning van grotere vingerwaardes die op het scherm gaan aanduiden. 
+* Polsbandjes zijn een sterk oncomfortabel hekelpunt als deze onvoldoende instelbaar zijn. Ze vallen onder **design for adjustability** wegens vergaande minimale marges (zo smal als **2,70 cm** in dikte tot aan maximaal **4,01 cm**). Er dienen kleine bandjes ontworpen te worden. 
 
 ### Range of motion
 
-* Met betrekking tot het comfort is de kleinste, smalle "*fitbit*"-achtige form factor inclusief een verkleind scherm geliefd. Bredere logge horloges zijn over de gehele lijn oncomfortabel. 
+* Met betrekking tot het comfort is de kleinste, smalle "**fitbit**"-achtige form factor inclusief een verkleind scherm geliefd. Bredere logge horloges zijn over de gehele lijn oncomfortabel. 
 * Opmerkelijk bestaat er binnen het onderzoeken van het toestelgewicht een paradox waar er theoretisch naar lichte polshorloges geneigd word (om de vrije beweeglijkheid van menig kinds arm niet te belemmeren). Het gewicht leidt er in de praktijk echter wel naar dat zwaardere modellen (gemeten 59 g) "steviger" en meer als een "premium" voorwerp beoordeeld worden.
-* Inzake navigatie en interactiemethodes wees de praktijk op een duidelijke unanieme voorkeur voor een fysieke draairing. Er is hiertegenover ter aanvulling ook een vereiste wens voor een visueel duidelijke linkerknop.  
+* Inzake navigatie en interactiemethodes wees de praktijk op een duidelijke unanieme voorkeur voor een **fysieke draairing**. Er is hiertegenover ter aanvulling ook een vereiste wens voor een visueel duidelijke linkerknop.  
 
 ### Ergonomie
 

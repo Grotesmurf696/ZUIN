@@ -5,10 +5,10 @@
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*Latest update: 12/12/2025*   
+*Latest update: 13/06/2026*   
 
 ## General overview
-ZUIN is een systeem van interactieve producten voor kinderen, interfaces voor de ouders en meetapperatuur voor jouw huis. 
+ZUÏN is een systeem van interactieve producten voor kinderen, interfaces voor de ouders en meetapperatuur voor jouw huis. 
 
 Het bevordert de kennis over energieverbruik bij kinderen, terwijl ze op een speelse en interactieve manier zuinig leren vebruiken. Ook initieert het de interactie tussen ouder en kind om zo ook hun een steentje te laten bijdragen.
 
@@ -16,7 +16,7 @@ Kinderen weten vaak niet hoe energieverbruik echt in elkaar zit en welk apparaat
 
 Aan het midden van ZUIN ligt het horloge. Dit horloge is gemaakt voor kinderen. Het horloge wordt gebruikt als normaal uurwerk doorheen de dag, maar wanneer de kinderen thuis komen krijgt dit horloge een extra functie. Een virtuele en speelse interface waardat op een overzichtelijke manier een beeld wordt geschept van het ogenblikkelijk energieverbruik in huis.
 <p align="center">
-  <img src="img/Render Zuin horloge V1.png" width="80%">
+  <img src="img/Render Zuin horloge V2.png" width="80%">
   <br>
   <em>Figuur 1: Representatie van het ZUIN horloge.</em>
 </p>
@@ -24,7 +24,7 @@ Aan het midden van ZUIN ligt het horloge. Dit horloge is gemaakt voor kinderen. 
 ## Introductie
 Energieverbruik in huishoudens vormt een belangrijk maatschappelijk en ecologisch vraagstuk. Hoewel technologische oplossingen zoals digitale meters en monitoring-applicaties steeds vaker worden ingezet, blijft het energieverbruik voor veel gebruikers abstract en moeilijk te interpreteren. In gezinscontexten wordt dit probleem nog complexer, omdat energieverbruik het resultaat is van gedeelde routines en gedragingen, waarbij ook kinderen een belangrijke maar vaak onbewuste rol spelen.
 
-Kinderen groeien op in een wereld waarin energie vanzelfsprekend beschikbaar is, zonder een duidelijk begrip van herkomst, kost of impact. Op school wordt wel een basis van milieubewustzijn aangeleerd, maar vooral het voorbeeld en de druk van de ouders maakt effectief verschil (Aguirre-Bielschowsky et al., 2018) [^1] . Klassieke energiefeedback — zoals apps, grafieken en cijfers — sluiten nauwelijks aan bij de leefwereld van kinderen. Bovendien ervaren ook de ouders het energieverbruik vaak als een “black box”: ze krijgen wel cijfers te zien, maar missen concrete, begrijpbare aanknopingspunten om hun dagelijks gedrag bij te sturen. Energie wordt ervaren als iets onzichtbaars: het is er altijd, komt uit het stopcontact, en verdwijnt weer zonder duidelijke koppeling tussen gedrag en gevolg. Dit maakt het moeilijk om duurzame gewoontes aan te leren, zeker bij jonge gebruikers.
+Kinderen groeien op in een wereld waarin energie vanzelfsprekend beschikbaar is, zonder een duidelijk begrip van herkomst, kost of impact. Op school wordt wel een basis van milieubewustzijn aangeleerd, maar vooral het voorbeeld en de druk van de ouders maakt effectief verschil (Aguirre-Bielschowsky et al., 2018) [^1] . Klassieke energiefeedback zoals apps, grafieken en cijfers sluiten nauwelijks aan bij de leefwereld van kinderen. Bovendien ervaren ook de ouders het energieverbruik vaak als een “black box”: ze krijgen wel cijfers te zien, maar missen concrete, begrijpbare aanknopingspunten om hun dagelijks gedrag bij te sturen. Energie wordt ervaren als iets onzichtbaars: het is er altijd, komt uit het stopcontact, en verdwijnt weer zonder duidelijke koppeling tussen gedrag en gevolg. Dit maakt het moeilijk om duurzame gewoontes aan te leren, zeker bij jonge gebruikers.
 
 Vanuit deze problematiek werd **ZUIN** ontwikkeld: een **interactief** systeem dat energieverbruik op een **speelse** en **begrijpbare** manier zichtbaar maakt voor kinderen, en tegelijk de **dialoog tussen ouder en kind** stimuleert. Het project focust niet op het technisch optimaliseren van installaties, maar op **bewustmaking, educatie en langdurige gedragsverandering** via dagelijkse **interactie en betekenisvolle** feedback.
 
@@ -46,18 +46,42 @@ Tijdens dit project werd onderzocht hoe kinderen een rol kunnen spelen in het st
 
 Een sterke kant van het project was het iteratieve ontwerpproces en het gebruik van snelle prototypes. In een vroege fase werden eenvoudige kartonnen modellen gebruikt om ideeën snel tastbaar te maken en reacties van gebruikers te observeren. In latere fases werden prototypes verder verfijnd met 3D-geprinte onderdelen en een fysieke knuffel voor één van de concepten. Hierdoor konden interacties realistischer getest worden en konden gebruikers concreter feedback geven op de verschillende interfaces.
 
-De gebruikerstesten met kinderen leverden belangrijke inzichten op. Zo bleek dat herhaling een belangrijke rol speelt bij het begrijpen van zowel het energieconcept als de navigatie binnen de interface. Daarnaast bleek dat visuele en speelse elementen, zoals duidelijke iconen of gamification, kinderen kunnen motiveren om energieverspilling te herkennen en hierover in gesprek te gaan met hun ouders. Tegelijkertijd kwamen ook verbeterpunten naar voren, zoals te kleine tekst en moeilijk vindbare functies binnen de interface.
+Elke wave werden participanten voor gebruikerstesten op een andere manier gerekruteerd. Op die manier is er een insteek van een brede waaier aan verschillende meningen in ons project, en zijn we niet beperkt tot maar enkele mensen uit hetzelfde milieu.
 
-Tijdens de Develop 1 fase werd het concept verder geconcretiseerd. Aan de hand van methodes zoals customer journey mapping, HTA, productarchitectuur en human-product interaction analyse werd het systeem achter het concept verder uitgewerkt. Daarnaast werden interviews met ouders uitgevoerd om de koopbereidheid en gewenste functies beter te begrijpen. Uit deze interviews bleek dat speelse elementen zoals een virtueel huisdier, challenges en zichtbare progressie aantrekkelijk zijn, terwijl te sterke prikkels zoals constante vibraties of geluiden eerder als storend worden ervaren. Deze inzichten hielpen om de belangrijkste functionaliteiten van het product scherper te definiëren en een eerste minimum viable product (MVP) te formuleren.
+In de definition-fase konden we een stand opzetten op dag van de Wetenschap in de UGent Campus Kortrijk. Hier kregen we inzichten van enkele gemotiveerde en geïnteresseerde kinderen, maar ook hun ouders hielpen ons proces verder. 
+
+Daarna maakten we in wave 1 en 2 van de develop-fase gebruik van de faciliteiten van bibliotheek de Krook. We konden ons daar in de inkomhal zetten en zo konden mensen met interesse vrijwillig deelnemen. Dit waren compleet vreemden voor ons. Ze hadden dus ook geen vooroordeel. 
+
+In wave 3 van deze fase, testten we de UX in een klas uit de lagere school. Ook deze kinderen hadden nog niet eerder over ZUÏN gehoord en leverde een nieuwe inkijk. Vanuit een andere hoek kregen we feedback over de CMF. Dit werd namelijk getest op de Scouts. 
 
 Toch kent het project ook enkele beperkingen. Op bepaalde momenten tijdens de definition fase werd enigszins omgekeerd te werk gegaan in het ontwerpproces. Het product requirements document (PRD) werd namelijk deels beïnvloed door het reeds ontwikkelde concept, terwijl idealiter eerst de gebruikersvereisten duidelijk gedefinieerd worden voordat het product wordt vormgegeven. Hierdoor bestaat het risico dat sommige ontwerpkeuzes eerder voortkwamen uit het bestaande concept dan uit een grondige analyse van de behoeften.
 
 Daarnaast had er tijdens de defenition fase meer aandacht besteed kunnen worden aan het marktpotentieel en de reële wenselijkheid van het product. Hier is later wel op teruggekeerd in de develop fase.
 
-## Noot inzake het gebruik van AI
-AI werd ingezet om de opnamebestanden die we tijdens de interviews en testen maakten, om te zetten in een uitgeschreven tekst en dit samen te vatten. Dit gebruikten we ter ondersteuning van de notities die ook werden gemaakt, om zo geen enkele info te missen en al onze aandacht te besteden aan de gebruikers. 
-Verder werd AI ook ingeschakeld om efficiënt via Figma Make enkele interfaces te ontwerpen. Op deze manier konden we veel sneller starten met de gebruikerstesten om te begrijpen wat de gebruiker nu echt wilt en wat absoluut niet.  
+Een andere grote beperking in het ontwerp is de invloed op lange termijn. Deze wilden we testen met een ‘hub’ die de energiemeter nabootst en een ‘handheld’ die gelijkend is aan het horloge. De ‘hub’ zou op willekeurige momenten een signaal naar de ‘handheld’ sturen. Dit bootst een piekmoment van energie na. Het kind zou dan naar de ‘hub’ gaan en op de drukknop duwen. Op die manier zou het kind “de energie” uitzetten. Daarbij zou de ouder een korte vragenlijst krijgen om het gedrag van het kind op het moment van de trigger te analyseren. Deze test zou een meerdaagse test zijn, om te testen of het enthousiasme blijft. Echter zijn we daar niet geraakt. Door problemen bij het programmeren is de verbinding tussen de ‘hub’ en de ‘handheld’ pas veel later tot stand gekomen dan gewenst. Hierdoor was er niet meer voldoende tijd om de test nog effectief uit te voeren over meerdere dagen. Dit is zeker nog iets wat zou moeten gebeuren om de value promise van ZUÏN volledig te begrijpen. 
 
+Deze test zou ook inkaart brengen welke triggers en beloningen motiveren. Het moeilijke bij triggers is dat deze moeten opvallen maar niet irriteren. Deze mogen het leven van het kind niet overnemen, maar wel duidelijk genoeg zijn dat het kind er niet overkijkt. Ook dit is iets wat pas zichtbaar is op lange termijn. Een trigger die eerst aantrekkelijk lijkt kan al snel gewoonte worden waardoor het kind er geen aandacht meer aan besteed. Andersom kan een leuke trigger ook snel irriteren. 
+
+Beloningen is een groot onderdeel van ZUÏN. Dit is namelijk de drijfveer van de kinderen. Zeker bij kinderen is dit eveneens iets dat op langere termijn hard kan veranderen. Een kind van 8 tot 12 is veel aan het ontdekken en komt veel nieuwe dingen tegen. Hierdoor wisselen ze snel van interesses. Het is dus belangrijk om een beloningsysteem te gebruiken dat niet uit de mode gaat. We wilden dus eveneens testen bij de lange termijn test van de ‘hub’ en ‘wereable’ hoe motiverend en belangrijk het beloningsysteem daadwerkelijk is.  
+
+
+## Noot inzake het gebruik van AI
+AI werd in de verschillende fases ingezet om het ontwerpproces efficiënt te laten verlopen en te ondersteunen. 
+Zo werd in elke fase gebruik gemaakt van een AI die spraak naar tekst convergeert. Zo konden we de opnamebestanden die we tijdens de interviews en testen maakten, om te zetten in een uitgeschreven tekst en dit samen te vatten. Dit gebruikten we ter ondersteuning van de notities die ook werden gemaakt, om zo geen enkele info te missen en al onze aandacht te besteden aan de gebruikers. 
+
+* **Definition**
+  
+  Hier werd AI vooral ingeschakeld om efficiënt via Figma Make enkele interfaces te ontwerpen. Op deze manier konden we veel sneller starten met de gebruikerstesten en op     een efficiënte manier leren begrijpen wat de gebruiker nu echt wilt en wat absoluut niet.
+
+* **Develop 1**
+
+  Via ChatGPT werd een simpele brochure gemaakt die ZUÏN als extra aanbiedt bij een energieleverancier. Aangezien deze enkel werd gebruikt om de interviews iets realistischer te laten voelen, en de interviewee makkelijker te betrekken in het verhaal, moest deze niet van hoogste kwaliteit zijn maar eerder snel en praktisch. ChatGPT was hier dus een makkelijke tool om dit te realiseren. 
+
+* **Develop 3**
+
+  ChatGPT werd ingeschakeld om snel veel verschillende mascottes te ontwerpen die uniek zijn maar toch gebasseerd waren op bestaande figuren uit het leven van kinderen. Denk aan dieren die menselijk worden gemaakt, bekende figuren uit series waar hun eigen stijl verwerkt werd in een nieuw karakter of monstertjes waarvan hun persoonlijkheid weergegeven is. Op deze manier hadden we snel een grote hoeveelheid testmascottes om te testen welke visuele eigenschappen kinderen aanspreekt.
+  Via Viscom werden de tekeningen van de kinderen omgezet in een werkelijke icoontje voor op de interface. Zo werd ZUÏN gemaakt door en voor kinderen.
+  
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=6)
