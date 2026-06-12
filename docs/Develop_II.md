@@ -60,7 +60,7 @@ Voor de draaibare ring werd de **laterale knijpkracht** (lateral pinch strength)
 *Bron: Wen J, Wang J, Xu Q, et al. (2020). Hand anthropometry and its relation to grip/pinch strength in children aged 5 to 13 years. Journal of International Medical Research, 48(12).*
 
 <p align="center">
-  <img src="../img/Lateral_pinch_strength.jpg" width="60%">
+  <img src="../img/pinch_strength.jpg" width="60%">
   <br>
   <em>Figuur 4.2: Lateral pinch strength.</em>
 </p>
@@ -106,7 +106,7 @@ Voor de polsband werd de **polsdikte** (wrist thickness) opgemeten. Aangezien de
 *Bron: Wen J, Wang J, Xu Q, et al. (2020). Hand anthropometry and its relation to grip/pinch strength in children aged 5 to 13 years.*
 
 <p align="center">
-  <img src="../img/Band_pols.jpg" width="60%">
+  <img src="../img/polsbreedte.jpg" width="60%">
   <br>
   <em>Figuur 4.3: Polsdiktes.</em>
 </p>
