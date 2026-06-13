@@ -15,7 +15,7 @@ Doorheen de **Double Diamond** (Discovery, Definition en drie Develop-waves) gro
 - **Een tastbaar, kindgericht product.** De CMF- en antropometrie-tests vertaalden vage voorkeuren naar concrete keuzes: een draairing met een aangename haptische "snap", een instelbaar bandje voor fijne polsen, en een afwerking die premium oogt maar speels blijft.
 
 <p align="center">
-  <img src="img/Interface.png" width="40%">
+  <img src="../img/Interface.png" width="40%">
   <br>
   <em>Figuur 1: Interface ZUÏN.</em>
 </p>
