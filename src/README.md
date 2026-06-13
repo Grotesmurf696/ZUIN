@@ -55,7 +55,7 @@ Upload de code naar de Seeed XIAO ESP32S3. Het scherm toont bij het opstarten de
 Onderstaand schema toont de volledige logica van het systeem: links de hub, rechts de handheld. De groene stippellijnen geven de BLE-communicatie weer tussen beide apparaten.
  
 <p align="center">
-  <img src="img/zuin_systeem_flowchart.svg" width="88%">
+  <img src="../img/zuin_systeem_flowchart.svg" width="88%">
 
 
 ---
@@ -67,7 +67,7 @@ Onderstaand schema toont de volledige logica van het systeem: links de hub, rech
 De hub bevat een drukknop die de gebruiker (het kind) in staat stelt om aan te geven dat een apparaat uitgeschakeld is. De knop is verbonden op pin 2 van het Arduino-bordje. Wanneer de knop ingedrukt wordt terwijl een signaal actief is, roept de hub de functie `turnOffDevice()` aan. Het LCD-scherm toont vervolgens welk apparaat uitgeschakeld werd.
 
 <p align ="center">
-  <Img src="img/HUB.jpg" width='40%'>
+  <Img src="../img/HUB.jpg" width='40%'>
 
 
 De code maakt gebruik van de `digitalRead()` functie van de standaard Arduino library.
@@ -94,7 +94,7 @@ Zowel de hub als handheld v1 maken gebruik van een Grove RGB LCD-scherm met 16 k
 **Handheld v1:** toont "ZUIN HANDHELD" tijdens idle, en "Apparaat aan! / Ga naar hub!" wanneer een signaal ontvangen wordt.
 
 <p align = "center">
-  <Img src="img/HANDHELD_V1.jpg" width='40%'>
+  <Img src="../img/HANDHELD_V1.jpg" width='40%'>
 
 De code maakt gebruik van de `rgb_lcd` library voor aansturing van het scherm via I2C.
 
@@ -106,8 +106,8 @@ De handheld v2 gebruikt een rond TFT-display van 240x240 pixels, aangestuurd via
 - **Screen 2, 3, 4** — elk een ander vlammetje dat verschijnt bij een energiesignaal
 
 <p align = "center">
-  <Img src="img/Horloge_vuur.JPG" width='40%'>
-  <Img src="img/Horloge_tijd.JPG" width='42%'>
+  <Img src="../img/Horloge_vuur.JPG" width='40%'>
+  <Img src="../img/Horloge_tijd.JPG" width='42%'>
 
 De drie vlammetjes zijn opgeslagen als gecompileerde C-afbeeldingsbestanden (`ui_img_761137763.c`, `ui_img_1057345124.c`, `ui_img_1448235480.c`) en een achtergrond van een eiland (`ui_img_palm_trees_and_island_png_clipart_imag...c`).
 
@@ -118,8 +118,8 @@ De drie vlammetjes zijn opgeslagen als gecompileerde C-afbeeldingsbestanden (`ui
 **Handheld v1:** één LED op pin 4 licht op wanneer een signaal ontvangen wordt van de hub.
 
 <p align = "center">
-  <Img src="img/HUB.jpg" width='40%'> 
-  <Img src="img/HANDHELD_V1.jpg" width='41%'>
+  <Img src="../img/HUB.jpg" width='40%'> 
+  <Img src="../img/HANDHELD_V1.jpg" width='41%'>
 
 
 De LEDs worden aangestuurd via `digitalWrite()`.
@@ -129,7 +129,7 @@ De LEDs worden aangestuurd via `digitalWrite()`.
 De handheld v1 bevat een haptic motor op pin 6. Wanneer een signaal ontvangen wordt, trilt de motor drie keer kort (`300ms aan, 200ms uit`). Dit geeft het kind een tastbare melding zonder dat het naar het scherm hoeft te kijken.
 
 <p align = "center">
-  <Img src="img/HANDHELD_V1.jpg" width='40%'>
+  <Img src="../img/HANDHELD_V1.jpg" width='40%'>
 
 
 ### RTC-klok (Handheld v2)
@@ -137,7 +137,7 @@ De handheld v1 bevat een haptic motor op pin 6. Wanneer een signaal ontvangen wo
 De handheld v2 bevat een I2C BM8563 RTC-module die de huidige tijd bijhoudt. De tijd wordt elke seconde uitgelezen en weergegeven op het hoofdscherm via een LVGL label (`ui_ClockLabel`). De RTC is verbonden via SDA (pin 5) en SCL (pin 6).
 
 <p align = "center">
-  <Img src="img/HANDHELD_V2.JPG" width='40%'>
+  <Img src="../img/HANDHELD_V2.JPG" width='40%'>
 
 De code maakt gebruik van de `I2C_BM8563` library.
 
