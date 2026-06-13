@@ -68,7 +68,7 @@ Beloningen is een groot onderdeel van ZUÏN. Dit is namelijk de drijfveer van de
 
 ## Noot inzake het gebruik van AI
 AI werd in de verschillende fases ingezet om het ontwerpproces efficiënt te laten verlopen en te ondersteunen. 
-Zo werd in elke fase gebruik gemaakt van een AI die spraak naar tekst convergeert. Zo konden we de opnamebestanden die we tijdens de interviews en testen maakten, om te zetten in een uitgeschreven tekst en dit samen te vatten. Dit gebruikten we ter ondersteuning van de notities die ook werden gemaakt, om zo geen enkele info te missen en al onze aandacht te besteden aan de gebruikers. 
+Zo werd in elke fase gebruik gemaakt van een AI die spraak naar tekst convergeert. Zo konden we de opnamebestanden die we tijdens de interviews en testen maakten, om te zetten in een uitgeschreven tekst en dit samen te vatten. Dit gebruikten we ter ondersteuning van de notities die ook werden gemaakt, om zo geen enkele info te missen en al onze aandacht te besteden aan de gebruikers. Daarnaast werd AI gebruikt om de teksten waar nodig te corrigeren en presentabeler te maken.
 
 * **Definition**
   
