@@ -14,6 +14,19 @@ Doorheen de **Double Diamond** (Discovery, Definition en drie Develop-waves) gro
 - **Ouder en kind naast elkaar, niet tegenover elkaar.** Het horloge stimuleert het gesprek tussen ouder en kind. Vanuit de aanvankelijke onwetendheid van het kind ontstaat nieuwsgierigheid en uitleg, en groeit er een gedeelde betrokkenheid. Zo verschuift de dynamiek van "doe het licht uit!" naar samen iets bereiken.
 - **Een tastbaar, kindgericht product.** De CMF- en antropometrie-tests vertaalden vage voorkeuren naar concrete keuzes: een draairing met een aangename haptische "snap", een instelbaar bandje voor fijne polsen, en een afwerking die premium oogt maar speels blijft.
 
+<p align="center">
+  <img src="img/Interface.png" width="40%">
+  <br>
+  <em>Figuur 1: Interface ZUÏN.</em>
+</p>
+
+ZUÏN bestaat uit een eenvoudige interface die tot leven komt zodra het kind thuiskomt. Buitenshuis gedraagt ZUÏN zich gewoon als een normaal horloge.
+
+De interface is opgebouwd uit verschillende eilanden, die elk een deel van het huis voorstellen.
+
+Wanneer het verbruik in een bepaalde kamer piekt, verschijnt er een vuurring. Die geeft aan waar hulp nodig is: het kind moet het eiland redden door het piekmoment terug te dringen.
+
+Doorheen de dag komt Leaf af en toe langs om het kind aan te moedigen en samen te onderzoeken hoe ze minder energie kunnen verbruiken. Zo wordt Leaf een echte vriend.
 
 
 #### Beperkingen en wat nog ontbreekt
