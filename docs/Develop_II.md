@@ -167,7 +167,7 @@ Dit is de meest opvallende bevinding uit de test:
 | Losse gewichtjes (theoretisch) | Lichtste gewicht | Bewegingsvrijheid, *"voelt alsof je niets aanhebt"* |
 | Werkend horloge (praktijk) | Zwaarder (Gear S3, 59 g) | *"Beter"*, *"premium"*, *"steviger"* |
 
-De extra respondent (Lars) bevestigde: *"een iets zwaarder horloge voelt meer premium en steviger aan."* Emma vormde de uitzondering — voor haar was de Gear S3 te zwaar voor continu gebruik.
+De extra respondent (Lars) bevestigde: *"een iets zwaarder horloge voelt meer premium en steviger aan."* Emma vormde de uitzondering, voor haar was de Gear S3 te zwaar voor continu gebruik.
 
 > **Conclusie:** een klein scherm en een kleine band, maar met een relatief zwaarder gewicht (richting ~59 g) wordt als optimaal ervaren.
 
@@ -194,7 +194,7 @@ Het originele opzet van deze Develop II was om een eerste prototype van het **vo
 
 Dit idee werd verworpen omwille van twee redenen:
 - Er waren problemen met de conectiveit tussen de twee toestellen. Achteraf bleek dat er iets mis was met de microcontrollers. Dit werd zeer laat in het project ontdekt waardoor de tests zijn weggevallen.
-- Er zou geen tijd meer zijn om genoeg data te verzamelen (vijf gezinnen twee dagen lang laten testen) om tot een reële conclusie te komen.
+- Er zou geen tijd meer zijn om genoeg data te verzamelen (vijf gezinnen twee dagen lang laten testen) om tot een reële conclusie te komen. Kinderen gaan in de week naar school en ouders werken, waardoor alleen in de weekenden of vakanties getest zou kunnen worden. Enerzijds om genoeg data te kunnen verkrijgen, anderzijds omdat het voor ouders ook doorgaans beter past in de weekenden. 
 
 
 Een beperking van de huidige fase is dat de usertest met N=5 kwalitatief van aard blijft en dat de antropometrische bronnen deels gebaseerd zijn op een niet-Westerse populatie (Chinese kinderen voor de vingerbreedte). Voor het verdere ontwerp werd hier marge op toegelaten.
