@@ -97,13 +97,13 @@ Zo werd in elke fase gebruik gemaakt van een AI die spraak naar tekst convergeer
 
 ### Definition
 * User testing wave 1 (N=5)
-  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQC8tEje_yFzSamdKWDDOaGFAbIKFai_KvVj0mNIbBrrtQk?e=JygQLY)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQD9Kj5Tx0cIRJQROee65qW5Adg2_tDG4xOJkzBVwp7rk9g?e=vG1YrG)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQDWMKsc2QKeSKaAeMUzAG5MAZcDLzCf8KAvd7KS3yiZGkY?e=BgUy0p)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQBzZMysacB-S6drTZJ2RzhIAVSfR45oQEZheUL2pKdH228?e=841gMb)
 * User testing wave 2 (N=5)
-  * [Protocol](url)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQBBSVxjt0VdSLub2Noc09yTAXX5JLwwVX3_3C1DV2oT8Ro?e=hxkX0X)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQAnpSB6ntXoSrYw-srLekfjAZP3fpYSlYS78TLyiaTcl7U?e=EbcM2Z)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQADF7ljjY2cQKnFW2vlJumVAUnOLvhR5XoyOQKa8V-7RHU?e=uYalXc)
 
-### Develop 1
+### Develop I
 * User testing (N=5)
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQB2XM7peNSuRbQRF3uczHEGATVunaRYGWqFntXtGxvA77w?e=lT3Gpn)
   * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQDQ9hDgR9cTTZiRgUtarAb1AdrubkvxJy0Hyxt71XbfLM4?e=uHcbuw)
@@ -113,16 +113,16 @@ Zo werd in elke fase gebruik gemaakt van een AI die spraak naar tekst convergeer
 
 ### Develop II
 * User testing (N=5)
-  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQCJKVDvwqKgTKK9RB0nfNk9AaBhyWzcBGy-J7qvPvt6oLU?e=MHySDJ)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQC0zx9CVL78SpjKY5UA-5loAbN_aFb7bocTbdqrQVW5oRU?e=E0FTL6)
   * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQBnZ75xSDf8TJpBHPW8dPKHAVxY7kzlbvRFUu8L-s8I4_s?e=ylBMON)
 
 ### Develop III
 * UX (N=5)
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQCE87OYLkPoSLeUEBKA8ZOGAW0-ACC2SsWIZ68aur9VZFU?e=Nuy6ka)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQD8igRDtaaSSI1ChPYGJ_cuAarO6yZDC9078CCVQc64zas?e=4nIaAE)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQD8igRDtaaSSI1ChPYGJ_cuAarO6yZDC9078CCVQc64zas?e=fAomgQ)
 * CMF (N=3)
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_verkimpe_ugent_be/IQA1UCCAJ_TgQaXbTxmlKouZAayj0iKGaSXlccNmrM6srS8?e=gLT4cX)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/sam_verkimpe_ugent_be/Documents/Academiejaar%202025-26/Project%20gebruiksgericht%20ontwerpen/Jaarproject/Semester%202/Develop%203/CMF/Rapport%20%20CMF%2002.pdf?csf=1&web=1&e=9KGT41)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQCc59gRmQsRSLWiW1mBbghMAdhwbeE4el2uZ555LbgcBAo?e=YNnDJK)
 ## Licentie 
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
