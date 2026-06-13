@@ -5,7 +5,7 @@ Met **ZUÏN** werd onderzocht hoe kinderen tussen 8 en 12 jaar een actieve rol k
 Het antwoord werd niet gezocht in een app met grafieken en cijfers, maar in een systeem dat verbruik speels, zichtbaar en betekenisvol maakt. Centraal staat een kinderhorloge dat overdag gewoon de tijd toont, maar thuis verandert in een interactieve interface die het energieverbruik in huis vertaalt naar een wereld die kinderen begrijpen. 
 
 
-Doorheen de **Double Diamond** (Discovery, Definition en drie Develop-waves) groeide ZUÏN van een ruw idee naar een onderbouwd concept. Een aantal kernkeuzes kwam daarbij telkens uit het gebruikersonderzoek zelf voort:
+Doorheen de **Tripel Diamond** (Discovery, Definition en drie Develop-waves) groeide ZUÏN van een ruw idee naar een onderbouwd concept. Een aantal kernkeuzes kwam daarbij telkens uit het gebruikersonderzoek zelf voort:
 
 
 - **Een betrouwbare vriend in plaats van een corrigerende app.** Uit de UX-tests bleek dat een betrouwbare vriend enorm stimuleert voor kinderen om hun gedrag aan te passen. Dat inzicht leidde rechtstreeks tot **Leaf**, de mascotte die als coach en vriend door de interface gidst.
