@@ -79,7 +79,7 @@ De handheld v2 maakt gebruik van een capacitief touchscreen dat geïntegreerd is
 Wanneer een kind op de knop van de hub duwt, wordt dit via een LVGL event callback (`LV_EVENT_CLICKED`) verwerkt en verdwijnt het vlammetje.
 
 <p align = "center">
-  <Img src="img/HANDHELD_V2.JPG" width='40%'>
+  <Img src="../img/HANDHELD_V2.JPG" width='40%'>
 
 ---
 
