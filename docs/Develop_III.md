@@ -266,3 +266,9 @@ Ring 3C springt er sterk uit: het hoogste gemiddelde (6,0/7) en de voorkeur van 
 | Tactiele ring | Ringprofiel 3C (gedoseerde weerstand) | Ring 3A (lichtere weerstand) |
 
 > **Beperking**: de steekproefgrootte (N=3) laat geen statistisch significante uitspraken toe. De resultaten zijn kwalitatief indicatief en dienen als input voor de volgende ontwerpiteratie. Een aanvullende kleurenronde is voorzien om de CMF-ervaring volledig te valideren.
+
+## Software
+
+Na de Develop III-fase werd er verder gewerkt aan het **coderen** en het **finaliseren van het horloge-ontwerp**. Het uiteindelijke ontwerp kan niet volledig voldoen aan alle eerder opgestelde design requirements: gezien de robuuste componenten waarmee gewerkt wordt, is dat in de praktijk vrijwel onmogelijk.
+
+Alle informatie omtrent de code en software is terug te vinden in de map [`src`](../src).
