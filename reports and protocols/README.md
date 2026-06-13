@@ -11,3 +11,15 @@ https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQAPNKS__
 
 > Wave 2
 https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQADbw74U30gT7gMr56cm77OAe_kV0e-7KhOQPfF_Z-tw8Q?e=HCqQGR
+
+> Develop 1
+https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQD9k-BffX-aQIavcwlOdjrhAdH2jZcr6UjFYpmeGBQgEiY?e=vTLxAN
+
+> Develop 2
+https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQBqSwbcpiZnT55kngxnXfUsAbf5lwGVfWPWU74wWhiMf0M?e=7Wa067
+
+> Develop 3 CMF
+https://ugentbe-my.sharepoint.com/:f:/g/personal/sam_verkimpe_ugent_be/IgBuqUqdRUW8RrnQVkLjHaExAfuNktqkUEnYtwmmRmrVQ3M?e=Pcaju3
+
+> Develop 3 UX & Service Design
+https://ugentbe-my.sharepoint.com/:b:/g/personal/sam_verkimpe_ugent_be/IQCiTZNXg3usT5MTotPeBanpAXTFOmKPnE4EyWpkqGUajcY?e=VcW0LX
